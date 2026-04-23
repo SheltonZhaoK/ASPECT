@@ -1,0 +1,4155 @@
+{
+  "breast_cancer": {
+    "general_stats": {
+      "n_trials_total": 694
+    },
+    "trials": {
+      "NCT03425656": {
+        "inclusion": {
+          "min age (years): 18.0": {
+            "rule_stats": {
+              "overall_frequency": 0.06051873198847262,
+              "n_trials": 42,
+              "enrollment_mean": 600.1190476190476,
+              "enrollment_std": 1152.507810721767,
+              "site_mean": 57.595238095238095,
+              "site_std": 104.65135136549769,
+              "recruitment_months_mean": 47.5874170699657,
+              "recruitment_months_std": 31.070002540988586,
+              "epsm_mean": 3.968251523361888,
+              "epsm_std": 7.861652355551991,
+              "start_date_mean": "2010-05-05",
+              "start_date_std_yrs": 5.6
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00670878",
+                "rule": "* Females \\>= 18 years of age",
+                "trial_stats": {
+                  "enrollment": 799.0,
+                  "site_count": 1,
+                  "start_date": "2008-06-01",
+                  "completion_date": "2011-10-01",
+                  "recruitment_days": 1217,
+                  "epsm": 19.98484798685292
+                }
+              },
+              {
+                "nct_id": "NCT01638247",
+                "rule": "4. Age ≥ 18 years.",
+                "trial_stats": {
+                  "enrollment": 56.0,
+                  "site_count": 1,
+                  "start_date": "2012-08-01",
+                  "completion_date": "2018-05-01",
+                  "recruitment_days": 2099,
+                  "epsm": 0.8121200571700811
+                }
+              },
+              {
+                "nct_id": "NCT00931008",
+                "rule": "* Is at least 18 years of age",
+                "trial_stats": {
+                  "enrollment": 42.0,
+                  "site_count": 4,
+                  "start_date": "2009-10-01",
+                  "completion_date": "2011-01-01",
+                  "recruitment_days": 457,
+                  "epsm": 0.6993873085339168
+                }
+              },
+              {
+                "nct_id": "NCT01942980",
+                "rule": "* Age \\> or equal 18 years old,",
+                "trial_stats": {
+                  "enrollment": 8.0,
+                  "site_count": 1,
+                  "start_date": "2013-03-01",
+                  "completion_date": "2016-03-22",
+                  "recruitment_days": 1117,
+                  "epsm": 0.21801253357206804
+                }
+              },
+              {
+                "nct_id": "NCT00281697",
+                "rule": "* ≥ 18 years of age.",
+                "trial_stats": {
+                  "enrollment": 684.0,
+                  "site_count": 0,
+                  "start_date": "2006-02-01",
+                  "completion_date": "2009-03-01",
+                  "recruitment_days": 1124,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00600340",
+                "rule": "2. Age ≥18 years.",
+                "trial_stats": {
+                  "enrollment": 564.0,
+                  "site_count": 55,
+                  "start_date": "2008-04-01",
+                  "completion_date": "2014-09-01",
+                  "recruitment_days": 2344,
+                  "epsm": 0.1331690971144896
+                }
+              },
+              {
+                "nct_id": "NCT01426880",
+                "rule": "* 8.Age ≥ 18 years.",
+                "trial_stats": {
+                  "enrollment": 595.0,
+                  "site_count": 3,
+                  "start_date": "2011-08-01",
+                  "completion_date": "2013-05-01",
+                  "recruitment_days": 639,
+                  "epsm": 9.447991653625458
+                }
+              },
+              {
+                "nct_id": "NCT04862585",
+                "rule": "* Age \\>= 18",
+                "trial_stats": {
+                  "enrollment": 129.0,
+                  "site_count": 1,
+                  "start_date": "2021-10-07",
+                  "completion_date": "2024-06-21",
+                  "recruitment_days": 988,
+                  "epsm": 3.974453441295547
+                }
+              },
+              {
+                "nct_id": "NCT01344967",
+                "rule": "5. Age \\>/= 18 years.",
+                "trial_stats": {
+                  "enrollment": 21.0,
+                  "site_count": 1,
+                  "start_date": "2009-02-01",
+                  "completion_date": "2011-08-01",
+                  "recruitment_days": 911,
+                  "epsm": 0.7016904500548848
+                }
+              },
+              {
+                "nct_id": "NCT02655965",
+                "rule": "1. Age ≥18 years old",
+                "trial_stats": {
+                  "enrollment": 54.0,
+                  "site_count": 1,
+                  "start_date": "2016-05-01",
+                  "completion_date": "2019-11-01",
+                  "recruitment_days": 1279,
+                  "epsm": 1.2851915559030493
+                }
+              },
+              {
+                "nct_id": "NCT00512993",
+                "rule": "* Age 18 years or older;",
+                "trial_stats": {
+                  "enrollment": 654.0,
+                  "site_count": 93,
+                  "start_date": "2004-12-01",
+                  "completion_date": "2013-11-01",
+                  "recruitment_days": 3257,
+                  "epsm": 0.06572365228242891
+                }
+              },
+              {
+                "nct_id": "NCT00054418",
+                "rule": "3. ≥ 18 years of age",
+                "trial_stats": {
+                  "enrollment": 216.0,
+                  "site_count": 199,
+                  "start_date": "2003-03-01",
+                  "completion_date": "2007-04-01",
+                  "recruitment_days": 1492,
+                  "epsm": 0.02214504156169588
+                }
+              },
+              {
+                "nct_id": "NCT01376349",
+                "rule": "1. Age ≥ 18 years",
+                "trial_stats": {
+                  "enrollment": 464.0,
+                  "site_count": 280,
+                  "start_date": "2011-07-01",
+                  "completion_date": "2013-08-01",
+                  "recruitment_days": 762,
+                  "epsm": 0.0661987251593551
+                }
+              },
+              {
+                "nct_id": "NCT01573442",
+                "rule": "1. Age ≥ 18 years",
+                "trial_stats": {
+                  "enrollment": 227.0,
+                  "site_count": 529,
+                  "start_date": "2013-09-10",
+                  "completion_date": "2018-02-28",
+                  "recruitment_days": 1632,
+                  "epsm": 0.008003771451869974
+                }
+              },
+              {
+                "nct_id": "NCT00365105",
+                "rule": "3. ≥ 18 years of age;",
+                "trial_stats": {
+                  "enrollment": 261.0,
+                  "site_count": 147,
+                  "start_date": "2006-07-11",
+                  "completion_date": "2012-01-01",
+                  "recruitment_days": 2000,
+                  "epsm": 0.027023265306122448
+                }
+              },
+              {
+                "nct_id": "NCT03462251",
+                "rule": "* Age ≥ 18 years.",
+                "trial_stats": {
+                  "enrollment": 41.0,
+                  "site_count": 27,
+                  "start_date": "2018-05-24",
+                  "completion_date": "2021-11-30",
+                  "recruitment_days": 1286,
+                  "epsm": 0.03594378204020506
+                }
+              },
+              {
+                "nct_id": "NCT01234337",
+                "rule": "* Age is \\>=18 years",
+                "trial_stats": {
+                  "enrollment": 537.0,
+                  "site_count": 153,
+                  "start_date": "2011-02-21",
+                  "completion_date": "2014-05-12",
+                  "recruitment_days": 1176,
+                  "epsm": 0.09084900626917433
+                }
+              },
+              {
+                "nct_id": "NCT02861859",
+                "rule": "* ≥18 years",
+                "trial_stats": {
+                  "enrollment": 221.0,
+                  "site_count": 1,
+                  "start_date": "2016-12-01",
+                  "completion_date": "2019-12-23",
+                  "recruitment_days": 1117,
+                  "epsm": 6.0225962399283794
+                }
+              },
+              {
+                "nct_id": "NCT00337103",
+                "rule": "4. Age \\>= 18 years.",
+                "trial_stats": {
+                  "enrollment": 1276.0,
+                  "site_count": 169,
+                  "start_date": "2006-09-20",
+                  "completion_date": "2012-03-12",
+                  "recruitment_days": 2000,
+                  "epsm": 0.11491550295857988
+                }
+              },
+              {
+                "nct_id": "NCT00388726",
+                "rule": "4. Age \\>= 18 years.",
+                "trial_stats": {
+                  "enrollment": 762.0,
+                  "site_count": 137,
+                  "start_date": "2006-11-01",
+                  "completion_date": "2009-05-01",
+                  "recruitment_days": 912,
+                  "epsm": 0.18564540914329622
+                }
+              },
+              {
+                "nct_id": "NCT01001728",
+                "rule": "* Age ≥18",
+                "trial_stats": {
+                  "enrollment": 25.0,
+                  "site_count": 1,
+                  "start_date": "2008-11-01",
+                  "completion_date": "2009-11-01",
+                  "recruitment_days": 365,
+                  "epsm": 2.0849315068493155
+                }
+              },
+              {
+                "nct_id": "NCT02794324",
+                "rule": "* Age ≥18",
+                "trial_stats": {
+                  "enrollment": 57.0,
+                  "site_count": 1,
+                  "start_date": "2012-02-01",
+                  "completion_date": "2014-05-01",
+                  "recruitment_days": 820,
+                  "epsm": 2.115951219512195
+                }
+              },
+              {
+                "nct_id": "NCT04822597",
+                "rule": "* greater than or equal to 18 years of age",
+                "trial_stats": {
+                  "enrollment": 167.0,
+                  "site_count": 1,
+                  "start_date": "2021-04-23",
+                  "completion_date": "2022-05-09",
+                  "recruitment_days": 381,
+                  "epsm": 13.34246719160105
+                }
+              },
+              {
+                "nct_id": "NCT01281904",
+                "rule": "* 18 years of age or older",
+                "trial_stats": {
+                  "enrollment": 288.0,
+                  "site_count": 1,
+                  "start_date": "2011-04-01",
+                  "completion_date": "2014-09-01",
+                  "recruitment_days": 1249,
+                  "epsm": 7.018991192954364
+                }
+              },
+              {
+                "nct_id": "NCT00035594",
+                "rule": "* 18 years of age or older",
+                "trial_stats": {
+                  "enrollment": 928.0,
+                  "site_count": 0,
+                  "start_date": "2002-02-01",
+                  "completion_date": "2004-02-01",
+                  "recruitment_days": 730,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT02058615",
+                "rule": "* 18 years of age or older",
+                "trial_stats": {
+                  "enrollment": 57.0,
+                  "site_count": 1,
+                  "start_date": "2014-03-01",
+                  "completion_date": "2015-07-01",
+                  "recruitment_days": 487,
+                  "epsm": 3.5627926078028747
+                }
+              },
+              {
+                "nct_id": "NCT00146549",
+                "rule": "* 18 years of age or older",
+                "trial_stats": {
+                  "enrollment": 250.0,
+                  "site_count": 2,
+                  "start_date": "2001-08-01",
+                  "completion_date": "2007-08-01",
+                  "recruitment_days": 2191,
+                  "epsm": 1.7366499315381108
+                }
+              },
+              {
+                "nct_id": "NCT01856543",
+                "rule": "* Age ≥18 years",
+                "trial_stats": {
+                  "enrollment": 143.0,
+                  "site_count": 6,
+                  "start_date": "2013-05-01",
+                  "completion_date": "2017-01-01",
+                  "recruitment_days": 1341,
+                  "epsm": 0.5410042257022123
+                }
+              },
+              {
+                "nct_id": "NCT03997188",
+                "rule": "* age ≥18 years",
+                "trial_stats": {
+                  "enrollment": 40.0,
+                  "site_count": 1,
+                  "start_date": "2015-12-21",
+                  "completion_date": "2017-11-14",
+                  "recruitment_days": 694,
+                  "epsm": 1.7544668587896255
+                }
+              },
+              {
+                "nct_id": "NCT01480869",
+                "rule": "* Age ≥18 years old",
+                "trial_stats": {
+                  "enrollment": 215.0,
+                  "site_count": 1,
+                  "start_date": "2011-07-01",
+                  "completion_date": "2014-12-01",
+                  "recruitment_days": 1249,
+                  "epsm": 5.2398718975180145
+                }
+              },
+              {
+                "nct_id": "NCT00003782",
+                "rule": "* greater than or equal to 18 years",
+                "trial_stats": {
+                  "enrollment": 5351.0,
+                  "site_count": 157,
+                  "start_date": "1999-03-01",
+                  "completion_date": "2008-12-01",
+                  "recruitment_days": 3563,
+                  "epsm": 0.29118173156164473
+                }
+              },
+              {
+                "nct_id": "NCT02408393",
+                "rule": "2. 18 years ≤ Age ≥ 85 years.",
+                "trial_stats": {
+                  "enrollment": 380.0,
+                  "site_count": 6,
+                  "start_date": "2015-03-27",
+                  "completion_date": "2018-07-01",
+                  "recruitment_days": 1192,
+                  "epsm": 1.617337807606264
+                }
+              },
+              {
+                "nct_id": "NCT02311543",
+                "rule": "* Age ≥ 18 years",
+                "trial_stats": {
+                  "enrollment": 142.0,
+                  "site_count": 16,
+                  "start_date": "2015-03-18",
+                  "completion_date": "2017-05-23",
+                  "recruitment_days": 797,
+                  "epsm": 0.33896486825595984
+                }
+              },
+              {
+                "nct_id": "NCT01331629",
+                "rule": "* Age ≥ 18 years",
+                "trial_stats": {
+                  "enrollment": 322.0,
+                  "site_count": 6,
+                  "start_date": "2010-07-01",
+                  "completion_date": "2015-05-01",
+                  "recruitment_days": 1765,
+                  "epsm": 0.9255599622285174
+                }
+              },
+              {
+                "nct_id": "NCT03794388",
+                "rule": "* Age ≥ 18 years",
+                "trial_stats": {
+                  "enrollment": 140.0,
+                  "site_count": 11,
+                  "start_date": "2019-03-19",
+                  "completion_date": "2022-11-18",
+                  "recruitment_days": 1340,
+                  "epsm": 0.28911804613297154
+                }
+              },
+              {
+                "nct_id": "NCT00003830",
+                "rule": "* 18 years and older",
+                "trial_stats": {
+                  "enrollment": 5611.0,
+                  "site_count": 78,
+                  "start_date": "1999-05-01",
+                  "completion_date": "2010-09-01",
+                  "recruitment_days": 4141,
+                  "epsm": 0.5287922525836074
+                }
+              },
+              {
+                "nct_id": "NCT00553358",
+                "rule": "* Age ≥18 years;",
+                "trial_stats": {
+                  "enrollment": 455.0,
+                  "site_count": 122,
+                  "start_date": "2008-01-05",
+                  "completion_date": "2010-05-27",
+                  "recruitment_days": 873,
+                  "epsm": 0.13004150000938913
+                }
+              },
+              {
+                "nct_id": "NCT00409071",
+                "rule": "* Age\\>= 18 years",
+                "trial_stats": {
+                  "enrollment": 431.0,
+                  "site_count": 1,
+                  "start_date": "2005-09-01",
+                  "completion_date": "2008-10-01",
+                  "recruitment_days": 1126,
+                  "epsm": 11.651545293072825
+                }
+              },
+              {
+                "nct_id": "NCT00115713",
+                "rule": "* 18+ years of age",
+                "trial_stats": {
+                  "enrollment": 240.0,
+                  "site_count": 3,
+                  "start_date": "2003-04-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT02125344",
+                "rule": "* Age \\>=18 years.",
+                "trial_stats": {
+                  "enrollment": 961.0,
+                  "site_count": 1,
+                  "start_date": "2014-12-01",
+                  "completion_date": "2016-11-01",
+                  "recruitment_days": 701,
+                  "epsm": 41.73015691868759
+                }
+              },
+              {
+                "nct_id": "NCT01583426",
+                "rule": "* Age \\>= 18 years.",
+                "trial_stats": {
+                  "enrollment": 1229.0,
+                  "site_count": 1,
+                  "start_date": "2012-07-01",
+                  "completion_date": "2018-12-01",
+                  "recruitment_days": 2344,
+                  "epsm": 15.960221843003414
+                }
+              },
+              {
+                "nct_id": "NCT00074152",
+                "rule": "* Minimum 18 years",
+                "trial_stats": {
+                  "enrollment": 162.0,
+                  "site_count": 199,
+                  "start_date": "2002-07-01",
+                  "completion_date": "2014-02-01",
+                  "recruitment_days": 4233,
+                  "epsm": 0.005854075480164821
+                }
+              }
+            ]
+          },
+          "max age (years): 70.0": {
+            "rule_stats": {
+              "overall_frequency": 0.007204610951008645,
+              "n_trials": 5,
+              "enrollment_mean": 910.0,
+              "enrollment_std": 901.8902372240206,
+              "site_mean": 22.2,
+              "site_std": 30.375977350531457,
+              "recruitment_months_mean": 85.09855453350853,
+              "recruitment_months_std": 26.61302521662212,
+              "epsm_mean": 1.2036647423842273,
+              "epsm_std": 1.3408137558279187,
+              "start_date_mean": "2002-05-29",
+              "start_date_std_yrs": 6.31
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00017095",
+                "rule": "* 70 and under",
+                "trial_stats": {
+                  "enrollment": 1856.0,
+                  "site_count": 39,
+                  "start_date": "2001-03-01",
+                  "completion_date": "2006-11-01",
+                  "recruitment_days": 2071,
+                  "epsm": 0.6994842080501182
+                }
+              },
+              {
+                "nct_id": "NCT00129389",
+                "rule": "* Age \\>= 18 and \\<= 70 years old.",
+                "trial_stats": {
+                  "enrollment": 1925.0,
+                  "site_count": 68,
+                  "start_date": "2003-09-19",
+                  "completion_date": "2013-10-01",
+                  "recruitment_days": 3665,
+                  "epsm": 0.23512157932750183
+                }
+              },
+              {
+                "nct_id": "NCT01413828",
+                "rule": "* Age \\>= 18 and \\<= 70 years old.",
+                "trial_stats": {
+                  "enrollment": 201.0,
+                  "site_count": 1,
+                  "start_date": "2011-05-01",
+                  "completion_date": "2016-08-01",
+                  "recruitment_days": 1919,
+                  "epsm": 3.1883480979676917
+                }
+              },
+              {
+                "nct_id": "NCT00309569",
+                "rule": "* Age: \\< 70 years",
+                "trial_stats": {
+                  "enrollment": 429.0,
+                  "site_count": 0,
+                  "start_date": "1991-10-01",
+                  "completion_date": "2000-09-01",
+                  "recruitment_days": 3258,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00540800",
+                "rule": "* Age \\< 70 years",
+                "trial_stats": {
+                  "enrollment": 139.0,
+                  "site_count": 3,
+                  "start_date": "2004-02-01",
+                  "completion_date": "2009-09-01",
+                  "recruitment_days": 2039,
+                  "epsm": 0.6917050841915973
+                }
+              }
+            ]
+          },
+          "the patient has a newly diagnosed stage iii (locally advanced) breast tumor or an inoperable stage ii breast tumor due to size larger than 5 cm or a high tumor to breast ratio: descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.001440922190201729,
+              "n_trials": 1,
+              "enrollment_mean": 108.0,
+              "enrollment_std": NaN,
+              "site_mean": 19.0,
+              "site_std": NaN,
+              "recruitment_months_mean": 19.87516425755585,
+              "recruitment_months_std": NaN,
+              "epsm_mean": 0.2859956502827316,
+              "epsm_std": NaN,
+              "start_date_mean": "2016-07-09",
+              "start_date_std_yrs": 0.0
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* Patients with newly diagnosed stage III (locally advanced) or inoperable stage II (due to sizes larger than 5 cm or high tumor to breast ratio) tumors are candidates for participation.",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              }
+            ]
+          },
+          "the patient has an ecog performance status of 0 or 1: descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.16570605187319884,
+              "n_trials": 115,
+              "enrollment_mean": 751.7368421052631,
+              "enrollment_std": 930.5894321326774,
+              "site_mean": 125.45217391304348,
+              "site_std": 206.55300681042053,
+              "recruitment_months_mean": 45.427825520681914,
+              "recruitment_months_std": 27.18408678719524,
+              "epsm_mean": 3.5629370590834686,
+              "epsm_std": 7.985127584017847,
+              "start_date_mean": "2012-05-24",
+              "start_date_std_yrs": 5.12
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00950300",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 596.0,
+                  "site_count": 167,
+                  "start_date": "2009-10-16",
+                  "completion_date": "2011-07-12",
+                  "recruitment_days": 634,
+                  "epsm": 0.17135042218402313
+                }
+              },
+              {
+                "nct_id": "NCT02028507",
+                "rule": "9. Eastern Cooperative Oncology Group (ECOG) Performance Status minor or equal to 1.",
+                "trial_stats": {
+                  "enrollment": 693.0,
+                  "site_count": 37,
+                  "start_date": "2014-03-13",
+                  "completion_date": "2019-01-14",
+                  "recruitment_days": 1768,
+                  "epsm": 0.3224734010028128
+                }
+              },
+              {
+                "nct_id": "NCT00670878",
+                "rule": "* Performance Status \\<2 on ECOG-Scale",
+                "trial_stats": {
+                  "enrollment": 799.0,
+                  "site_count": 1,
+                  "start_date": "2008-06-01",
+                  "completion_date": "2011-10-01",
+                  "recruitment_days": 1217,
+                  "epsm": 19.98484798685292
+                }
+              },
+              {
+                "nct_id": "NCT00128310",
+                "rule": "* Performance status \\< 2 in World Health Organization (WHO) scale.",
+                "trial_stats": {
+                  "enrollment": 252.0,
+                  "site_count": 2,
+                  "start_date": "2001-01-18",
+                  "completion_date": "2006-08-15",
+                  "recruitment_days": 2035,
+                  "epsm": 1.884737100737101
+                }
+              },
+              {
+                "nct_id": "NCT02001506",
+                "rule": "* Performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 250.0,
+                  "site_count": 1,
+                  "start_date": "2012-11-01",
+                  "completion_date": "2015-12-01",
+                  "recruitment_days": 1125,
+                  "epsm": 6.764444444444444
+                }
+              },
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* ECOG status of 0-1",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              },
+              {
+                "nct_id": "NCT04629846",
+                "rule": "4. Eastern Cooperative Oncology Group Performance Status equal to or less than (\\<=) 1.",
+                "trial_stats": {
+                  "enrollment": 517.0,
+                  "site_count": 2,
+                  "start_date": "2020-11-23",
+                  "completion_date": "2022-08-22",
+                  "recruitment_days": 637,
+                  "epsm": 12.352810047095762
+                }
+              },
+              {
+                "nct_id": "NCT03462251",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.",
+                "trial_stats": {
+                  "enrollment": 41.0,
+                  "site_count": 27,
+                  "start_date": "2018-05-24",
+                  "completion_date": "2021-11-30",
+                  "recruitment_days": 1286,
+                  "epsm": 0.03594378204020506
+                }
+              },
+              {
+                "nct_id": "NCT00963729",
+                "rule": "* WHO performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 756.0,
+                  "site_count": 5,
+                  "start_date": "2008-09-01",
+                  "completion_date": "2010-03-01",
+                  "recruitment_days": 546,
+                  "epsm": 8.429538461538462
+                }
+              },
+              {
+                "nct_id": "NCT03084237",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.",
+                "trial_stats": {
+                  "enrollment": 652.0,
+                  "site_count": 88,
+                  "start_date": "2016-11-01",
+                  "completion_date": "2018-11-23",
+                  "recruitment_days": 752,
+                  "epsm": 0.2999105415860735
+                }
+              },
+              {
+                "nct_id": "NCT00333775",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.",
+                "trial_stats": {
+                  "enrollment": 736.0,
+                  "site_count": 114,
+                  "start_date": "2006-03-01",
+                  "completion_date": "2007-10-01",
+                  "recruitment_days": 579,
+                  "epsm": 0.3394212647335091
+                }
+              },
+              {
+                "nct_id": "NCT00540800",
+                "rule": "* ECOG performance status \\< 2",
+                "trial_stats": {
+                  "enrollment": 139.0,
+                  "site_count": 3,
+                  "start_date": "2004-02-01",
+                  "completion_date": "2009-09-01",
+                  "recruitment_days": 2039,
+                  "epsm": 0.6917050841915973
+                }
+              },
+              {
+                "nct_id": "NCT02214381",
+                "rule": "* Performance Status ECOG \\<= 1 or KI \\>= 80%",
+                "trial_stats": {
+                  "enrollment": 80.0,
+                  "site_count": 2,
+                  "start_date": "2014-07-01",
+                  "completion_date": "2015-10-01",
+                  "recruitment_days": 457,
+                  "epsm": 2.664332603938731
+                }
+              },
+              {
+                "nct_id": "NCT01781338",
+                "rule": "* Performance Status ECOG \\<= 1 or KI \\>= 80%",
+                "trial_stats": {
+                  "enrollment": 4936.0,
+                  "site_count": 2,
+                  "start_date": "2012-05-01",
+                  "completion_date": "2020-09-01",
+                  "recruitment_days": 3045,
+                  "epsm": 24.671894909688014
+                }
+              },
+              {
+                "nct_id": "NCT01779206",
+                "rule": "* Performance Status ECOG \\<= 1 or KI \\>= 80%",
+                "trial_stats": {
+                  "enrollment": 4936.0,
+                  "site_count": 2,
+                  "start_date": "2012-05-01",
+                  "completion_date": "2019-09-01",
+                  "recruitment_days": 2679,
+                  "epsm": 28.0425233296006
+                }
+              },
+              {
+                "nct_id": "NCT00776724",
+                "rule": "* Performance status of ECOG 0, 1,",
+                "trial_stats": {
+                  "enrollment": 166.0,
+                  "site_count": 1,
+                  "start_date": "2008-05-29",
+                  "completion_date": "2014-11-30",
+                  "recruitment_days": 2376,
+                  "epsm": 2.126700336700337
+                }
+              },
+              {
+                "nct_id": "NCT00493870",
+                "rule": "* Has an ECOG Performance Status (PS) 0-1",
+                "trial_stats": {
+                  "enrollment": 1961.0,
+                  "site_count": 95,
+                  "start_date": "2007-05-29",
+                  "completion_date": "2015-05-31",
+                  "recruitment_days": 2924,
+                  "epsm": 0.21489250485996114
+                }
+              },
+              {
+                "nct_id": "NCT01881230",
+                "rule": "12. Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 191.0,
+                  "site_count": 140,
+                  "start_date": "2013-09-26",
+                  "completion_date": "2016-10-28",
+                  "recruitment_days": 1128,
+                  "epsm": 0.03681636271529889
+                }
+              },
+              {
+                "nct_id": "NCT02819518",
+                "rule": "* Has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, as assessed within 10 days prior to the start of study drug.",
+                "trial_stats": {
+                  "enrollment": 882.0,
+                  "site_count": 0,
+                  "start_date": "2016-07-27",
+                  "completion_date": "2021-06-15",
+                  "recruitment_days": 1784,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00374322",
+                "rule": "* Have an Eastern Cooperative Oncology Group Performance Status of 0 to 1;",
+                "trial_stats": {
+                  "enrollment": 3166.0,
+                  "site_count": 439,
+                  "start_date": "2006-08-01",
+                  "completion_date": "2011-09-01",
+                  "recruitment_days": 1857,
+                  "epsm": 0.1182167824018704
+                }
+              },
+              {
+                "nct_id": "NCT01376349",
+                "rule": "8. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 464.0,
+                  "site_count": 280,
+                  "start_date": "2011-07-01",
+                  "completion_date": "2013-08-01",
+                  "recruitment_days": 762,
+                  "epsm": 0.0661987251593551
+                }
+              },
+              {
+                "nct_id": "NCT01611051",
+                "rule": "* ECOG performance status ≤ 1",
+                "trial_stats": {
+                  "enrollment": 330.0,
+                  "site_count": 1,
+                  "start_date": "2012-03-01",
+                  "completion_date": "2013-01-01",
+                  "recruitment_days": 306,
+                  "epsm": 32.82745098039216
+                }
+              },
+              {
+                "nct_id": "NCT01864746",
+                "rule": "14. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 1250.0,
+                  "site_count": 11,
+                  "start_date": "2013-10-30",
+                  "completion_date": "2020-08-24",
+                  "recruitment_days": 2490,
+                  "epsm": 1.389193136181088
+                }
+              },
+              {
+                "nct_id": "NCT02586025",
+                "rule": "* Eastern Cooperative Oncology Group Performance Status equal to or less than (\\<=) 1",
+                "trial_stats": {
+                  "enrollment": 329.0,
+                  "site_count": 28,
+                  "start_date": "2016-03-14",
+                  "completion_date": "2017-10-23",
+                  "recruitment_days": 588,
+                  "epsm": 0.6082823129251701
+                }
+              },
+              {
+                "nct_id": "NCT00789581",
+                "rule": "9. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 614.0,
+                  "site_count": 70,
+                  "start_date": "2008-12-01",
+                  "completion_date": "2015-12-01",
+                  "recruitment_days": 2556,
+                  "epsm": 0.10446098815112902
+                }
+              },
+              {
+                "nct_id": "NCT02574455",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance score of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 529.0,
+                  "site_count": 230,
+                  "start_date": "2017-11-07",
+                  "completion_date": "2020-03-30",
+                  "recruitment_days": 874,
+                  "epsm": 0.08010526315789473
+                }
+              },
+              {
+                "nct_id": "NCT04177108",
+                "rule": "5. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 242.0,
+                  "site_count": 266,
+                  "start_date": "2019-11-25",
+                  "completion_date": "2023-02-28",
+                  "recruitment_days": 1191,
+                  "epsm": 0.02325233739259989
+                }
+              },
+              {
+                "nct_id": "NCT03969121",
+                "rule": "7. Eastern Cooperative Oncology Group Performance Status (ECOG PS) ≤ 1",
+                "trial_stats": {
+                  "enrollment": 141.0,
+                  "site_count": 25,
+                  "start_date": "2019-07-16",
+                  "completion_date": "2021-12-23",
+                  "recruitment_days": 891,
+                  "epsm": 0.1926841750841751
+                }
+              },
+              {
+                "nct_id": "NCT04109066",
+                "rule": "* Must have an Eastern Cooperative Oncology Group (ECOG) scale performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 521.0,
+                  "site_count": 240,
+                  "start_date": "2019-11-18",
+                  "completion_date": "2023-01-16",
+                  "recruitment_days": 1155,
+                  "epsm": 0.05721226551226551
+                }
+              },
+              {
+                "nct_id": "NCT05283837",
+                "rule": "5. Eastern Co-operative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 268.0,
+                  "site_count": 1,
+                  "start_date": "2022-09-26",
+                  "completion_date": "2023-09-06",
+                  "recruitment_days": 345,
+                  "epsm": 23.646144927536234
+                }
+              },
+              {
+                "nct_id": "NCT02040935",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 128.0,
+                  "site_count": 21,
+                  "start_date": "2014-02-21",
+                  "completion_date": "2018-09-14",
+                  "recruitment_days": 1666,
+                  "epsm": 0.11136797576173325
+                }
+              },
+              {
+                "nct_id": "NCT01926886",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 102.0,
+                  "site_count": 32,
+                  "start_date": "2013-11-19",
+                  "completion_date": "2015-09-04",
+                  "recruitment_days": 654,
+                  "epsm": 0.1483600917431193
+                }
+              },
+              {
+                "nct_id": "NCT01964391",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 174.0,
+                  "site_count": 36,
+                  "start_date": "2014-02-21",
+                  "completion_date": "2016-12-22",
+                  "recruitment_days": 1035,
+                  "epsm": 0.1421513687600644
+                }
+              },
+              {
+                "nct_id": "NCT01940497",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 240.0,
+                  "site_count": 104,
+                  "start_date": "2013-11-15",
+                  "completion_date": "2016-04-05",
+                  "recruitment_days": 872,
+                  "epsm": 0.08055751587861679
+                }
+              },
+              {
+                "nct_id": "NCT00702949",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 207.0,
+                  "site_count": 209,
+                  "start_date": "2008-06-01",
+                  "completion_date": "2010-02-01",
+                  "recruitment_days": 610,
+                  "epsm": 0.049424111695034904
+                }
+              },
+              {
+                "nct_id": "NCT01049425",
+                "rule": "* Performance Status ECOG \\< or = 1 or KI \\> or = 80 %",
+                "trial_stats": {
+                  "enrollment": 3198.0,
+                  "site_count": 1,
+                  "start_date": "2009-02-05",
+                  "completion_date": "2017-03-01",
+                  "recruitment_days": 2946,
+                  "epsm": 33.04382892057027
+                }
+              },
+              {
+                "nct_id": "NCT00054418",
+                "rule": "4. ECOG performance status (PS) 0 or 1",
+                "trial_stats": {
+                  "enrollment": 216.0,
+                  "site_count": 199,
+                  "start_date": "2003-03-01",
+                  "completion_date": "2007-04-01",
+                  "recruitment_days": 1492,
+                  "epsm": 0.02214504156169588
+                }
+              },
+              {
+                "nct_id": "NCT04957212",
+                "rule": "* Performance status ECOG ≤ 1",
+                "trial_stats": {
+                  "enrollment": 214.0,
+                  "site_count": 44,
+                  "start_date": "2018-08-11",
+                  "completion_date": "2020-05-27",
+                  "recruitment_days": 655,
+                  "epsm": 0.22602914642609298
+                }
+              },
+              {
+                "nct_id": "NCT02032277",
+                "rule": "4. ECOG Performance status of 0 to 1.",
+                "trial_stats": {
+                  "enrollment": 634.0,
+                  "site_count": 158,
+                  "start_date": "2014-04-02",
+                  "completion_date": "2016-03-18",
+                  "recruitment_days": 716,
+                  "epsm": 0.17059401739622376
+                }
+              },
+              {
+                "nct_id": "NCT01875367",
+                "rule": "* Adequate performance status: Eastern Cooperative Oncology Group (ECOG) \\<2.",
+                "trial_stats": {
+                  "enrollment": 166.0,
+                  "site_count": 27,
+                  "start_date": "2013-09-18",
+                  "completion_date": "2016-11-30",
+                  "recruitment_days": 1169,
+                  "epsm": 0.1600937806925831
+                }
+              },
+              {
+                "nct_id": "NCT04031703",
+                "rule": "3. Has an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;",
+                "trial_stats": {
+                  "enrollment": 647.0,
+                  "site_count": 0,
+                  "start_date": "2011-01-01",
+                  "completion_date": "2016-04-20",
+                  "recruitment_days": 1936,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00513292",
+                "rule": "* ECOG performance status of 0 -1",
+                "trial_stats": {
+                  "enrollment": 280.0,
+                  "site_count": 115,
+                  "start_date": "2007-07-01",
+                  "completion_date": "2012-06-01",
+                  "recruitment_days": 1797,
+                  "epsm": 0.0412436185913721
+                }
+              },
+              {
+                "nct_id": "NCT01950182",
+                "rule": "2. Patients with an Eastern Cooperative Oncology Group (ECOG) score of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 392.0,
+                  "site_count": 1,
+                  "start_date": "2013-09-16",
+                  "completion_date": "2020-05-31",
+                  "recruitment_days": 2449,
+                  "epsm": 4.872388730093916
+                }
+              },
+              {
+                "nct_id": "NCT00553358",
+                "rule": "* Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1",
+                "trial_stats": {
+                  "enrollment": 455.0,
+                  "site_count": 122,
+                  "start_date": "2008-01-05",
+                  "completion_date": "2010-05-27",
+                  "recruitment_days": 873,
+                  "epsm": 0.13004150000938913
+                }
+              },
+              {
+                "nct_id": "NCT02620280",
+                "rule": "6. ECOG performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 278.0,
+                  "site_count": 41,
+                  "start_date": "2016-04-01",
+                  "completion_date": "2024-01-01",
+                  "recruitment_days": 2831,
+                  "epsm": 0.0729064107313627
+                }
+              },
+              {
+                "nct_id": "NCT00281658",
+                "rule": "* ECOG Performance Status of 0 to 1;",
+                "trial_stats": {
+                  "enrollment": 444.0,
+                  "site_count": 54,
+                  "start_date": "2006-01-02",
+                  "completion_date": "2010-06-18",
+                  "recruitment_days": 1628,
+                  "epsm": 0.15373737373737373
+                }
+              },
+              {
+                "nct_id": "NCT02467868",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1",
+                "trial_stats": {
+                  "enrollment": 193.0,
+                  "site_count": 36,
+                  "start_date": "2015-03-01",
+                  "completion_date": "2015-09-01",
+                  "recruitment_days": 184,
+                  "epsm": 0.8869142512077294
+                }
+              },
+              {
+                "nct_id": "NCT02961790",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status (PS) = 0, 1",
+                "trial_stats": {
+                  "enrollment": 150.0,
+                  "site_count": 13,
+                  "start_date": "2016-12-09",
+                  "completion_date": "2018-04-27",
+                  "recruitment_days": 504,
+                  "epsm": 0.6968864468864469
+                }
+              },
+              {
+                "nct_id": "NCT02896855",
+                "rule": "* Eastern Cooperative Oncology Group Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 243.0,
+                  "site_count": 18,
+                  "start_date": "2016-09-13",
+                  "completion_date": "2018-06-27",
+                  "recruitment_days": 652,
+                  "epsm": 0.6302760736196319
+                }
+              },
+              {
+                "nct_id": "NCT03726879",
+                "rule": "* Eastern Cooperative Oncology Group Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 454.0,
+                  "site_count": 117,
+                  "start_date": "2019-01-11",
+                  "completion_date": "2021-02-05",
+                  "recruitment_days": 756,
+                  "epsm": 0.15624022068466514
+                }
+              },
+              {
+                "nct_id": "NCT03125902",
+                "rule": "* Eastern Cooperative Oncology Group performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 653.0,
+                  "site_count": 234,
+                  "start_date": "2017-08-25",
+                  "completion_date": "2019-11-15",
+                  "recruitment_days": 812,
+                  "epsm": 0.10461306892341375
+                }
+              },
+              {
+                "nct_id": "NCT02425891",
+                "rule": "* Eastern Cooperative Oncology Group performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 902.0,
+                  "site_count": 325,
+                  "start_date": "2015-06-23",
+                  "completion_date": "2020-04-14",
+                  "recruitment_days": 1757,
+                  "epsm": 0.04808349897114838
+                }
+              },
+              {
+                "nct_id": "NCT02149524",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1",
+                "trial_stats": {
+                  "enrollment": 875.0,
+                  "site_count": 1,
+                  "start_date": "2014-04-01",
+                  "completion_date": "2016-03-01",
+                  "recruitment_days": 700,
+                  "epsm": 38.050000000000004
+                }
+              },
+              {
+                "nct_id": "NCT03686215",
+                "rule": "* Subjects with Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 406.0,
+                  "site_count": 14,
+                  "start_date": "2019-11-04",
+                  "completion_date": "2021-12-09",
+                  "recruitment_days": 766,
+                  "epsm": 1.1524281984334206
+                }
+              },
+              {
+                "nct_id": "NCT04127019",
+                "rule": "* Performance Status ECOG \\< or = 1",
+                "trial_stats": {
+                  "enrollment": 2079.0,
+                  "site_count": 0,
+                  "start_date": "2010-06-01",
+                  "completion_date": "2017-06-01",
+                  "recruitment_days": 2557,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT01314833",
+                "rule": "* Performance Status ECOG \\< or = 1",
+                "trial_stats": {
+                  "enrollment": 1570.0,
+                  "site_count": 1,
+                  "start_date": "2010-06-01",
+                  "completion_date": "2017-06-01",
+                  "recruitment_days": 2557,
+                  "epsm": 18.69018380915135
+                }
+              },
+              {
+                "nct_id": "NCT04613674",
+                "rule": "* ECOG Performance Status of 0-1.",
+                "trial_stats": {
+                  "enrollment": 441.0,
+                  "site_count": 1,
+                  "start_date": "2020-12-09",
+                  "completion_date": "2023-09-14",
+                  "recruitment_days": 1009,
+                  "epsm": 13.30430128840436
+                }
+              },
+              {
+                "nct_id": "NCT00089661",
+                "rule": "* ECOG Performance status 0 and 1",
+                "trial_stats": {
+                  "enrollment": 252.0,
+                  "site_count": 0,
+                  "start_date": "2004-10-01",
+                  "completion_date": "2007-05-11",
+                  "recruitment_days": 952,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT03493854",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) Performance Status ≤1",
+                "trial_stats": {
+                  "enrollment": 500.0,
+                  "site_count": 141,
+                  "start_date": "2018-06-14",
+                  "completion_date": "2019-07-04",
+                  "recruitment_days": 385,
+                  "epsm": 0.2803721101593442
+                }
+              },
+              {
+                "nct_id": "NCT01026116",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 521.0,
+                  "site_count": 1,
+                  "start_date": "2009-12-01",
+                  "completion_date": "2016-01-01",
+                  "recruitment_days": 2222,
+                  "epsm": 7.137371737173718
+                }
+              },
+              {
+                "nct_id": "NCT00668616",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 1034.0,
+                  "site_count": 1,
+                  "start_date": "2000-03-01",
+                  "completion_date": "2005-07-01",
+                  "recruitment_days": 1948,
+                  "epsm": 16.157577002053387
+                }
+              },
+              {
+                "nct_id": "NCT00902330",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 161.0,
+                  "site_count": 0,
+                  "start_date": "2009-04-01",
+                  "completion_date": "2013-05-01",
+                  "recruitment_days": 1491,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00363909",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 254.0,
+                  "site_count": 198,
+                  "start_date": "2006-11-01",
+                  "completion_date": "2007-06-01",
+                  "recruitment_days": 212,
+                  "epsm": 0.1841947779683629
+                }
+              },
+              {
+                "nct_id": "NCT00630032",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 762.0,
+                  "site_count": 86,
+                  "start_date": "2007-09-01",
+                  "completion_date": "2017-06-01",
+                  "recruitment_days": 3561,
+                  "epsm": 0.0757406790619306
+                }
+              },
+              {
+                "nct_id": "NCT00956813",
+                "rule": "* ECOG performance status 0-1",
+                "trial_stats": {
+                  "enrollment": 210.0,
+                  "site_count": 107,
+                  "start_date": "2009-10-01",
+                  "completion_date": "2010-10-01",
+                  "recruitment_days": 365,
+                  "epsm": 0.163676865958264
+                }
+              },
+              {
+                "nct_id": "NCT02555657",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 within 10 days prior to study start",
+                "trial_stats": {
+                  "enrollment": 622.0,
+                  "site_count": 0,
+                  "start_date": "2015-10-13",
+                  "completion_date": "2019-04-11",
+                  "recruitment_days": 1276,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00938652",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1;",
+                "trial_stats": {
+                  "enrollment": 519.0,
+                  "site_count": 102,
+                  "start_date": "2009-07-01",
+                  "completion_date": "2011-01-01",
+                  "recruitment_days": 549,
+                  "epsm": 0.2821236472731169
+                }
+              },
+              {
+                "nct_id": "NCT00769379",
+                "rule": "* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 (0 = fully active, able to carry on all pre-disease performance without restriction; 1 = restricted in physically strenuous activity but ambulatory)",
+                "trial_stats": {
+                  "enrollment": 2014.0,
+                  "site_count": 1260,
+                  "start_date": "2008-12-10",
+                  "completion_date": "2019-12-31",
+                  "recruitment_days": 4038,
+                  "epsm": 0.012049450851828267
+                }
+              },
+              {
+                "nct_id": "NCT00567190",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1",
+                "trial_stats": {
+                  "enrollment": 808.0,
+                  "site_count": 451,
+                  "start_date": "2008-02-12",
+                  "completion_date": "2011-05-13",
+                  "recruitment_days": 1186,
+                  "epsm": 0.0459827327692256
+                }
+              },
+              {
+                "nct_id": "NCT01822314",
+                "rule": "* ECOG performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 632.0,
+                  "site_count": 67,
+                  "start_date": "2013-04-01",
+                  "completion_date": "2016-09-01",
+                  "recruitment_days": 1249,
+                  "epsm": 0.22989233177586849
+                }
+              },
+              {
+                "nct_id": "NCT00639366",
+                "rule": "* ECOG performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 390.0,
+                  "site_count": 19,
+                  "start_date": "2007-02-01",
+                  "completion_date": "2010-02-01",
+                  "recruitment_days": 1096,
+                  "epsm": 0.5700922013061852
+                }
+              },
+              {
+                "nct_id": "NCT00281697",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 684.0,
+                  "site_count": 0,
+                  "start_date": "2006-02-01",
+                  "completion_date": "2009-03-01",
+                  "recruitment_days": 1124,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT02468739",
+                "rule": "* Patients with ECOG score ≤ 1;",
+                "trial_stats": {
+                  "enrollment": 206.0,
+                  "site_count": 1,
+                  "start_date": "2015-05-01",
+                  "completion_date": "2016-11-01",
+                  "recruitment_days": 550,
+                  "epsm": 11.401163636363638
+                }
+              },
+              {
+                "nct_id": "NCT02915744",
+                "rule": "* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 178.0,
+                  "site_count": 56,
+                  "start_date": "2016-11-01",
+                  "completion_date": "2020-07-01",
+                  "recruitment_days": 1338,
+                  "epsm": 0.07231368780696135
+                }
+              },
+              {
+                "nct_id": "NCT01856543",
+                "rule": "* ECOG Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 143.0,
+                  "site_count": 6,
+                  "start_date": "2013-05-01",
+                  "completion_date": "2017-01-01",
+                  "recruitment_days": 1341,
+                  "epsm": 0.5410042257022123
+                }
+              },
+              {
+                "nct_id": "NCT00109239",
+                "rule": "* ECOG performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 0,
+                  "start_date": "2000-11-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT01663727",
+                "rule": "* ECOG performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 481.0,
+                  "site_count": 202,
+                  "start_date": "2012-08-27",
+                  "completion_date": "2014-11-30",
+                  "recruitment_days": 825,
+                  "epsm": 0.08785862586258626
+                }
+              },
+              {
+                "nct_id": "NCT00078572",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 408.0,
+                  "site_count": 0,
+                  "start_date": "2004-03-01",
+                  "completion_date": "2006-04-01",
+                  "recruitment_days": 761,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT03403712",
+                "rule": "6. ECOG Performance Status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 404.0,
+                  "site_count": 40,
+                  "start_date": "2018-03-16",
+                  "completion_date": "2018-09-19",
+                  "recruitment_days": 187,
+                  "epsm": 1.6440855614973262
+                }
+              },
+              {
+                "nct_id": "NCT01275677",
+                "rule": "* Eastern Cooperation Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 3270.0,
+                  "site_count": 1283,
+                  "start_date": "2011-02-08",
+                  "completion_date": "2017-07-31",
+                  "recruitment_days": 2365,
+                  "epsm": 0.03280458887484572
+                }
+              },
+              {
+                "nct_id": "NCT01526369",
+                "rule": "3. ECOG Performance Status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 75.0,
+                  "site_count": 35,
+                  "start_date": "2012-02-13",
+                  "completion_date": "2015-11-01",
+                  "recruitment_days": 1357,
+                  "epsm": 0.04806821770712706
+                }
+              },
+              {
+                "nct_id": "NCT02594371",
+                "rule": "8. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 402.0,
+                  "site_count": 45,
+                  "start_date": "2015-12-02",
+                  "completion_date": "2019-07-25",
+                  "recruitment_days": 1331,
+                  "epsm": 0.20430553468569998
+                }
+              },
+              {
+                "nct_id": "NCT00152191",
+                "rule": "* Performance status 0 or 1 (ECOG)",
+                "trial_stats": {
+                  "enrollment": 1300.0,
+                  "site_count": 1,
+                  "start_date": "1996-10-01",
+                  "completion_date": "2007-10-01",
+                  "recruitment_days": 4017,
+                  "epsm": 9.851132686084142
+                }
+              },
+              {
+                "nct_id": "NCT04799249",
+                "rule": "7. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 194.0,
+                  "site_count": 71,
+                  "start_date": "2021-05-14",
+                  "completion_date": "2024-05-24",
+                  "recruitment_days": 1106,
+                  "epsm": 0.0752026080533836
+                }
+              },
+              {
+                "nct_id": "NCT01026142",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 452.0,
+                  "site_count": 318,
+                  "start_date": "2010-01-26",
+                  "completion_date": "2015-05-29",
+                  "recruitment_days": 1949,
+                  "epsm": 0.022199547582859778
+                }
+              },
+              {
+                "nct_id": "NCT01772472",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 1486.0,
+                  "site_count": 268,
+                  "start_date": "2013-04-03",
+                  "completion_date": "2018-07-25",
+                  "recruitment_days": 1939,
+                  "epsm": 0.08704640798072556
+                }
+              },
+              {
+                "nct_id": "NCT02402712",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 418.0,
+                  "site_count": 125,
+                  "start_date": "2015-05-06",
+                  "completion_date": "2019-02-22",
+                  "recruitment_days": 1388,
+                  "epsm": 0.07333671469740634
+                }
+              },
+              {
+                "nct_id": "NCT01120184",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 1095.0,
+                  "site_count": 405,
+                  "start_date": "2010-07-31",
+                  "completion_date": "2014-09-30",
+                  "recruitment_days": 1522,
+                  "epsm": 0.05407407407407407
+                }
+              },
+              {
+                "nct_id": "NCT01566721",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 2577.0,
+                  "site_count": 707,
+                  "start_date": "2012-05-17",
+                  "completion_date": "2015-03-10",
+                  "recruitment_days": 1027,
+                  "epsm": 0.10803617738321335
+                }
+              },
+              {
+                "nct_id": "NCT02194166",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 90.0,
+                  "site_count": 10,
+                  "start_date": "2014-07-18",
+                  "completion_date": "2018-07-12",
+                  "recruitment_days": 1455,
+                  "epsm": 0.18828865979381443
+                }
+              },
+              {
+                "nct_id": "NCT00373256",
+                "rule": "* ECOG (Eastern Cooperative Oncology Group) performance status 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 488.0,
+                  "site_count": 250,
+                  "start_date": "2006-11-01",
+                  "completion_date": "2009-06-01",
+                  "recruitment_days": 943,
+                  "epsm": 0.06301047720042419
+                }
+              },
+              {
+                "nct_id": "NCT05555706",
+                "rule": "4. ECOG performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 62.0,
+                  "site_count": 13,
+                  "start_date": "2022-12-06",
+                  "completion_date": "2024-09-30",
+                  "recruitment_days": 664,
+                  "epsm": 0.21863762743280815
+                }
+              },
+              {
+                "nct_id": "NCT01084876",
+                "rule": "* Have Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 475.0,
+                  "site_count": 1,
+                  "start_date": "2010-06-01",
+                  "completion_date": "2012-07-01",
+                  "recruitment_days": 761,
+                  "epsm": 19.0
+                }
+              },
+              {
+                "nct_id": "NCT00929240",
+                "rule": "* ECOG performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 287.0,
+                  "site_count": 63,
+                  "start_date": "2009-07-01",
+                  "completion_date": "2014-06-01",
+                  "recruitment_days": 1796,
+                  "epsm": 0.07721108636476119
+                }
+              },
+              {
+                "nct_id": "NCT03556358",
+                "rule": "* ECOG performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 809.0,
+                  "site_count": 146,
+                  "start_date": "2018-06-28",
+                  "completion_date": "2020-11-27",
+                  "recruitment_days": 883,
+                  "epsm": 0.1910203385097504
+                }
+              },
+              {
+                "nct_id": "NCT00073528",
+                "rule": "5. ECOG Performance Status of 0 or 1;",
+                "trial_stats": {
+                  "enrollment": 1286.0,
+                  "site_count": 278,
+                  "start_date": "2003-12-09",
+                  "completion_date": "2008-06-03",
+                  "recruitment_days": 1638,
+                  "epsm": 0.08596604035452957
+                }
+              },
+              {
+                "nct_id": "NCT01966471",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (\\</=) 1",
+                "trial_stats": {
+                  "enrollment": 1846.0,
+                  "site_count": 460,
+                  "start_date": "2014-01-31",
+                  "completion_date": "2019-11-27",
+                  "recruitment_days": 2126,
+                  "epsm": 0.05745862816475112
+                }
+              },
+              {
+                "nct_id": "NCT01358877",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (\\</=) 1",
+                "trial_stats": {
+                  "enrollment": 4804.0,
+                  "site_count": 552,
+                  "start_date": "2011-11-08",
+                  "completion_date": "2016-12-19",
+                  "recruitment_days": 1868,
+                  "epsm": 0.14181811128696892
+                }
+              },
+              {
+                "nct_id": "NCT00187343",
+                "rule": "* Having a ECOG performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 340.0,
+                  "site_count": 2,
+                  "start_date": "2003-09-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT03989037",
+                "rule": "* Patients with performance status score of 0 or 1 by the US Eastern Cooperative Oncology Group (ECOG);",
+                "trial_stats": {
+                  "enrollment": 580.0,
+                  "site_count": 1,
+                  "start_date": "2019-06-27",
+                  "completion_date": "2023-04-26",
+                  "recruitment_days": 1399,
+                  "epsm": 12.619871336669048
+                }
+              },
+              {
+                "nct_id": "NCT00887536",
+                "rule": "* The patient must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 1613.0,
+                  "site_count": 533,
+                  "start_date": "2009-05-01",
+                  "completion_date": "2018-02-01",
+                  "recruitment_days": 3198,
+                  "epsm": 0.028805362638703598
+                }
+              },
+              {
+                "nct_id": "NCT03197935",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 333.0,
+                  "site_count": 86,
+                  "start_date": "2017-07-24",
+                  "completion_date": "2020-04-03",
+                  "recruitment_days": 984,
+                  "epsm": 0.11978304027226319
+                }
+              },
+              {
+                "nct_id": "NCT02131064",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 444.0,
+                  "site_count": 100,
+                  "start_date": "2014-06-25",
+                  "completion_date": "2015-12-31",
+                  "recruitment_days": 554,
+                  "epsm": 0.24395956678700365
+                }
+              },
+              {
+                "nct_id": "NCT00829166",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 991.0,
+                  "site_count": 324,
+                  "start_date": "2009-02-01",
+                  "completion_date": "2012-07-01",
+                  "recruitment_days": 1246,
+                  "epsm": 0.07472316350593504
+                }
+              },
+              {
+                "nct_id": "NCT03337724",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 579.0,
+                  "site_count": 251,
+                  "start_date": "2018-01-06",
+                  "completion_date": "2023-01-04",
+                  "recruitment_days": 1824,
+                  "epsm": 0.038496802264625714
+                }
+              },
+              {
+                "nct_id": "NCT03084939",
+                "rule": "* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1",
+                "trial_stats": {
+                  "enrollment": 351.0,
+                  "site_count": 19,
+                  "start_date": "2017-04-24",
+                  "completion_date": "2018-11-23",
+                  "recruitment_days": 578,
+                  "epsm": 0.9729047532325624
+                }
+              },
+              {
+                "nct_id": "NCT00703326",
+                "rule": "* Participant has an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1",
+                "trial_stats": {
+                  "enrollment": 1144.0,
+                  "site_count": 233,
+                  "start_date": "2008-08-06",
+                  "completion_date": "2013-03-31",
+                  "recruitment_days": 1698,
+                  "epsm": 0.08801912879075105
+                }
+              },
+              {
+                "nct_id": "NCT01234337",
+                "rule": "* ECOG (Eastern Cooperative Oncology Group) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 537.0,
+                  "site_count": 153,
+                  "start_date": "2011-02-21",
+                  "completion_date": "2014-05-12",
+                  "recruitment_days": 1176,
+                  "epsm": 0.09084900626917433
+                }
+              },
+              {
+                "nct_id": "NCT02422615",
+                "rule": "5. Patients had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 726.0,
+                  "site_count": 174,
+                  "start_date": "2015-06-09",
+                  "completion_date": "2017-11-03",
+                  "recruitment_days": 878,
+                  "epsm": 0.14465635064016966
+                }
+              },
+              {
+                "nct_id": "NCT01712893",
+                "rule": "9. patients must have an ECOG performance status of 0 or 1 (0-fully active, able to carry on all pre-disease performance without restriction, 1-restricted in physical strenuous actively but ambulatory)",
+                "trial_stats": {
+                  "enrollment": 216.0,
+                  "site_count": 1,
+                  "start_date": "2009-06-01",
+                  "completion_date": "2017-08-01",
+                  "recruitment_days": 2983,
+                  "epsm": 2.2041702983573583
+                }
+              },
+              {
+                "nct_id": "NCT01216111",
+                "rule": "10. WHO Performance status (ECOG) of 0 or 1;",
+                "trial_stats": {
+                  "enrollment": 647.0,
+                  "site_count": 0,
+                  "start_date": "2011-01-01",
+                  "completion_date": "2016-04-20",
+                  "recruitment_days": 1936,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT02278120",
+                "rule": "* Patients had an Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+                "trial_stats": {
+                  "enrollment": 672.0,
+                  "site_count": 183,
+                  "start_date": "2014-11-20",
+                  "completion_date": "2017-08-21",
+                  "recruitment_days": 1005,
+                  "epsm": 0.11122355435935079
+                }
+              },
+              {
+                "nct_id": "NCT01958021",
+                "rule": "7. The patient had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 668.0,
+                  "site_count": 221,
+                  "start_date": "2013-12-17",
+                  "completion_date": "2016-01-29",
+                  "recruitment_days": 773,
+                  "epsm": 0.11902805664011051
+                }
+              },
+              {
+                "nct_id": "NCT01492101",
+                "rule": "* Patient has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+                "trial_stats": {
+                  "enrollment": 852.0,
+                  "site_count": 153,
+                  "start_date": "2011-12-01",
+                  "completion_date": "2016-04-01",
+                  "recruitment_days": 1583,
+                  "epsm": 0.10708087151474613
+                }
+              },
+              {
+                "nct_id": "NCT03079219",
+                "rule": "* Patient has ECOG Performance Status of 0-1",
+                "trial_stats": {
+                  "enrollment": 120.0,
+                  "site_count": 1,
+                  "start_date": "2017-03-23",
+                  "completion_date": "2021-03-01",
+                  "recruitment_days": 1439,
+                  "epsm": 2.538429464906185
+                }
+              }
+            ]
+          },
+          "the patient is her2 positive, defined as immunohistochemical (ihc) 3+ intensity, amplification of the her2 gene on fluorescence in situ hybridization (fish+), or her2 positive results on chromogenic in situ hybridization (cish): descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.05187319884726225,
+              "n_trials": 36,
+              "enrollment_mean": 716.4857142857143,
+              "enrollment_std": 988.6184171812276,
+              "site_mean": 45.44444444444444,
+              "site_std": 56.38563365379237,
+              "recruitment_months_mean": 53.292880884285374,
+              "recruitment_months_std": 37.90331759218099,
+              "epsm_mean": 4.851271394089557,
+              "epsm_std": 12.06805773933473,
+              "start_date_mean": "2012-03-11",
+              "start_date_std_yrs": 5.32
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT01626222",
+                "rule": "HER2-overexpressing patients by local laboratory testing (IHC 3+ staining or in situ hybridization positive).",
+                "trial_stats": {
+                  "enrollment": 301.0,
+                  "site_count": 84,
+                  "start_date": "2012-06-01",
+                  "completion_date": "2013-11-01",
+                  "recruitment_days": 518,
+                  "epsm": 0.2105727155727156
+                }
+              },
+              {
+                "nct_id": "NCT02482753",
+                "rule": "2. Patients with human epidermal growth factor receptor-2 (Her-2) positive;",
+                "trial_stats": {
+                  "enrollment": 365.0,
+                  "site_count": 22,
+                  "start_date": "2015-07-01",
+                  "completion_date": "2018-03-01",
+                  "recruitment_days": 974,
+                  "epsm": 0.5185084935598282
+                }
+              },
+              {
+                "nct_id": "NCT00639366",
+                "rule": "* Must demonstrate HER2 3+ positivity on IHC or 2+ over-expression and FISH test demonstrating C-erB2 gene amplification",
+                "trial_stats": {
+                  "enrollment": 390.0,
+                  "site_count": 19,
+                  "start_date": "2007-02-01",
+                  "completion_date": "2010-02-01",
+                  "recruitment_days": 1096,
+                  "epsm": 0.5700922013061852
+                }
+              },
+              {
+                "nct_id": "NCT00567554",
+                "rule": "6. Known HER-2/neu status detected on core biopsy. HER-2/neu positive is defined as HercepTest IHC 3+ or FISH+;",
+                "trial_stats": {
+                  "enrollment": 2600.0,
+                  "site_count": 1,
+                  "start_date": "2007-10-01",
+                  "completion_date": "2011-08-01",
+                  "recruitment_days": 1400,
+                  "epsm": 56.53142857142857
+                }
+              },
+              {
+                "nct_id": "NCT01026116",
+                "rule": "* HER-2 positive (IHC 3+ OR FISH+) and or triple-negative breast cancer",
+                "trial_stats": {
+                  "enrollment": 521.0,
+                  "site_count": 1,
+                  "start_date": "2009-12-01",
+                  "completion_date": "2016-01-01",
+                  "recruitment_days": 2222,
+                  "epsm": 7.137371737173718
+                }
+              },
+              {
+                "nct_id": "NCT00615602",
+                "rule": "* HER2/c-neu over expression should be documented by either immunohistochemistry (score 3+) or FISH/CISH positivity. A score of 2+ by immunohistochemistry is acceptable only if FISH/CISH positive",
+                "trial_stats": {
+                  "enrollment": 489.0,
+                  "site_count": 10,
+                  "start_date": "2004-10-01",
+                  "completion_date": "2012-05-01",
+                  "recruitment_days": 2769,
+                  "epsm": 0.5375644637053087
+                }
+              },
+              {
+                "nct_id": "NCT00021255",
+                "rule": "* Tumor must show the presence of the HER2neu gene amplification by Fluorescence In-Situ Hybridization (FISH analysis) by a designated central laboratory.",
+                "trial_stats": {
+                  "enrollment": 3222.0,
+                  "site_count": 42,
+                  "start_date": "2001-04-01",
+                  "completion_date": "2014-12-01",
+                  "recruitment_days": 4992,
+                  "epsm": 0.4677850274725274
+                }
+              },
+              {
+                "nct_id": "NCT03176238",
+                "rule": "* Patients overexpressing HER2 by local laboratory testing (IHC 3+ staining or in situ hybridization positive). Patients with IHC 2+ must have a negative in situ hybridization test.",
+                "trial_stats": {
+                  "enrollment": 235.0,
+                  "site_count": 55,
+                  "start_date": "2013-03-29",
+                  "completion_date": "2019-01-29",
+                  "recruitment_days": 2132,
+                  "epsm": 0.06100460515094662
+                }
+              },
+              {
+                "nct_id": "NCT00093795",
+                "rule": "* Tumor that has been determined to be human epidermal growth factor receptor 2 (HER2)-positive by immunohistochemistry (3+) or by fluorescent in situ hybridization (positive for gene amplification).",
+                "trial_stats": {
+                  "enrollment": 4894.0,
+                  "site_count": 12,
+                  "start_date": "2004-10-01",
+                  "completion_date": "2012-03-01",
+                  "recruitment_days": 2708,
+                  "epsm": 4.584359921221073
+                }
+              },
+              {
+                "nct_id": "NCT00109239",
+                "rule": "* Known HER2-positive status (either 3+ by immunohistochemistry or positive by FISH), as evaluated at the institution, unless the subject has previously relapsed following Herceptin(R) therapy. Subjects may not continue Herceptin therapy while enrolled in this trial.",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 0,
+                  "start_date": "2000-11-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00288002",
+                "rule": "* HER-2/neu positive tumor is defined as +3 by immunohistochemistry \\[IHC\\] OR positive by fluorescence in situ hybridization (FISH)",
+                "trial_stats": {
+                  "enrollment": 1500.0,
+                  "site_count": 1,
+                  "start_date": "2005-01-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT01354522",
+                "rule": "* HER2 positive breast cancer (IHC 3+ or positive FISH result).",
+                "trial_stats": {
+                  "enrollment": 204.0,
+                  "site_count": 1,
+                  "start_date": "2011-05-01",
+                  "completion_date": "2023-12-01",
+                  "recruitment_days": 4597,
+                  "epsm": 1.3508288013922125
+                }
+              },
+              {
+                "nct_id": "NCT00129935",
+                "rule": "* HER2 positive breast cancer (IHC 3+ or positive FISH result).",
+                "trial_stats": {
+                  "enrollment": 1384.0,
+                  "site_count": 58,
+                  "start_date": "2004-02-01",
+                  "completion_date": "2013-06-01",
+                  "recruitment_days": 3408,
+                  "epsm": 0.21313420754411527
+                }
+              },
+              {
+                "nct_id": "NCT04957212",
+                "rule": "* HER2 positive breast cancer confirmed (Tumors must be IHC 3+ or FISH/CISH + for IHC 2+ tumors).",
+                "trial_stats": {
+                  "enrollment": 214.0,
+                  "site_count": 44,
+                  "start_date": "2018-08-11",
+                  "completion_date": "2020-05-27",
+                  "recruitment_days": 655,
+                  "epsm": 0.22602914642609298
+                }
+              },
+              {
+                "nct_id": "NCT03084939",
+                "rule": "* Prospective centrally assessed HER2-positive disease (i.e., immunohistochemistry \\[IHC\\] 3+ and/or gene amplified \\[HER2 to Chromosome 17 \\[CEP 17\\] ratio \\>/= 2\\]) by in situ hybridization (ISH) through use of archival paraffin-embedded tumor tissue",
+                "trial_stats": {
+                  "enrollment": 351.0,
+                  "site_count": 19,
+                  "start_date": "2017-04-24",
+                  "completion_date": "2018-11-23",
+                  "recruitment_days": 578,
+                  "epsm": 0.9729047532325624
+                }
+              },
+              {
+                "nct_id": "NCT00876395",
+                "rule": "* HER2+ patients by local laboratory testing (IHC 3+ staining or in situ hybridization positive).",
+                "trial_stats": {
+                  "enrollment": 719.0,
+                  "site_count": 142,
+                  "start_date": "2009-09-10",
+                  "completion_date": "2014-05-30",
+                  "recruitment_days": 1723,
+                  "epsm": 0.08945403120989431
+                }
+              },
+              {
+                "nct_id": "NCT05283837",
+                "rule": "• Documentation of HER2 gene amplification by fluorescent in situ hybridiza-tion (FISH); as defined by a ratio \\>2.0) OR documentation of HER2-overexpression by immunohistochemistry (IHC) (defined as IHC3+, or IHC2+ with FISH confirmation) (estrogen receptor/progesterone receptor positive subjects may be enrolled if they are HER2 positive) prior to randomization, see Section 6.4 for detailed criteria)",
+                "trial_stats": {
+                  "enrollment": 268.0,
+                  "site_count": 1,
+                  "start_date": "2022-09-26",
+                  "completion_date": "2023-09-06",
+                  "recruitment_days": 345,
+                  "epsm": 23.646144927536234
+                }
+              },
+              {
+                "nct_id": "NCT02586025",
+                "rule": "* HER2-positive breast cancer confirmed by a Sponsor-designated central laboratory and defined as 3+ score by immunohistochemistry in \\> 10 percent (%) of immunoreactive cells or HER2 gene amplification (ratio of HER2 gene signals to centromere 17 signals equal to or more than \\[\\>=\\] 2.0) by in situ hybridization",
+                "trial_stats": {
+                  "enrollment": 329.0,
+                  "site_count": 28,
+                  "start_date": "2016-03-14",
+                  "completion_date": "2017-10-23",
+                  "recruitment_days": 588,
+                  "epsm": 0.6082823129251701
+                }
+              },
+              {
+                "nct_id": "NCT00630032",
+                "rule": "* HER 2 overexpression defined as IHC 3+ OR IHC 2+ and FISH or CISH positive",
+                "trial_stats": {
+                  "enrollment": 762.0,
+                  "site_count": 86,
+                  "start_date": "2007-09-01",
+                  "completion_date": "2017-06-01",
+                  "recruitment_days": 3561,
+                  "epsm": 0.0757406790619306
+                }
+              },
+              {
+                "nct_id": "NCT01808573",
+                "rule": "* Documented HER2 overexpression or gene-amplified tumor immunohistochemistry 3+ or 2+, with confirmatory fluorescence in situ hybridization (FISH) +.",
+                "trial_stats": {
+                  "enrollment": 621.0,
+                  "site_count": 252,
+                  "start_date": "2013-03-29",
+                  "completion_date": "2018-09-28",
+                  "recruitment_days": 2009,
+                  "epsm": 0.0373384057455735
+                }
+              },
+              {
+                "nct_id": "NCT02019277",
+                "rule": "* HER2-positive disease, with an immunohistochemistry score of 3+ or in situ hybridization (ISH)-positive on primary tumor or metastatic site",
+                "trial_stats": {
+                  "enrollment": 50.0,
+                  "site_count": 22,
+                  "start_date": "2013-12-05",
+                  "completion_date": "2016-11-04",
+                  "recruitment_days": 1065,
+                  "epsm": 0.06495945369184807
+                }
+              },
+              {
+                "nct_id": "NCT01007942",
+                "rule": "* HER2+ status defined as IHC 3+ staining or in situ hybridization positive",
+                "trial_stats": {
+                  "enrollment": 569.0,
+                  "site_count": 161,
+                  "start_date": "2009-10-01",
+                  "completion_date": "2015-06-01",
+                  "recruitment_days": 2069,
+                  "epsm": 0.051996073357369506
+                }
+              },
+              {
+                "nct_id": "NCT05301010",
+                "rule": "* Grade 3+ HER2 overexpression confirmed by immunohistochemical (IHC) staining or grade 2+ HER2 overexpression accompanied by HER2 gene amplification confirmed by fluorescent hybridization in situ (FISH).",
+                "trial_stats": {
+                  "enrollment": 128.0,
+                  "site_count": 2,
+                  "start_date": "2018-02-02",
+                  "completion_date": "2021-02-19",
+                  "recruitment_days": 1113,
+                  "epsm": 1.7503683737646003
+                }
+              },
+              {
+                "nct_id": "NCT02402712",
+                "rule": "* HER2-positive disease (defined as either immunohistochemistry \\[IHC\\] 3 + or in situ hybridization \\[ISH\\] positive) as assessed by local laboratory on primary tumor or metastatic site if primary tumor not available",
+                "trial_stats": {
+                  "enrollment": 418.0,
+                  "site_count": 125,
+                  "start_date": "2015-05-06",
+                  "completion_date": "2019-02-22",
+                  "recruitment_days": 1388,
+                  "epsm": 0.07333671469740634
+                }
+              },
+              {
+                "nct_id": "NCT01764022",
+                "rule": "* Grade 3+ HER2 overexpression confirmed by immunohistochemical (IHC) staining or grade 2+ HER2 overexpression accompanied by HER2 gene amplification confirmed by fluorescent hybridization in situ (FISH) ;",
+                "trial_stats": {
+                  "enrollment": 225.0,
+                  "site_count": 36,
+                  "start_date": "2012-10-01",
+                  "completion_date": "2015-03-01",
+                  "recruitment_days": 881,
+                  "epsm": 0.2159477866061294
+                }
+              },
+              {
+                "nct_id": "NCT03433313",
+                "rule": "6. HER2 positive tumor, defined as 3+ score by IHC or fluorescence positive by FISH, as confirmed by central laboratory.",
+                "trial_stats": {
+                  "enrollment": 807.0,
+                  "site_count": 91,
+                  "start_date": "2018-10-16",
+                  "completion_date": "2022-01-20",
+                  "recruitment_days": 1192,
+                  "epsm": 0.22646470978685745
+                }
+              },
+              {
+                "nct_id": "NCT02162667",
+                "rule": "* Patient who has HER2-positive status confirmed locally, defined as 3+ score by IHC (immuno-histochemistry).",
+                "trial_stats": {
+                  "enrollment": 562.0,
+                  "site_count": 98,
+                  "start_date": "2014-06-01",
+                  "completion_date": "2016-05-26",
+                  "recruitment_days": 725,
+                  "epsm": 0.2407780436312456
+                }
+              },
+              {
+                "nct_id": "NCT06107790",
+                "rule": "2. Histologically or cytologically confirmed adenocarcinoma of the breast. 3. Recurrent disease not amenable to curative surgery or radiation therapy. 4. HER2-positivity, based on IHC score 3+ or ISH positivity. For those IHC score 2+ patients, fluorescence in situ hybridization (FISH), chromogenic in situ hybridization (CISH) or silver enhanced in situ hybridization (SISH) should be tested to prove HER2 gene amplification.",
+                "trial_stats": {
+                  "enrollment": 570.0,
+                  "site_count": 1,
+                  "start_date": "2018-05-16",
+                  "completion_date": "2022-01-28",
+                  "recruitment_days": 1353,
+                  "epsm": 12.823946784922395
+                }
+              },
+              {
+                "nct_id": "NCT01964391",
+                "rule": "* HER2-positive disease immunohistochemistry 3 plus (IHC3+) or in situ hybridization (ISH) positive as determined in a local laboratory that is experienced/certified in HER2-expression testing using an accurate and validated assay",
+                "trial_stats": {
+                  "enrollment": 174.0,
+                  "site_count": 36,
+                  "start_date": "2014-02-21",
+                  "completion_date": "2016-12-22",
+                  "recruitment_days": 1035,
+                  "epsm": 0.1421513687600644
+                }
+              },
+              {
+                "nct_id": "NCT03989037",
+                "rule": "* Patients with HER2-positive breast cancer: HER2 detection is based on the Chinese Breast Cancer HER2 Detection Guidelines (2019 Edition), the immunohistochemistry (IHC) method is used to detect the expression level of HER2 protein, and the in situ hybridization (ISH) method is used to detect the HER2 gene amplification level. ISH includes fluorescence in situ hybridization (FISH) and bright-field in situ hybridization. The common bright-field in situ hybridization method includes chromogenic in situ hybridization (CISH) and silver-enhanced in situ hybridization (SISH);The HER2-positive criterion is: IHC detection +++, or IHC++, and further in situ hybridization confirms that HER2 gene amplification is positive;",
+                "trial_stats": {
+                  "enrollment": 580.0,
+                  "site_count": 1,
+                  "start_date": "2019-06-27",
+                  "completion_date": "2023-04-26",
+                  "recruitment_days": 1399,
+                  "epsm": 12.619871336669048
+                }
+              },
+              {
+                "nct_id": "NCT02194166",
+                "rule": "* HER2-positive disease immunohistochemistry (IHC) 3+ or in-situ hybridization (ISH) positive as determined in a local laboratory that is experienced/certified in HER2-expression testing using an accurate and validated assay",
+                "trial_stats": {
+                  "enrollment": 90.0,
+                  "site_count": 10,
+                  "start_date": "2014-07-18",
+                  "completion_date": "2018-07-12",
+                  "recruitment_days": 1455,
+                  "epsm": 0.18828865979381443
+                }
+              },
+              {
+                "nct_id": "NCT00459771",
+                "rule": "* Strongly HER2-positive breast cancer, defined as an immunohistochemistry score of 3+ using the HercepTestTM, or gene amplification by fluorescence in situ hybridization, or chromogenic in situ hybridization (CISH).",
+                "trial_stats": {
+                  "enrollment": 210.0,
+                  "site_count": 19,
+                  "start_date": "2007-06-01",
+                  "completion_date": "2013-12-01",
+                  "recruitment_days": 2375,
+                  "epsm": 0.14165983379501385
+                }
+              },
+              {
+                "nct_id": "NCT01926886",
+                "rule": "* HER2-positive disease immunohistochemistry (IHC)3+ or in situ hybridization (ISH) positive, in line with local reimbursement criteria and determined in a local laboratory that is experienced/certified in HER2-expression testing using an accurate and validated assay",
+                "trial_stats": {
+                  "enrollment": 102.0,
+                  "site_count": 32,
+                  "start_date": "2013-11-19",
+                  "completion_date": "2015-09-04",
+                  "recruitment_days": 654,
+                  "epsm": 0.1483600917431193
+                }
+              },
+              {
+                "nct_id": "NCT01940497",
+                "rule": "* HER2-positive disease immunohistochemistry (IHC) 3+ or in situ hybridization (ISH) positive",
+                "trial_stats": {
+                  "enrollment": 240.0,
+                  "site_count": 104,
+                  "start_date": "2013-11-15",
+                  "completion_date": "2016-04-05",
+                  "recruitment_days": 872,
+                  "epsm": 0.08055751587861679
+                }
+              },
+              {
+                "nct_id": "NCT02149524",
+                "rule": "3. HER2-positivity confirmed by a central laboratory or an accredited local laboratory and defined as immunohistochemistry (IHC) 3+ or fluorescence in situ hybridisation (FISH)+",
+                "trial_stats": {
+                  "enrollment": 875.0,
+                  "site_count": 1,
+                  "start_date": "2014-04-01",
+                  "completion_date": "2016-03-01",
+                  "recruitment_days": 700,
+                  "epsm": 38.050000000000004
+                }
+              },
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* HER2 positive (Immunohistochemical (IHC) 3+ intensity, amplification of the HER2 gene on fluorescence in situ hybridization (FISH+ ) or HER2 positive results of Chromogenic in situ hybridization (CISH+)).",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              }
+            ]
+          }
+        },
+        "exclusion": {
+          "max left ventricular ejection fraction (percent): 55.0": {
+            "rule_stats": {
+              "overall_frequency": 0.024495677233429394,
+              "n_trials": 17,
+              "enrollment_mean": 1149.1176470588234,
+              "enrollment_std": 1569.614438419231,
+              "site_mean": 154.64705882352942,
+              "site_std": 213.81883136678778,
+              "recruitment_months_mean": 38.05944191079848,
+              "recruitment_months_std": 22.716271009684963,
+              "epsm_mean": 3.525807148087181,
+              "epsm_std": 9.383786108079455,
+              "start_date_mean": "2013-05-29",
+              "start_date_std_yrs": 4.0
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT01964391",
+                "rule": "* Left ventricular ejection fraction (LVEF) of greater than or equal to (\\>=) 55 percent (%) measured by echocardiography (ECHO) or multiple gated acquisition (MUGA) scan prior to first dose of trastuzumab, or, for those who were receiving trastuzumab when beginning the study, documented results within an acceptable limit from a cardiac assessment within 3 months prior to enrollment",
+                "trial_stats": {
+                  "enrollment": 174.0,
+                  "site_count": 36,
+                  "start_date": "2014-02-21",
+                  "completion_date": "2016-12-22",
+                  "recruitment_days": 1035,
+                  "epsm": 0.1421513687600644
+                }
+              },
+              {
+                "nct_id": "NCT04629846",
+                "rule": "5. Baseline left ventricular ejection fracture \\>= 55% measured by echocardiography (preferred) or multiple gated acquisition scan",
+                "trial_stats": {
+                  "enrollment": 517.0,
+                  "site_count": 2,
+                  "start_date": "2020-11-23",
+                  "completion_date": "2022-08-22",
+                  "recruitment_days": 637,
+                  "epsm": 12.352810047095762
+                }
+              },
+              {
+                "nct_id": "NCT02194166",
+                "rule": "* Left ventricular ejection fraction (LVEF) of greater than or equal to (\\>/=) 55 percent (%) measured by echocardiography (ECHO) prior to first dose of trastuzumab",
+                "trial_stats": {
+                  "enrollment": 90.0,
+                  "site_count": 10,
+                  "start_date": "2014-07-18",
+                  "completion_date": "2018-07-12",
+                  "recruitment_days": 1455,
+                  "epsm": 0.18828865979381443
+                }
+              },
+              {
+                "nct_id": "NCT01940497",
+                "rule": "* Left ventricular ejection fraction (LVEF) of greater than or equal to (\\>=) 55 percent (%) measured by echocardiography (ECHO) or multiple gated acquisition (MUGA) scan prior to first dose of trastuzumab SC",
+                "trial_stats": {
+                  "enrollment": 240.0,
+                  "site_count": 104,
+                  "start_date": "2013-11-15",
+                  "completion_date": "2016-04-05",
+                  "recruitment_days": 872,
+                  "epsm": 0.08055751587861679
+                }
+              },
+              {
+                "nct_id": "NCT01104935",
+                "rule": "5. Baseline left ventricular ejection fraction (LVEF) is ≥55% measured by echocardiography or MUGA scan within 4 weeks before registration.",
+                "trial_stats": {
+                  "enrollment": 275.0,
+                  "site_count": 1,
+                  "start_date": "2009-10-28",
+                  "completion_date": "2017-10-31",
+                  "recruitment_days": 2925,
+                  "epsm": 2.861880341880342
+                }
+              },
+              {
+                "nct_id": "NCT02586025",
+                "rule": "* Baseline left ventricular ejection fracture \\>= 55% measured by echocardiography (preferred) or multiple gated acquisition scan",
+                "trial_stats": {
+                  "enrollment": 329.0,
+                  "site_count": 28,
+                  "start_date": "2016-03-14",
+                  "completion_date": "2017-10-23",
+                  "recruitment_days": 588,
+                  "epsm": 0.6082823129251701
+                }
+              },
+              {
+                "nct_id": "NCT01566721",
+                "rule": "* Screening left ventricular ejection fraction (LVEF) greater than or equal to (≥) 55%",
+                "trial_stats": {
+                  "enrollment": 2577.0,
+                  "site_count": 707,
+                  "start_date": "2012-05-17",
+                  "completion_date": "2015-03-10",
+                  "recruitment_days": 1027,
+                  "epsm": 0.10803617738321335
+                }
+              },
+              {
+                "nct_id": "NCT01358877",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) greater than or equal to (\\>/=) 55 percent (%) measured by echocardiogram (ECHO) or Multiple-Gated Acquisition (MUGA) Scan",
+                "trial_stats": {
+                  "enrollment": 4804.0,
+                  "site_count": 552,
+                  "start_date": "2011-11-08",
+                  "completion_date": "2016-12-19",
+                  "recruitment_days": 1868,
+                  "epsm": 0.14181811128696892
+                }
+              },
+              {
+                "nct_id": "NCT02896855",
+                "rule": "* Left ventricular ejection fraction (LVEF) greater than or equal to (\\>=) 55 percent (%) at baseline (within 42 days of randomization)",
+                "trial_stats": {
+                  "enrollment": 243.0,
+                  "site_count": 18,
+                  "start_date": "2016-09-13",
+                  "completion_date": "2018-06-27",
+                  "recruitment_days": 652,
+                  "epsm": 0.6302760736196319
+                }
+              },
+              {
+                "nct_id": "NCT02149524",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) ≥ 55% measured by echocardiography or multiple gated acquisition (MUGA) scan",
+                "trial_stats": {
+                  "enrollment": 875.0,
+                  "site_count": 1,
+                  "start_date": "2014-04-01",
+                  "completion_date": "2016-03-01",
+                  "recruitment_days": 700,
+                  "epsm": 38.050000000000004
+                }
+              },
+              {
+                "nct_id": "NCT03493854",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) ≥55% measured by echocardiogram (ECHO) or multiple-gated acquisition scan (MUGA)",
+                "trial_stats": {
+                  "enrollment": 500.0,
+                  "site_count": 141,
+                  "start_date": "2018-06-14",
+                  "completion_date": "2019-07-04",
+                  "recruitment_days": 385,
+                  "epsm": 0.2803721101593442
+                }
+              },
+              {
+                "nct_id": "NCT01901146",
+                "rule": "* Left ventricular ejection fraction (LVEF) of ≥55% by 2D echocardiogram",
+                "trial_stats": {
+                  "enrollment": 725.0,
+                  "site_count": 98,
+                  "start_date": "2013-04-29",
+                  "completion_date": "2016-05-05",
+                  "recruitment_days": 1102,
+                  "epsm": 0.20435016111707843
+                }
+              },
+              {
+                "nct_id": "NCT01966471",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) \\>/=55% measured by echocardiogram (ECHO; preferred) or multiple-gated acquisition (MUGA) scans",
+                "trial_stats": {
+                  "enrollment": 1846.0,
+                  "site_count": 460,
+                  "start_date": "2014-01-31",
+                  "completion_date": "2019-11-27",
+                  "recruitment_days": 2126,
+                  "epsm": 0.05745862816475112
+                }
+              },
+              {
+                "nct_id": "NCT02131064",
+                "rule": "* Baseline Left Ventricular Ejection Fraction (LVEF) \\>/= 55 percent (%) measured by echocardiogram (ECHO) or multiple-gated acquisition (MUGA)",
+                "trial_stats": {
+                  "enrollment": 444.0,
+                  "site_count": 100,
+                  "start_date": "2014-06-25",
+                  "completion_date": "2015-12-31",
+                  "recruitment_days": 554,
+                  "epsm": 0.24395956678700365
+                }
+              },
+              {
+                "nct_id": "NCT00045032",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) greater than or equal to (≥) 55 percent (%)",
+                "trial_stats": {
+                  "enrollment": 5099.0,
+                  "site_count": 203,
+                  "start_date": "2001-11-01",
+                  "completion_date": "2005-03-01",
+                  "recruitment_days": 1216,
+                  "epsm": 0.6287819224786103
+                }
+              },
+              {
+                "nct_id": "NCT00950300",
+                "rule": "* Baseline left ventricular ejection fraction (LVEF) ≥55%",
+                "trial_stats": {
+                  "enrollment": 596.0,
+                  "site_count": 167,
+                  "start_date": "2009-10-16",
+                  "completion_date": "2011-07-12",
+                  "recruitment_days": 634,
+                  "epsm": 0.17135042218402313
+                }
+              },
+              {
+                "nct_id": "NCT01413828",
+                "rule": "* left ventricular ejection fraction (LVEF) less than 55%.",
+                "trial_stats": {
+                  "enrollment": 201.0,
+                  "site_count": 1,
+                  "start_date": "2011-05-01",
+                  "completion_date": "2016-08-01",
+                  "recruitment_days": 1919,
+                  "epsm": 3.1883480979676917
+                }
+              }
+            ]
+          },
+          "max absolute neutrophil count (/µl): 1500.0": {
+            "rule_stats": {
+              "overall_frequency": 0.043227665706051875,
+              "n_trials": 30,
+              "enrollment_mean": 1364.892857142857,
+              "enrollment_std": 2146.6132039458103,
+              "site_mean": 86.36666666666666,
+              "site_std": 174.30225102575034,
+              "recruitment_months_mean": 68.6619239657438,
+              "recruitment_months_std": 47.15390635930076,
+              "epsm_mean": 3.3055836182184453,
+              "epsm_std": 8.844038830250282,
+              "start_date_mean": "2007-11-23",
+              "start_date_std_yrs": 6.94
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00009945",
+                "rule": "* the postoperative absolute neutrophil count (ANC) must be greater than or equal to 1500/mm3 (or less than 1500/mm3 if, in the opinion of the investigator, this represents an ethnic or racial variation of normal);",
+                "trial_stats": {
+                  "enrollment": 3323.0,
+                  "site_count": 17,
+                  "start_date": "2001-01-01",
+                  "completion_date": "2011-03-01",
+                  "recruitment_days": 3711,
+                  "epsm": 1.6033750217952987
+                }
+              },
+              {
+                "nct_id": "NCT00320385",
+                "rule": "* ANC (absolute neutrophil count) (≥ 1x10\\^9/ L)",
+                "trial_stats": {
+                  "enrollment": 296.0,
+                  "site_count": 145,
+                  "start_date": "2005-11-01",
+                  "completion_date": "2007-06-01",
+                  "recruitment_days": 577,
+                  "epsm": 0.10769425685770635
+                }
+              },
+              {
+                "nct_id": "NCT00004067",
+                "rule": "* The postoperative absolute neutrophil count (ANC) must be ≥ 1500/mm3 (or \\<1500/mm3 if, in the opinion of the investigator, this represents an ethnic or racial variation of normal).",
+                "trial_stats": {
+                  "enrollment": 2130.0,
+                  "site_count": 149,
+                  "start_date": "2000-02-01",
+                  "completion_date": "2005-03-01",
+                  "recruitment_days": 1855,
+                  "epsm": 0.2345816675410192
+                }
+              },
+              {
+                "nct_id": "NCT00148876",
+                "rule": "13. Absolute neutrophil count \\> or =1,500 cells/microL, platelet count \\> or =100,000 cells/microL.",
+                "trial_stats": {
+                  "enrollment": 482.0,
+                  "site_count": 1,
+                  "start_date": "2003-09-01",
+                  "completion_date": "2011-01-01",
+                  "recruitment_days": 2679,
+                  "epsm": 5.476700261291527
+                }
+              },
+              {
+                "nct_id": "NCT00776724",
+                "rule": "* Absolute neutrophil count (ANC) ≧1500/mm3",
+                "trial_stats": {
+                  "enrollment": 166.0,
+                  "site_count": 1,
+                  "start_date": "2008-05-29",
+                  "completion_date": "2014-11-30",
+                  "recruitment_days": 2376,
+                  "epsm": 2.126700336700337
+                }
+              },
+              {
+                "nct_id": "NCT00003782",
+                "rule": "* Absolute neutrophil count at least 1,500/mm\\^3 (may be less, if in the opinion of the investigator, this represents an ethnic or racial variation)",
+                "trial_stats": {
+                  "enrollment": 5351.0,
+                  "site_count": 157,
+                  "start_date": "1999-03-01",
+                  "completion_date": "2008-12-01",
+                  "recruitment_days": 3563,
+                  "epsm": 0.29118173156164473
+                }
+              },
+              {
+                "nct_id": "NCT00004125",
+                "rule": "* Neutrophil count at least 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 48,
+                  "start_date": "1999-11-16",
+                  "completion_date": "2007-05-01",
+                  "recruitment_days": 2723,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT01526369",
+                "rule": "* Neutrophils (ANC/AGC) ≥1500/mm³ (1.5 x 10\\^9/L)",
+                "trial_stats": {
+                  "enrollment": 75.0,
+                  "site_count": 35,
+                  "start_date": "2012-02-13",
+                  "completion_date": "2015-11-01",
+                  "recruitment_days": 1357,
+                  "epsm": 0.04806821770712706
+                }
+              },
+              {
+                "nct_id": "NCT00017095",
+                "rule": "* Neutrophil count greater than 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1856.0,
+                  "site_count": 39,
+                  "start_date": "2001-03-01",
+                  "completion_date": "2006-11-01",
+                  "recruitment_days": 2071,
+                  "epsm": 0.6994842080501182
+                }
+              },
+              {
+                "nct_id": "NCT01881230",
+                "rule": "* Absolute Neutrophil Count (ANC) ≥ 1500/mm\\^2 ;",
+                "trial_stats": {
+                  "enrollment": 191.0,
+                  "site_count": 140,
+                  "start_date": "2013-09-26",
+                  "completion_date": "2016-10-28",
+                  "recruitment_days": 1128,
+                  "epsm": 0.03681636271529889
+                }
+              },
+              {
+                "nct_id": "NCT03084237",
+                "rule": "* Absolute neutrophil count (ANC) ≥1,500/μL without granulocyte-colony stimulating factor (G-CSF) or other medical support",
+                "trial_stats": {
+                  "enrollment": 652.0,
+                  "site_count": 88,
+                  "start_date": "2016-11-01",
+                  "completion_date": "2018-11-23",
+                  "recruitment_days": 752,
+                  "epsm": 0.2999105415860735
+                }
+              },
+              {
+                "nct_id": "NCT00253422",
+                "rule": "* Neutrophil count ≥ 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 698.0,
+                  "site_count": 2,
+                  "start_date": "2004-03-26",
+                  "completion_date": "2022-11-28",
+                  "recruitment_days": 6821,
+                  "epsm": 1.55747837560475
+                }
+              },
+              {
+                "nct_id": "NCT00005970",
+                "rule": "* Absolute neutrophil count (ANC) \\>= 1500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 3436.0,
+                  "site_count": 157,
+                  "start_date": "2000-05-19",
+                  "completion_date": "2005-04-25",
+                  "recruitment_days": 1802,
+                  "epsm": 0.36969481892023726
+                }
+              },
+              {
+                "nct_id": "NCT01764022",
+                "rule": "* Neutrophils ≤1500/mm3;",
+                "trial_stats": {
+                  "enrollment": 225.0,
+                  "site_count": 36,
+                  "start_date": "2012-10-01",
+                  "completion_date": "2015-03-01",
+                  "recruitment_days": 881,
+                  "epsm": 0.2159477866061294
+                }
+              },
+              {
+                "nct_id": "NCT03343145",
+                "rule": "* Absolute Neutrophil Count (ANC) ≥ 1,500/mm3",
+                "trial_stats": {
+                  "enrollment": 143.0,
+                  "site_count": 1,
+                  "start_date": "2017-01-12",
+                  "completion_date": "2019-01-28",
+                  "recruitment_days": 746,
+                  "epsm": 5.835013404825738
+                }
+              },
+              {
+                "nct_id": "NCT03447132",
+                "rule": "* Neutrophil count ≥ 1.5 G/L.",
+                "trial_stats": {
+                  "enrollment": 354.0,
+                  "site_count": 14,
+                  "start_date": "2017-12-20",
+                  "completion_date": "2021-04-12",
+                  "recruitment_days": 1209,
+                  "epsm": 0.6366394895427153
+                }
+              },
+              {
+                "nct_id": "NCT00433589",
+                "rule": "* Neutrophil count \\> 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 6600.0,
+                  "site_count": 1,
+                  "start_date": "2007-02-01",
+                  "completion_date": "2020-03-01",
+                  "recruitment_days": 4777,
+                  "epsm": 42.05652082897216
+                }
+              },
+              {
+                "nct_id": "NCT01104935",
+                "rule": "* Neutrophil ≥1500 mm3",
+                "trial_stats": {
+                  "enrollment": 275.0,
+                  "site_count": 1,
+                  "start_date": "2009-10-28",
+                  "completion_date": "2017-10-31",
+                  "recruitment_days": 2925,
+                  "epsm": 2.861880341880342
+                }
+              },
+              {
+                "nct_id": "NCT00028990",
+                "rule": "* Absolute neutrophil count at least 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 722.0,
+                  "site_count": 30,
+                  "start_date": "2002-01-29",
+                  "completion_date": "2006-11-01",
+                  "recruitment_days": 1737,
+                  "epsm": 0.4217555171752063
+                }
+              },
+              {
+                "nct_id": "NCT00016406",
+                "rule": "* Absolute neutrophil count at least 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 399.0,
+                  "site_count": 314,
+                  "start_date": "2001-05-01",
+                  "completion_date": "2006-09-01",
+                  "recruitment_days": 1949,
+                  "epsm": 0.019846140271182675
+                }
+              },
+              {
+                "nct_id": "NCT00002777",
+                "rule": "* Absolute neutrophil count at least 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 342.0,
+                  "site_count": 48,
+                  "start_date": "1996-05-01",
+                  "completion_date": "2002-12-01",
+                  "recruitment_days": 2405,
+                  "epsm": 0.09018087318087319
+                }
+              },
+              {
+                "nct_id": "NCT00789581",
+                "rule": "* Absolute neutrophil count (ANC) \\>1500/mm3",
+                "trial_stats": {
+                  "enrollment": 614.0,
+                  "site_count": 70,
+                  "start_date": "2008-12-01",
+                  "completion_date": "2015-12-01",
+                  "recruitment_days": 2556,
+                  "epsm": 0.10446098815112902
+                }
+              },
+              {
+                "nct_id": "NCT05283837",
+                "rule": "4. Absolute neutrophil count \\< 1,500 cells/mm3",
+                "trial_stats": {
+                  "enrollment": 268.0,
+                  "site_count": 1,
+                  "start_date": "2022-09-26",
+                  "completion_date": "2023-09-06",
+                  "recruitment_days": 345,
+                  "epsm": 23.646144927536234
+                }
+              },
+              {
+                "nct_id": "NCT00553358",
+                "rule": "* Absolute neutrophil count ≥ 1,5 x 10\\^9/L,",
+                "trial_stats": {
+                  "enrollment": 455.0,
+                  "site_count": 122,
+                  "start_date": "2008-01-05",
+                  "completion_date": "2010-05-27",
+                  "recruitment_days": 873,
+                  "epsm": 0.13004150000938913
+                }
+              },
+              {
+                "nct_id": "NCT00245050",
+                "rule": "* Absolute neutrophil count ≥ 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 34.0,
+                  "site_count": 8,
+                  "start_date": "2004-04-01",
+                  "completion_date": "2008-04-01",
+                  "recruitment_days": 1461,
+                  "epsm": 0.08854893908282
+                }
+              },
+              {
+                "nct_id": "NCT00103233",
+                "rule": "* Absolute neutrophil count ≥ 1,500/mm\\^3",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 0,
+                  "start_date": "2004-12-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00490139",
+                "rule": "6. Absolute neutrophil count \\<1.5 x 10\\^9/L;",
+                "trial_stats": {
+                  "enrollment": 8381.0,
+                  "site_count": 925,
+                  "start_date": "2007-05-16",
+                  "completion_date": "2013-12-06",
+                  "recruitment_days": 2396,
+                  "epsm": 0.11510970536479719
+                }
+              },
+              {
+                "nct_id": "NCT03013504",
+                "rule": "1. Absolute neutrophils count ≥ 1,500/μL",
+                "trial_stats": {
+                  "enrollment": 503.0,
+                  "site_count": 15,
+                  "start_date": "2018-02-19",
+                  "completion_date": "2019-04-19",
+                  "recruitment_days": 424,
+                  "epsm": 2.407440251572327
+                }
+              },
+              {
+                "nct_id": "NCT03969121",
+                "rule": "Absolute neutrophil count: ≥ 1,500/mm3",
+                "trial_stats": {
+                  "enrollment": 141.0,
+                  "site_count": 25,
+                  "start_date": "2019-07-16",
+                  "completion_date": "2021-12-23",
+                  "recruitment_days": 891,
+                  "epsm": 0.1926841750841751
+                }
+              },
+              {
+                "nct_id": "NCT01619111",
+                "rule": "* absolute neutrophil count ≥ 1500/µL,",
+                "trial_stats": {
+                  "enrollment": 105.0,
+                  "site_count": 1,
+                  "start_date": "2012-02-01",
+                  "completion_date": "2022-01-01",
+                  "recruitment_days": 3622,
+                  "epsm": 0.882440640530094
+                }
+              }
+            ]
+          },
+          "max platelet count (/µl): 100000.0": {
+            "rule_stats": {
+              "overall_frequency": 0.0936599423631124,
+              "n_trials": 65,
+              "enrollment_mean": 1595.241935483871,
+              "enrollment_std": 2038.262742160941,
+              "site_mean": 107.6923076923077,
+              "site_std": 230.99221598606704,
+              "recruitment_months_mean": 78.79215943933421,
+              "recruitment_months_std": 42.61433517931492,
+              "epsm_mean": 2.9121620059800617,
+              "epsm_std": 6.401958145153097,
+              "start_date_mean": "2004-11-25",
+              "start_date_std_yrs": 6.38
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00152191",
+                "rule": "* Hematopoietic WBC ≥ 4,000/mm\\^3 Platelet ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1300.0,
+                  "site_count": 1,
+                  "start_date": "1996-10-01",
+                  "completion_date": "2007-10-01",
+                  "recruitment_days": 4017,
+                  "epsm": 9.851132686084142
+                }
+              },
+              {
+                "nct_id": "NCT00148876",
+                "rule": "13. Absolute neutrophil count \\> or =1,500 cells/microL, platelet count \\> or =100,000 cells/microL.",
+                "trial_stats": {
+                  "enrollment": 482.0,
+                  "site_count": 1,
+                  "start_date": "2003-09-01",
+                  "completion_date": "2011-01-01",
+                  "recruitment_days": 2679,
+                  "epsm": 5.476700261291527
+                }
+              },
+              {
+                "nct_id": "NCT00352378",
+                "rule": "2. platelet \\>=100,000/mm3, Hemoglobin \\>=10 g/mm3",
+                "trial_stats": {
+                  "enrollment": 209.0,
+                  "site_count": 0,
+                  "start_date": "2002-06-01",
+                  "completion_date": "2005-10-01",
+                  "recruitment_days": 1218,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00087178",
+                "rule": "* Postoperative platelet count must be greater than or equal to 100,000/mm3. Significant underlying hematologic disorders must be excluded when the platelet count is above the ULN for the lab.",
+                "trial_stats": {
+                  "enrollment": 2722.0,
+                  "site_count": 606,
+                  "start_date": "2004-05-01",
+                  "completion_date": "2014-03-01",
+                  "recruitment_days": 3591,
+                  "epsm": 0.03807542324825632
+                }
+              },
+              {
+                "nct_id": "NCT00004067",
+                "rule": "* Postoperative platelet count must be ≥ 100,000/mm3. Significant underlying hematologic disorders must be excluded when the platelet count is above the upper limit of normal for the lab.",
+                "trial_stats": {
+                  "enrollment": 2130.0,
+                  "site_count": 149,
+                  "start_date": "2000-02-01",
+                  "completion_date": "2005-03-01",
+                  "recruitment_days": 1855,
+                  "epsm": 0.2345816675410192
+                }
+              },
+              {
+                "nct_id": "NCT00003782",
+                "rule": "* Platelet count at least 100,000/mm\\^3\\* NOTE: \\*If platelet count is above the upper limit of normal (ULN), significant underlying hematologic disorders must be excluded",
+                "trial_stats": {
+                  "enrollment": 5351.0,
+                  "site_count": 157,
+                  "start_date": "1999-03-01",
+                  "completion_date": "2008-12-01",
+                  "recruitment_days": 3563,
+                  "epsm": 0.29118173156164473
+                }
+              },
+              {
+                "nct_id": "NCT00005970",
+                "rule": "* Platelets (PLT) \\>= 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 3436.0,
+                  "site_count": 157,
+                  "start_date": "2000-05-19",
+                  "completion_date": "2005-04-25",
+                  "recruitment_days": 1802,
+                  "epsm": 0.36969481892023726
+                }
+              },
+              {
+                "nct_id": "NCT00490139",
+                "rule": "7. Platelets \\<100 x 10\\^9/L.",
+                "trial_stats": {
+                  "enrollment": 8381.0,
+                  "site_count": 925,
+                  "start_date": "2007-05-16",
+                  "completion_date": "2013-12-06",
+                  "recruitment_days": 2396,
+                  "epsm": 0.11510970536479719
+                }
+              },
+              {
+                "nct_id": "NCT00093795",
+                "rule": "* Postoperative platelet count must be greater than or equal to 100,000/mm3.",
+                "trial_stats": {
+                  "enrollment": 4894.0,
+                  "site_count": 12,
+                  "start_date": "2004-10-01",
+                  "completion_date": "2012-03-01",
+                  "recruitment_days": 2708,
+                  "epsm": 4.584359921221073
+                }
+              },
+              {
+                "nct_id": "NCT00039780",
+                "rule": "* Platelets greater than or equal to 100,000/mm(3)",
+                "trial_stats": {
+                  "enrollment": 764.0,
+                  "site_count": 0,
+                  "start_date": "2001-09-01",
+                  "completion_date": "2006-10-01",
+                  "recruitment_days": 1856,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00009945",
+                "rule": "* the postoperative platelet count must be greater than or equal to 100,000;",
+                "trial_stats": {
+                  "enrollment": 3323.0,
+                  "site_count": 17,
+                  "start_date": "2001-01-01",
+                  "completion_date": "2011-03-01",
+                  "recruitment_days": 3711,
+                  "epsm": 1.6033750217952987
+                }
+              },
+              {
+                "nct_id": "NCT00004125",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 48,
+                  "start_date": "1999-11-16",
+                  "completion_date": "2007-05-01",
+                  "recruitment_days": 2723,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00016406",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 399.0,
+                  "site_count": 314,
+                  "start_date": "2001-05-01",
+                  "completion_date": "2006-09-01",
+                  "recruitment_days": 1949,
+                  "epsm": 0.019846140271182675
+                }
+              },
+              {
+                "nct_id": "NCT00004205",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 8028.0,
+                  "site_count": 3,
+                  "start_date": "1998-03-01",
+                  "completion_date": "2008-12-01",
+                  "recruitment_days": 3928,
+                  "epsm": 20.737637474541753
+                }
+              },
+              {
+                "nct_id": "NCT00055679",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1512.0,
+                  "site_count": 72,
+                  "start_date": "2002-08-01",
+                  "completion_date": "2012-06-01",
+                  "recruitment_days": 3592,
+                  "epsm": 0.17796213808463252
+                }
+              },
+              {
+                "nct_id": "NCT00028990",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 722.0,
+                  "site_count": 30,
+                  "start_date": "2002-01-29",
+                  "completion_date": "2006-11-01",
+                  "recruitment_days": 1737,
+                  "epsm": 0.4217555171752063
+                }
+              },
+              {
+                "nct_id": "NCT00054587",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 3010.0,
+                  "site_count": 29,
+                  "start_date": "2001-06-01",
+                  "completion_date": "2009-06-01",
+                  "recruitment_days": 2922,
+                  "epsm": 1.0812669640539072
+                }
+              },
+              {
+                "nct_id": "NCT00016432",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1598.0,
+                  "site_count": 162,
+                  "start_date": "2001-05-01",
+                  "completion_date": "2003-10-01",
+                  "recruitment_days": 883,
+                  "epsm": 0.34005229087146793
+                }
+              },
+              {
+                "nct_id": "NCT00066573",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 7576.0,
+                  "site_count": 39,
+                  "start_date": "2003-06-06",
+                  "completion_date": "2010-11-07",
+                  "recruitment_days": 2711,
+                  "epsm": 2.1811748905219948
+                }
+              },
+              {
+                "nct_id": "NCT00002777",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 342.0,
+                  "site_count": 48,
+                  "start_date": "1996-05-01",
+                  "completion_date": "2002-12-01",
+                  "recruitment_days": 2405,
+                  "epsm": 0.09018087318087319
+                }
+              },
+              {
+                "nct_id": "NCT00008411",
+                "rule": "* Platelet count at least 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 90.0,
+                  "site_count": 2,
+                  "start_date": "1999-12-01",
+                  "completion_date": "2006-03-01",
+                  "recruitment_days": 2282,
+                  "epsm": 0.6002629272567923
+                }
+              },
+              {
+                "nct_id": "NCT01526369",
+                "rule": "* Platelets ≥ (100 x 10\\^9/L)",
+                "trial_stats": {
+                  "enrollment": 75.0,
+                  "site_count": 35,
+                  "start_date": "2012-02-13",
+                  "completion_date": "2015-11-01",
+                  "recruitment_days": 1357,
+                  "epsm": 0.04806821770712706
+                }
+              },
+              {
+                "nct_id": "NCT00002544",
+                "rule": "* Platelet count greater than 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 300.0,
+                  "site_count": 1,
+                  "start_date": "1993-05-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00017095",
+                "rule": "* Platelet count greater than 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1856.0,
+                  "site_count": 39,
+                  "start_date": "2001-03-01",
+                  "completion_date": "2006-11-01",
+                  "recruitment_days": 2071,
+                  "epsm": 0.6994842080501182
+                }
+              },
+              {
+                "nct_id": "NCT00002528",
+                "rule": "* Platelet count greater than 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 473.0,
+                  "site_count": 21,
+                  "start_date": "1993-05-01",
+                  "completion_date": "2002-12-01",
+                  "recruitment_days": 3501,
+                  "epsm": 0.19583683573400798
+                }
+              },
+              {
+                "nct_id": "NCT01881230",
+                "rule": "* Platelets ≥ 100,000/mm\\^2 ;",
+                "trial_stats": {
+                  "enrollment": 191.0,
+                  "site_count": 140,
+                  "start_date": "2013-09-26",
+                  "completion_date": "2016-10-28",
+                  "recruitment_days": 1128,
+                  "epsm": 0.03681636271529889
+                }
+              },
+              {
+                "nct_id": "NCT01049425",
+                "rule": "* platelets \\< 100 G/l",
+                "trial_stats": {
+                  "enrollment": 3198.0,
+                  "site_count": 1,
+                  "start_date": "2009-02-05",
+                  "completion_date": "2017-03-01",
+                  "recruitment_days": 2946,
+                  "epsm": 33.04382892057027
+                }
+              },
+              {
+                "nct_id": "NCT00963729",
+                "rule": "* Platelets ≥ 100 × 10\\^9/L",
+                "trial_stats": {
+                  "enrollment": 756.0,
+                  "site_count": 5,
+                  "start_date": "2008-09-01",
+                  "completion_date": "2010-03-01",
+                  "recruitment_days": 546,
+                  "epsm": 8.429538461538462
+                }
+              },
+              {
+                "nct_id": "NCT00044291",
+                "rule": "* Platelet count of less than 100,000 platelets per mm3",
+                "trial_stats": {
+                  "enrollment": 865.0,
+                  "site_count": 65,
+                  "start_date": "2002-06-01",
+                  "completion_date": "2006-01-01",
+                  "recruitment_days": 1310,
+                  "epsm": 0.3092260716382854
+                }
+              },
+              {
+                "nct_id": "NCT00776724",
+                "rule": "* Platelets ≧100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 166.0,
+                  "site_count": 1,
+                  "start_date": "2008-05-29",
+                  "completion_date": "2014-11-30",
+                  "recruitment_days": 2376,
+                  "epsm": 2.126700336700337
+                }
+              },
+              {
+                "nct_id": "NCT01779206",
+                "rule": "* Platelets \\< 100 x 10\\^9/l",
+                "trial_stats": {
+                  "enrollment": 4936.0,
+                  "site_count": 2,
+                  "start_date": "2012-05-01",
+                  "completion_date": "2019-09-01",
+                  "recruitment_days": 2679,
+                  "epsm": 28.0425233296006
+                }
+              },
+              {
+                "nct_id": "NCT00288002",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 1500.0,
+                  "site_count": 1,
+                  "start_date": "2005-01-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00003140",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 5187.0,
+                  "site_count": 57,
+                  "start_date": "1998-08-24",
+                  "completion_date": "2003-08-22",
+                  "recruitment_days": 1824,
+                  "epsm": 1.5186622807017545
+                }
+              },
+              {
+                "nct_id": "NCT00253422",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 698.0,
+                  "site_count": 2,
+                  "start_date": "2004-03-26",
+                  "completion_date": "2022-11-28",
+                  "recruitment_days": 6821,
+                  "epsm": 1.55747837560475
+                }
+              },
+              {
+                "nct_id": "NCT00014222",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 2104.0,
+                  "site_count": 78,
+                  "start_date": "2000-12-04",
+                  "completion_date": "2014-02-10",
+                  "recruitment_days": 4816,
+                  "epsm": 0.17049407956384702
+                }
+              },
+              {
+                "nct_id": "NCT00107263",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 558.0,
+                  "site_count": 0,
+                  "start_date": "2005-01-01",
+                  "completion_date": "2007-03-01",
+                  "recruitment_days": 789,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00245050",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 34.0,
+                  "site_count": 8,
+                  "start_date": "2004-04-01",
+                  "completion_date": "2008-04-01",
+                  "recruitment_days": 1461,
+                  "epsm": 0.08854893908282
+                }
+              },
+              {
+                "nct_id": "NCT00103233",
+                "rule": "* Platelet count ≥ 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 0,
+                  "start_date": "2004-12-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT02692755",
+                "rule": "* Platelets ≥100,000/mm3 (100 x 109/L);",
+                "trial_stats": {
+                  "enrollment": 35.0,
+                  "site_count": 6,
+                  "start_date": "2016-09-01",
+                  "completion_date": "2019-12-16",
+                  "recruitment_days": 1201,
+                  "epsm": 0.14784901470996392
+                }
+              },
+              {
+                "nct_id": "NCT01275677",
+                "rule": "* Platelet count must be \\>= 100,000/mm\\^3",
+                "trial_stats": {
+                  "enrollment": 3270.0,
+                  "site_count": 1283,
+                  "start_date": "2011-02-08",
+                  "completion_date": "2017-07-31",
+                  "recruitment_days": 2365,
+                  "epsm": 0.03280458887484572
+                }
+              },
+              {
+                "nct_id": "NCT00789581",
+                "rule": "* Platelet count \\>=100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 614.0,
+                  "site_count": 70,
+                  "start_date": "2008-12-01",
+                  "completion_date": "2015-12-01",
+                  "recruitment_days": 2556,
+                  "epsm": 0.10446098815112902
+                }
+              },
+              {
+                "nct_id": "NCT01764022",
+                "rule": "* Platelets ≤100 000/mm3;",
+                "trial_stats": {
+                  "enrollment": 225.0,
+                  "site_count": 36,
+                  "start_date": "2012-10-01",
+                  "completion_date": "2015-03-01",
+                  "recruitment_days": 881,
+                  "epsm": 0.2159477866061294
+                }
+              },
+              {
+                "nct_id": "NCT00003440",
+                "rule": "* Platelet count \\>= 100,000/ul",
+                "trial_stats": {
+                  "enrollment": 580.0,
+                  "site_count": 1,
+                  "start_date": "1998-07-01",
+                  "completion_date": "2004-07-01",
+                  "recruitment_days": 2192,
+                  "epsm": 8.054379562043795
+                }
+              },
+              {
+                "nct_id": "NCT00785291",
+                "rule": "* Platelet count \\>= 100,000/ul",
+                "trial_stats": {
+                  "enrollment": 799.0,
+                  "site_count": 704,
+                  "start_date": "2008-10-13",
+                  "completion_date": "2013-12-31",
+                  "recruitment_days": 1905,
+                  "epsm": 0.018135260081126224
+                }
+              },
+              {
+                "nct_id": "NCT00601900",
+                "rule": "* Platelet count \\>= 100,000/ul",
+                "trial_stats": {
+                  "enrollment": 394.0,
+                  "site_count": 522,
+                  "start_date": "2008-09-24",
+                  "completion_date": "2014-06-30",
+                  "recruitment_days": 2105,
+                  "epsm": 0.010914862442096452
+                }
+              },
+              {
+                "nct_id": "NCT03013504",
+                "rule": "3. Platelet count ≥ 100,000/μL Up to 5% Deviation is acceptable.",
+                "trial_stats": {
+                  "enrollment": 503.0,
+                  "site_count": 15,
+                  "start_date": "2018-02-19",
+                  "completion_date": "2019-04-19",
+                  "recruitment_days": 424,
+                  "epsm": 2.407440251572327
+                }
+              },
+              {
+                "nct_id": "NCT00047255",
+                "rule": "* Platelet count at least 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 263.0,
+                  "site_count": 1,
+                  "start_date": "2002-05-01",
+                  "completion_date": "2006-01-01",
+                  "recruitment_days": 1341,
+                  "epsm": 5.969962714392245
+                }
+              },
+              {
+                "nct_id": "NCT00002662",
+                "rule": "* Platelet count at least 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 32,
+                  "start_date": "1994-08-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00146549",
+                "rule": "* Platelets \\> 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 250.0,
+                  "site_count": 2,
+                  "start_date": "2001-08-01",
+                  "completion_date": "2007-08-01",
+                  "recruitment_days": 2191,
+                  "epsm": 1.7366499315381108
+                }
+              },
+              {
+                "nct_id": "NCT00003088",
+                "rule": "* Platelet count \\> 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 2005.0,
+                  "site_count": 19,
+                  "start_date": "1997-09-01",
+                  "completion_date": "2003-04-01",
+                  "recruitment_days": 2038,
+                  "epsm": 1.5761634213108826
+                }
+              },
+              {
+                "nct_id": "NCT03447132",
+                "rule": "* Platelet count ≥ 100 G/L.",
+                "trial_stats": {
+                  "enrollment": 354.0,
+                  "site_count": 14,
+                  "start_date": "2017-12-20",
+                  "completion_date": "2021-04-12",
+                  "recruitment_days": 1209,
+                  "epsm": 0.6366394895427153
+                }
+              },
+              {
+                "nct_id": "NCT02376985",
+                "rule": "2. Platelet count of ≥100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 174.0,
+                  "site_count": 1,
+                  "start_date": "2015-03-26",
+                  "completion_date": "2018-03-31",
+                  "recruitment_days": 1101,
+                  "epsm": 4.810681198910082
+                }
+              },
+              {
+                "nct_id": "NCT03969121",
+                "rule": "Platelets: ≥ 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 141.0,
+                  "site_count": 25,
+                  "start_date": "2019-07-16",
+                  "completion_date": "2021-12-23",
+                  "recruitment_days": 891,
+                  "epsm": 0.1926841750841751
+                }
+              },
+              {
+                "nct_id": "NCT00047099",
+                "rule": "* Platelet count at least 100,000",
+                "trial_stats": {
+                  "enrollment": 446.0,
+                  "site_count": 2,
+                  "start_date": "2001-08-01",
+                  "completion_date": "2012-02-01",
+                  "recruitment_days": 3836,
+                  "epsm": 1.769582898852972
+                }
+              },
+              {
+                "nct_id": "NCT00022516",
+                "rule": "* Platelet count greater than 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 1086.0,
+                  "site_count": 36,
+                  "start_date": "2000-11-01",
+                  "completion_date": "2015-01-01",
+                  "recruitment_days": 5174,
+                  "epsm": 0.17747841772967402
+                }
+              },
+              {
+                "nct_id": "NCT00032136",
+                "rule": "* Platelet count greater than 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 4400.0,
+                  "site_count": 1,
+                  "start_date": "2001-12-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT03343145",
+                "rule": "* Platelet Count ≥ 100,000/mm3",
+                "trial_stats": {
+                  "enrollment": 143.0,
+                  "site_count": 1,
+                  "start_date": "2017-01-12",
+                  "completion_date": "2019-01-28",
+                  "recruitment_days": 746,
+                  "epsm": 5.835013404825738
+                }
+              },
+              {
+                "nct_id": "NCT01104935",
+                "rule": "* Platelet ≥100 000 mm3",
+                "trial_stats": {
+                  "enrollment": 275.0,
+                  "site_count": 1,
+                  "start_date": "2009-10-28",
+                  "completion_date": "2017-10-31",
+                  "recruitment_days": 2925,
+                  "epsm": 2.861880341880342
+                }
+              },
+              {
+                "nct_id": "NCT00390455",
+                "rule": "* Platelet count \\>= 100,000/μl",
+                "trial_stats": {
+                  "enrollment": 295.0,
+                  "site_count": 368,
+                  "start_date": "2006-09-15",
+                  "completion_date": "2014-07-01",
+                  "recruitment_days": 2846,
+                  "epsm": 0.008574009288398667
+                }
+              },
+              {
+                "nct_id": "NCT03084237",
+                "rule": "* Platelets ≥100,000/μL",
+                "trial_stats": {
+                  "enrollment": 652.0,
+                  "site_count": 88,
+                  "start_date": "2016-11-01",
+                  "completion_date": "2018-11-23",
+                  "recruitment_days": 752,
+                  "epsm": 0.2999105415860735
+                }
+              },
+              {
+                "nct_id": "NCT00513292",
+                "rule": "* Platelet count ≥ 100,000/mm³",
+                "trial_stats": {
+                  "enrollment": 280.0,
+                  "site_count": 115,
+                  "start_date": "2007-07-01",
+                  "completion_date": "2012-06-01",
+                  "recruitment_days": 1797,
+                  "epsm": 0.0412436185913721
+                }
+              },
+              {
+                "nct_id": "NCT02450058",
+                "rule": "* Platelet count ≥ 100,000/mm³",
+                "trial_stats": {
+                  "enrollment": 1055.0,
+                  "site_count": 8,
+                  "start_date": "1996-11-01",
+                  "completion_date": "2012-05-01",
+                  "recruitment_days": 5660,
+                  "epsm": 0.7092358657243816
+                }
+              },
+              {
+                "nct_id": "NCT00630032",
+                "rule": "* Platelet count ≥100,000/mm³",
+                "trial_stats": {
+                  "enrollment": 762.0,
+                  "site_count": 86,
+                  "start_date": "2007-09-01",
+                  "completion_date": "2017-06-01",
+                  "recruitment_days": 3561,
+                  "epsm": 0.0757406790619306
+                }
+              },
+              {
+                "nct_id": "NCT00024102",
+                "rule": "* Platelet count ≥100,000/µl",
+                "trial_stats": {
+                  "enrollment": 633.0,
+                  "site_count": 334,
+                  "start_date": "2001-09-01",
+                  "completion_date": "2008-05-01",
+                  "recruitment_days": 2434,
+                  "epsm": 0.023701799359374925
+                }
+              },
+              {
+                "nct_id": "NCT01619111",
+                "rule": "* platelet count ≥ 100000/µL,",
+                "trial_stats": {
+                  "enrollment": 105.0,
+                  "site_count": 1,
+                  "start_date": "2012-02-01",
+                  "completion_date": "2022-01-01",
+                  "recruitment_days": 3622,
+                  "epsm": 0.882440640530094
+                }
+              }
+            ]
+          },
+          "the patient has liver dysfunction, including baseline alanine amino transferase (alt) and/or aspartate amino transferase (ast) greater than or equal to 3 times the upper limit of normal (uln): descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.005763688760806916,
+              "n_trials": 4,
+              "enrollment_mean": 258.25,
+              "enrollment_std": 100.98308439205714,
+              "site_mean": 46.75,
+              "site_std": 65.65757128211999,
+              "recruitment_months_mean": 60.72601839684625,
+              "recruitment_months_std": 48.87133503489888,
+              "epsm_mean": 0.25200743816370674,
+              "epsm_std": 0.136672518144221,
+              "start_date_mean": "2008-11-02",
+              "start_date_std_yrs": 4.48
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00561119",
+                "rule": "* Adequate Liver Function (≤ Serum Bilirubin 1.5 mg/dl, ≤ AST/ALT x 3 Upper Normal Limit)",
+                "trial_stats": {
+                  "enrollment": 326.0,
+                  "site_count": 15,
+                  "start_date": "2007-05-01",
+                  "completion_date": "2016-12-01",
+                  "recruitment_days": 3502,
+                  "epsm": 0.18890995621549592
+                }
+              },
+              {
+                "nct_id": "NCT00320385",
+                "rule": "* AST and ALT (≤ 3 x ULN without liver metastases) (≤ 5 xULN if documented liver metastases)",
+                "trial_stats": {
+                  "enrollment": 296.0,
+                  "site_count": 145,
+                  "start_date": "2005-11-01",
+                  "completion_date": "2007-06-01",
+                  "recruitment_days": 577,
+                  "epsm": 0.10769425685770635
+                }
+              },
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* Alanine amino transferase (ALT) and/or aspartate amino transferase (AST) ≥ 3 Upper Limit Normal (ULN)",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              },
+              {
+                "nct_id": "NCT00122356",
+                "rule": "* AST/SGOT and/or ALT/SGPT \\> 3 x ULN in combination with other laboratory and clinical abnormalities indicating liver insufficiency",
+                "trial_stats": {
+                  "enrollment": 303.0,
+                  "site_count": 8,
+                  "start_date": "2005-09-01",
+                  "completion_date": "2013-02-01",
+                  "recruitment_days": 2710,
+                  "epsm": 0.425429889298893
+                }
+              }
+            ]
+          },
+          "the patient has liver dysfunction, including baseline alkaline phosphatase (alp) greater than or equal to 3 times the upper limit of normal (uln): descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.004322766570605188,
+              "n_trials": 3,
+              "enrollment_mean": 207.0,
+              "enrollment_std": 97.53460924205315,
+              "site_mean": 9.0,
+              "site_std": 9.539392014169456,
+              "recruitment_months_mean": 55.13578624616732,
+              "recruitment_months_std": 34.5965303955763,
+              "epsm_mean": 0.35571276979081234,
+              "epsm_std": 0.09859489593791362,
+              "start_date_mean": "2009-05-29",
+              "start_date_std_yrs": 5.03
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* Alkaline phosphatase (ALP) ≥3 ͯ ULN",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              },
+              {
+                "nct_id": "NCT00266799",
+                "rule": "* Patients with reduced liver functions (evidenced by bilirubin of above 1.5 times the upper limits of normal (ULN); alkaline phosphatase above 3 times ULN (except related to liver metastasis, in which case \\<=5 x ULN).",
+                "trial_stats": {
+                  "enrollment": 210.0,
+                  "site_count": 0,
+                  "start_date": "2006-01-13",
+                  "completion_date": "2010-09-29",
+                  "recruitment_days": 1720,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT00122356",
+                "rule": "* AST/SGOT and/or ALT/SGPT \\> 3 x ULN in combination with other laboratory and clinical abnormalities indicating liver insufficiency",
+                "trial_stats": {
+                  "enrollment": 303.0,
+                  "site_count": 8,
+                  "start_date": "2005-09-01",
+                  "completion_date": "2013-02-01",
+                  "recruitment_days": 2710,
+                  "epsm": 0.425429889298893
+                }
+              }
+            ]
+          },
+          "the patient has liver dysfunction, including serum total bilirubin greater than 1.5 times the upper limit of normal (uln): descriptive": {
+            "rule_stats": {
+              "overall_frequency": 0.010086455331412104,
+              "n_trials": 7,
+              "enrollment_mean": 1592.8333333333333,
+              "enrollment_std": 3326.556502851961,
+              "site_mean": 143.28571428571428,
+              "site_std": 344.9761896545491,
+              "recruitment_months_mean": 37.89421813403416,
+              "recruitment_months_std": 25.129707585628577,
+              "epsm_mean": 4.956341312669944,
+              "epsm_std": 10.448972463313522,
+              "start_date_mean": "2011-09-05",
+              "start_date_std_yrs": 6.86
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT00109239",
+                "rule": "* Screening clinical laboratory values: \\*ANC of \\<1500/uL; \\*Platelet count of \\<75,000/uL; \\*INR of \\>=1.5; \\*Total bilirubin of \\>1.5 times upper limit of normal; \\*AST or ALT \\>2.5 times the upper limit of normal (\\>5 times the upper limit of normal in subjects with known metastatic disease in the liver); \\*Serum creatinine of \\>2.0 mg/dL; \\*Hemoglobin of \\<9 gm/dL (may be transfused to maintain or exceed this level)",
+                "trial_stats": {
+                  "enrollment": NaN,
+                  "site_count": 0,
+                  "start_date": "2000-11-01",
+                  "completion_date": null,
+                  "recruitment_days": null,
+                  "epsm": NaN
+                }
+              },
+              {
+                "nct_id": "NCT05283837",
+                "rule": "5. Total serum bilirubin \\>1.5 x ULN",
+                "trial_stats": {
+                  "enrollment": 268.0,
+                  "site_count": 1,
+                  "start_date": "2022-09-26",
+                  "completion_date": "2023-09-06",
+                  "recruitment_days": 345,
+                  "epsm": 23.646144927536234
+                }
+              },
+              {
+                "nct_id": "NCT00490139",
+                "rule": "1. Serum total bilirubin \\>1.5 x upper limit of normal (ULN). In the case of known Gilbert's syndrome, a higher serum total bilirubin (\\<2 x ULN) was allowed;",
+                "trial_stats": {
+                  "enrollment": 8381.0,
+                  "site_count": 925,
+                  "start_date": "2007-05-16",
+                  "completion_date": "2013-12-06",
+                  "recruitment_days": 2396,
+                  "epsm": 0.11510970536479719
+                }
+              },
+              {
+                "nct_id": "NCT02482753",
+                "rule": "13. Abnormal liver function \\[total bilirubin \\> 1.5×upper limit of normal (\\> 3×upper limit of normal in case of Gilbert syndrome); Transaminases (ALT, AST) \\>2.5×upper limit of normal (\\>5x upper limit of normal patients with liver metastases), abnormal renal function (serum creatinine \\> 1.5×upper limit of normal);",
+                "trial_stats": {
+                  "enrollment": 365.0,
+                  "site_count": 22,
+                  "start_date": "2015-07-01",
+                  "completion_date": "2018-03-01",
+                  "recruitment_days": 974,
+                  "epsm": 0.5185084935598282
+                }
+              },
+              {
+                "nct_id": "NCT03425656",
+                "rule": "* serum total bilirubin \\> 1.5 ULN",
+                "trial_stats": {
+                  "enrollment": 108.0,
+                  "site_count": 19,
+                  "start_date": "2016-07-09",
+                  "completion_date": "2018-03-06",
+                  "recruitment_days": 605,
+                  "epsm": 0.2859956502827316
+                }
+              },
+              {
+                "nct_id": "NCT01764022",
+                "rule": "* Bilirubin level ≥ 1.5 × ULN;",
+                "trial_stats": {
+                  "enrollment": 225.0,
+                  "site_count": 36,
+                  "start_date": "2012-10-01",
+                  "completion_date": "2015-03-01",
+                  "recruitment_days": 881,
+                  "epsm": 0.2159477866061294
+                }
+              },
+              {
+                "nct_id": "NCT00266799",
+                "rule": "* Patients with reduced liver functions (evidenced by bilirubin of above 1.5 times the upper limits of normal (ULN); alkaline phosphatase above 3 times ULN (except related to liver metastasis, in which case \\<=5 x ULN).",
+                "trial_stats": {
+                  "enrollment": 210.0,
+                  "site_count": 0,
+                  "start_date": "2006-01-13",
+                  "completion_date": "2010-09-29",
+                  "recruitment_days": 1720,
+                  "epsm": NaN
+                }
+              }
+            ]
+          },
+          "min serum creatinine (mg/dl): 2.5": {
+            "rule_stats": {
+              "overall_frequency": 0.002881844380403458,
+              "n_trials": 2,
+              "enrollment_mean": 3042.5,
+              "enrollment_std": 219.9102089490163,
+              "site_mean": 11.0,
+              "site_std": 14.142135623730951,
+              "recruitment_months_mean": 127.8909329829172,
+              "recruitment_months_std": 43.99672285043763,
+              "epsm_mean": 16.9542259518239,
+              "epsm_std": 22.75413473159953,
+              "start_date_mean": "2003-10-04",
+              "start_date_std_yrs": 5.34
+            },
+            "matched_trials": [
+              {
+                "nct_id": "NCT01049425",
+                "rule": "* creatinine \\< 175 ymol/L (2 mg/dL)",
+                "trial_stats": {
+                  "enrollment": 3198.0,
+                  "site_count": 1,
+                  "start_date": "2009-02-05",
+                  "completion_date": "2017-03-01",
+                  "recruitment_days": 2946,
+                  "epsm": 33.04382892057027
+                }
+              },
+              {
+                "nct_id": "NCT00174655",
+                "rule": "* Creatinine \\< or = 150 µmol/L (1.5 mg/dL)",
+                "trial_stats": {
+                  "enrollment": 2887.0,
+                  "site_count": 21,
+                  "start_date": "1998-06-01",
+                  "completion_date": "2011-09-01",
+                  "recruitment_days": 4840,
+                  "epsm": 0.8646229830775285
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

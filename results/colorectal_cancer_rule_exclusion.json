@@ -1,0 +1,3317 @@
+{
+  "NCT02563002": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Incl: min absolute neutrophil count (/\u00b5l)**1500.0",
+        "count": 1707,
+        "pct": 70.10266940451746
+      },
+      {
+        "rule": "Incl: min platelet count (/\u00b5l)**100000.0",
+        "count": 1561,
+        "pct": 64.10677618069815
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 1408,
+        "pct": 57.82340862422998
+      },
+      {
+        "rule": "Incl: min hemoglobin (mmol/l)**5.6",
+        "count": 1193,
+        "pct": 48.993839835728956
+      },
+      {
+        "rule": "Excl: the patient has another malignancy that is progressing or requires active treatment, except for non-melanomatous skin cancer that has undergone potentially curative therapy and in situ cervical carcinoma**descriptive",
+        "count": 1089,
+        "pct": 44.72279260780287
+      },
+      {
+        "rule": "Incl: the patient has a creatinine level less than or equal to 1.5 times the upper limit of normal (uln) or a measured or calculated creatinine clearance (crcl) or glomerular filtration rate (gfr) of at least 60 milliliters per minute (ml/min) for subjects with creatinine levels greater than 1.5 times the institutional uln**descriptive",
+        "count": 877,
+        "pct": 36.016427104722794
+      },
+      {
+        "rule": "Excl: the patient has a known history of, or any evidence of, interstitial lung disease or active, non-infectious pneumonitis**descriptive",
+        "count": 612,
+        "pct": 25.13347022587269
+      },
+      {
+        "rule": "Incl: the patient has aspartate aminotransferase (ast) and alanine aminotransferase (alt) levels less than or equal to 2.5 times the upper limit of normal (uln) or less than or equal to 5 times the uln for subjects with liver metastases**descriptive",
+        "count": 559,
+        "pct": 22.95687885010267
+      },
+      {
+        "rule": "Incl: the patient has a total bilirubin level less than or equal to 1.5 times the upper limit of normal (uln) or a direct bilirubin level less than or equal to the uln for subjects with total bilirubin levels greater than 1.5 times the uln**descriptive",
+        "count": 414,
+        "pct": 17.00205338809035
+      },
+      {
+        "rule": "Excl: the patient has an active autoimmune disease that has required systemic treatment in the past 2 years**descriptive",
+        "count": 340,
+        "pct": 13.963039014373715
+      },
+      {
+        "rule": "Incl: min albumin (g/dl)**2.5",
+        "count": 319,
+        "pct": 13.100616016427105
+      },
+      {
+        "rule": "Excl: the patient has a known history of active tuberculosis (bacillus tuberculosis)**descriptive",
+        "count": 317,
+        "pct": 13.018480492813142
+      },
+      {
+        "rule": "Incl: the patient has locally confirmed mmr deficient (dmmr) or microsatellite instability high (msi h) stage iv colorectal carcinoma**descriptive",
+        "count": 291,
+        "pct": 11.950718685831623
+      },
+      {
+        "rule": "Excl: the patient has a known history of human immunodeficiency virus (hiv 1/2 antibodies), active chronic or acute hepatitis b (hbsag reactive), or hepatitis c (hcv rna detected)**descriptive",
+        "count": 259,
+        "pct": 10.636550308008214
+      },
+      {
+        "rule": "Excl: the patient has had radiation therapy within 4 weeks prior to randomization and has not recovered to baseline from adverse events due to radiation therapy**descriptive",
+        "count": 128,
+        "pct": 5.256673511293634
+      },
+      {
+        "rule": "Excl: the patient has known active central nervous system metastases and/or carcinomatous meningitis**descriptive",
+        "count": 107,
+        "pct": 4.394250513347023
+      },
+      {
+        "rule": "Excl: the patient has received prior adjuvant chemotherapy for colorectal cancer, completed at least 6 months prior to randomization**descriptive",
+        "count": 97,
+        "pct": 3.9835728952772076
+      },
+      {
+        "rule": "Excl: the patient has received prior systemic therapy for stage iv colorectal cancer**descriptive",
+        "count": 92,
+        "pct": 3.7782340862423
+      },
+      {
+        "rule": "Incl: the patient has an international normalized ratio (inr) or prothrombin time (pt) less than or equal to 1.5 times the upper limit of normal (uln) unless receiving anticoagulant therapy, as long as pt or partial prothrombin time (ptt) is within the therapeutic range of intended use of anticoagulants**descriptive",
+        "count": 86,
+        "pct": 3.5318275154004106
+      },
+      {
+        "rule": "Excl: the patient has an active infection requiring systemic therapy**descriptive",
+        "count": 75,
+        "pct": 3.0800821355236137
+      },
+      {
+        "rule": "Excl: the patient has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to randomization**descriptive",
+        "count": 74,
+        "pct": 3.0390143737166326
+      },
+      {
+        "rule": "Excl: the patient has received prior therapy with an immune checkpoint inhibitor (such as anti-pd-1, anti-pd-l1, anti-pd-l2, or anti-ctla-4 agents)**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      }
+    ]
+  },
+  "NCT03750786": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has a malignant tumor other than colorectal adenocarcinoma, either currently or within the previous five years, except for curatively treated nonmelanoma skin cancer or in situ carcinoma of the cervix**descriptive",
+        "count": 2221,
+        "pct": 91.21149897330596
+      },
+      {
+        "rule": "Excl: the patient has unresolved bowel obstruction, uncontrolled crohn\u2019s disease, or ulcerative colitis**descriptive",
+        "count": 1788,
+        "pct": 73.42915811088295
+      },
+      {
+        "rule": "Excl: the patient currently has a chronic infection or uncontrolled serious illness causing immunodeficiency**descriptive",
+        "count": 789,
+        "pct": 32.40246406570842
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (10^9/l)**1.5",
+        "count": 729,
+        "pct": 29.938398357289525
+      },
+      {
+        "rule": "Incl: the patient has total bilirubin less than 1.5 times the upper limit of normal (uln)**descriptive",
+        "count": 418,
+        "pct": 17.166324435318277
+      },
+      {
+        "rule": "Excl: the patient has ongoing drug or alcohol abuse, as deemed by the investigator**descriptive",
+        "count": 329,
+        "pct": 13.511293634496921
+      },
+      {
+        "rule": "Incl: min creatinine clearance (ml/min)**50.0",
+        "count": 291,
+        "pct": 11.950718685831623
+      },
+      {
+        "rule": "Incl: min thrombocytes (10^9/l)**100.0",
+        "count": 287,
+        "pct": 11.786447638603697
+      },
+      {
+        "rule": "Excl: the patient has a serious medical or psychiatric illness likely to interfere with participation in this clinical study**descriptive",
+        "count": 287,
+        "pct": 11.786447638603697
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/l)**80.0",
+        "count": 203,
+        "pct": 8.336755646817242
+      },
+      {
+        "rule": "Excl: the patient has an indication for any metastatic colorectal cancer mcrc surgery or anti cancer treatment other than the study treatment**descriptive",
+        "count": 139,
+        "pct": 5.708418891170431
+      },
+      {
+        "rule": "Excl: the patient has any condition that, in the opinion of the investigator, could compromise the patient's safety or adherence to the study protocol**descriptive",
+        "count": 119,
+        "pct": 4.887063655030801
+      },
+      {
+        "rule": "Excl: the patient has known or suspected central nervous system cns metastases**descriptive",
+        "count": 42,
+        "pct": 1.724845995893224
+      },
+      {
+        "rule": "Incl: the patient has colorectal adenocarcinoma verified by biopsy**descriptive",
+        "count": 30,
+        "pct": 1.2320328542094456
+      },
+      {
+        "rule": "Excl: the patient currently has ctcae grade 3 or higher diarrhea**descriptive",
+        "count": 22,
+        "pct": 0.9034907597535934
+      },
+      {
+        "rule": "Excl: min time since surgery excluding previous diagnostic biopsy (days)**28.0",
+        "count": 14,
+        "pct": 0.5749486652977412
+      },
+      {
+        "rule": "Excl: the patient is breastfeeding**descriptive",
+        "count": 11,
+        "pct": 0.4517453798767967
+      },
+      {
+        "rule": "Incl: the patient is a female of childbearing potential with a negative urine pregnancy test and uses adequate contraceptive measures**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      }
+    ]
+  },
+  "NCT04776148": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Incl: the patient has a life expectancy of at least 3 months based on investigator assessment**descriptive",
+        "count": 916,
+        "pct": 37.61806981519507
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (/\u00b5l)**1500.0",
+        "count": 862,
+        "pct": 35.40041067761807
+      },
+      {
+        "rule": "Incl: min platelet count (/\u00b5l)**100000.0",
+        "count": 838,
+        "pct": 34.41478439425051
+      },
+      {
+        "rule": "Incl: the patient has an ecog performance status of 0 to 1 within 3 days prior to randomization**descriptive",
+        "count": 812,
+        "pct": 33.347022587268995
+      },
+      {
+        "rule": "Excl: min urine protein (gram/24 hours)**1.0",
+        "count": 772,
+        "pct": 31.704312114989737
+      },
+      {
+        "rule": "Excl: the patient has radiographic evidence of encasement or invasion of a major blood vessel or intratumoral cavitation**descriptive",
+        "count": 563,
+        "pct": 23.121149897330596
+      },
+      {
+        "rule": "Incl: the patient has creatinine \u22641.5 \u00d7 upper limit of normal (uln) or measured or calculated creatinine clearance \u226530 ml/min for creatinine levels >1.5 \u00d7 institutional uln**descriptive",
+        "count": 441,
+        "pct": 18.11088295687885
+      },
+      {
+        "rule": "Excl: the patient has a known additional malignancy that is progressing or has required active treatment within the past 3 years, except for early stage cancers treated with curative intent, basal cell carcinoma of the skin, squamous cell carcinoma of the skin, in situ cervical cancer, or in situ breast cancer that has undergone potentially curative therapy**descriptive",
+        "count": 421,
+        "pct": 17.28952772073922
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 418,
+        "pct": 17.166324435318277
+      },
+      {
+        "rule": "Incl: the patient has adequate organ function as defined by the following laboratory values collected within 3 days prior to the start of study intervention**descriptive",
+        "count": 390,
+        "pct": 16.01642710472279
+      },
+      {
+        "rule": "Excl: the patient has left ventricular ejection fraction (lvef) below the institutional or local laboratory normal range as determined by muga or echo**descriptive",
+        "count": 321,
+        "pct": 13.182751540041068
+      },
+      {
+        "rule": "Incl: min hemoglobin (mmol/l)**5.6",
+        "count": 306,
+        "pct": 12.566735112936344
+      },
+      {
+        "rule": "Excl: the patient has an active autoimmune disease that has required systemic treatment in the past 2 years, except for replacement therapy such as thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency**descriptive",
+        "count": 301,
+        "pct": 12.361396303901437
+      },
+      {
+        "rule": "Excl: the patient has a gastrointestinal condition, such as malabsorption, that might affect the absorption of the study drug**descriptive",
+        "count": 274,
+        "pct": 11.252566735112936
+      },
+      {
+        "rule": "Incl: the patient has adequately controlled blood pressure with or without antihypertensive medications, defined as blood pressure \u2264150/90 mm hg with no change in antihypertensive medications within 1 week prior to randomization**descriptive",
+        "count": 256,
+        "pct": 10.513347022587268
+      },
+      {
+        "rule": "Incl: the patient has total bilirubin \u22641.5 \u00d7 uln or direct bilirubin \u2264uln for participants with total bilirubin levels >1.5 \u00d7 uln**descriptive",
+        "count": 251,
+        "pct": 10.30800821355236
+      },
+      {
+        "rule": "Excl: the patient has preexisting grade 3 or higher gastrointestinal or nongastrointestinal fistula**descriptive",
+        "count": 242,
+        "pct": 9.938398357289529
+      },
+      {
+        "rule": "Excl: the patient has clinically significant cardiovascular disease within 12 months from first dose of study intervention, including new york heart association class iii or iv congestive heart failure, unstable angina, myocardial infarction, cerebral vascular accident, or cardiac arrhythmia associated with hemodynamic instability**descriptive",
+        "count": 216,
+        "pct": 8.870636550308008
+      },
+      {
+        "rule": "Incl: min albumin (g/dl)**3.0",
+        "count": 180,
+        "pct": 7.392197125256674
+      },
+      {
+        "rule": "Incl: the patient has the ability to swallow capsules or ingest a suspension orally or by a feeding tube**descriptive",
+        "count": 173,
+        "pct": 7.104722792607802
+      },
+      {
+        "rule": "Incl: max diastolic blood pressure (mm hg)**90.0",
+        "count": 164,
+        "pct": 6.7351129363449695
+      },
+      {
+        "rule": "Excl: the patient has received biologic response modifiers, such as granulocyte colony stimulating factor, within 4 weeks before study entry, except for chronic erythropoietin therapy with no dose adjustments within 2 months before first dose of study treatment**descriptive",
+        "count": 162,
+        "pct": 6.652977412731007
+      },
+      {
+        "rule": "Excl: the patient is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 28 days prior to the first dose of study intervention, unless in the follow up phase and 28 days have passed since the last dose**descriptive",
+        "count": 157,
+        "pct": 6.447638603696099
+      },
+      {
+        "rule": "Incl: max systolic blood pressure (mm hg)**150.0",
+        "count": 153,
+        "pct": 6.283367556468172
+      },
+      {
+        "rule": "Excl: the patient has known central nervous system metastases and/or carcinomatous meningitis**descriptive",
+        "count": 140,
+        "pct": 5.749486652977413
+      },
+      {
+        "rule": "Excl: the patient has a history of non infectious pneumonitis that required steroids or has current pneumonitis**descriptive",
+        "count": 104,
+        "pct": 4.271047227926078
+      },
+      {
+        "rule": "Incl: brain metastases**not present",
+        "count": 100,
+        "pct": 4.1067761806981515
+      },
+      {
+        "rule": "Incl: the male patient\u2019s contraception period continues for at least 7 days after discontinuation of lenvatinib**descriptive",
+        "count": 100,
+        "pct": 4.1067761806981515
+      },
+      {
+        "rule": "Incl: the male patient\u2019s contraceptive use is consistent with local regulations regarding methods of contraception for those participating in clinical studies**descriptive",
+        "count": 100,
+        "pct": 4.1067761806981515
+      },
+      {
+        "rule": "Excl: the patient has a known history of hepatitis b (defined as hbsag reactive) or known active hepatitis c virus infection (defined as hcv rna [qualitative] is detected)**descriptive",
+        "count": 98,
+        "pct": 4.024640657084189
+      },
+      {
+        "rule": "Excl: the patient has severe hypersensitivity (grade 3 or higher) to pembrolizumab and/or any of its excipients**descriptive",
+        "count": 91,
+        "pct": 3.7371663244353184
+      },
+      {
+        "rule": "Excl: the patient has a history of arterial thromboembolism within 12 months of start of study drug**descriptive",
+        "count": 90,
+        "pct": 3.696098562628337
+      },
+      {
+        "rule": "Excl: the patient has an active infection requiring systemic therapy**descriptive",
+        "count": 75,
+        "pct": 3.0800821355236137
+      },
+      {
+        "rule": "Excl: the patient has a serious nonhealing wound, ulcer, or bone fracture**descriptive",
+        "count": 63,
+        "pct": 2.5872689938398357
+      },
+      {
+        "rule": "Incl: fluoropyrimidine, irinotecan, and oxaliplatin**descriptive",
+        "count": 52,
+        "pct": 2.135523613963039
+      },
+      {
+        "rule": "Incl: the patient has measurable disease per recist 1.1 assessed by the investigator**descriptive",
+        "count": 50,
+        "pct": 2.0533880903490758
+      },
+      {
+        "rule": "Incl: the male patient with a pregnant or breastfeeding partner agrees to remain abstinent from penile vaginal intercourse or use a male condom during each episode of penile vaginal penetration**descriptive",
+        "count": 48,
+        "pct": 1.971252566735113
+      },
+      {
+        "rule": "Incl: the patient may have received anti-egfr monoclonal antibodies (cetuximab or panitumumab) if ras (kras/nras) wild-type**descriptive",
+        "count": 46,
+        "pct": 1.88911704312115
+      },
+      {
+        "rule": "Incl: the female patient is not pregnant or breastfeeding**descriptive",
+        "count": 45,
+        "pct": 1.8480492813141685
+      },
+      {
+        "rule": "Excl: the patient has received prior systemic anti cancer therapy, including investigational agents, within 28 days prior to randomization and has not recovered from all adverse events due to previous therapies to grade 1 or baseline, except for grade 2 neuropathy or endocrine related adverse events grade 2 or lower requiring treatment or hormone replacement**descriptive",
+        "count": 44,
+        "pct": 1.8069815195071868
+      },
+      {
+        "rule": "Excl: the patient has a known history of hiv infection**descriptive",
+        "count": 43,
+        "pct": 1.7659137577002053
+      },
+      {
+        "rule": "Excl: the patient has received prior radiotherapy within 2 weeks of start of study intervention and has not recovered from all radiation related toxicities, requires corticosteroids, or has had radiation pneumonitis**descriptive",
+        "count": 41,
+        "pct": 1.6837782340862424
+      },
+      {
+        "rule": "Excl: the patient has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy exceeding 10 mg daily of prednisone equivalent or any other form of immunosuppressive therapy within 7 days prior to the first dose of study medication**descriptive",
+        "count": 35,
+        "pct": 1.4373716632443532
+      },
+      {
+        "rule": "Incl: the patient\u2019s tumor is determined to be not msi-h/dmmr by local testing**descriptive",
+        "count": 26,
+        "pct": 1.0677618069815196
+      },
+      {
+        "rule": "Incl: the patient has a histologically or cytologically confirmed diagnosis of unresectable and metastatic colorectal adenocarcinoma (stage iv a, b, or c as defined by ajcc 8th edition)**descriptive",
+        "count": 21,
+        "pct": 0.862422997946612
+      },
+      {
+        "rule": "Incl: the patient with circulating tumor dna ras mutation but ras mutation negative in tissue may enroll before anti-egfr monoclonal antibody administration**descriptive",
+        "count": 20,
+        "pct": 0.8213552361396305
+      },
+      {
+        "rule": "Incl: the patient with ras (kras/nras) wild-type colorectal cancer lesions who may not have been treated with anti-egfr monoclonal antibodies based on local guidelines are eligible**descriptive",
+        "count": 20,
+        "pct": 0.8213552361396305
+      },
+      {
+        "rule": "Incl: the patient has been previously treated for their disease and has shown disease progression as defined by recist 1.1 on or after, or could not tolerate standard treatment**descriptive",
+        "count": 20,
+        "pct": 0.8213552361396305
+      },
+      {
+        "rule": "Excl: the patient has a tumor that is msi-h/dmmr as determined by local testing**descriptive",
+        "count": 19,
+        "pct": 0.7802874743326489
+      },
+      {
+        "rule": "Incl: the patient with braf v600e mutated metastatic colorectal cancer may have received a braf inhibitor in combination with cetuximab with or without binimetinib**descriptive",
+        "count": 17,
+        "pct": 0.6981519507186857
+      },
+      {
+        "rule": "Incl: the patient has inr or pt and aptt \u22641.5 \u00d7 uln unless receiving anticoagulant therapy, as long as pt or aptt is within the therapeutic range of intended use of anticoagulants**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: the patient may have received capecitabine as equivalent to fluoropyrimidine in prior therapy**descriptive",
+        "count": 11,
+        "pct": 0.4517453798767967
+      },
+      {
+        "rule": "Excl: the patient has previously received regorafenib or tas 102**descriptive",
+        "count": 5,
+        "pct": 0.20533880903490762
+      },
+      {
+        "rule": "Incl: the male patient agrees to be abstinent from heterosexual intercourse as their preferred and usual lifestyle or to use contraception unless confirmed to be azoospermic**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Excl: the patient has a known psychiatric or substance abuse disorder that would interfere with the ability to cooperate with the requirements of the study**descriptive",
+        "count": 1,
+        "pct": 0.04106776180698152
+      }
+    ]
+  },
+  "NCT02776683": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Incl: the patient has serum total bilirubin less than or equal to 1.5 times uln, except in the case of known gilbert's syndrome**descriptive",
+        "count": 1881,
+        "pct": 77.24845995893223
+      },
+      {
+        "rule": "Incl: the patient has alkaline phosphatase less than or equal to 2.5 times uln, or less than or equal to 5 times uln in the presence of hepatic and/or bone metastases**descriptive",
+        "count": 1684,
+        "pct": 69.15811088295688
+      },
+      {
+        "rule": "Incl: the patient has alanine aminotransferase (alt) or aspartate aminotransferase (ast) less than or equal to 2.5 times the upper limit of normal (uln), or less than or equal to 5 times uln if liver metastases are present**descriptive",
+        "count": 1657,
+        "pct": 68.04928131416837
+      },
+      {
+        "rule": "Incl: the patient has adequate hepatic, renal, and bone marrow function**descriptive",
+        "count": 1423,
+        "pct": 58.4394250513347
+      },
+      {
+        "rule": "Excl: the patient has new york heart association grade ii or greater congestive heart failure**descriptive",
+        "count": 998,
+        "pct": 40.98562628336755
+      },
+      {
+        "rule": "Excl: the patient has clinically serious non-healing wounds or incompletely healed bone fracture**descriptive",
+        "count": 886,
+        "pct": 36.38603696098562
+      },
+      {
+        "rule": "Excl: pregnancy status**yes",
+        "count": 854,
+        "pct": 35.07186858316222
+      },
+      {
+        "rule": "Incl: the patient has serum creatinine less than or equal to 1.5 times uln or a creatinine clearance of 50 ml/min or greater calculated by cockcroft-gault formula**descriptive",
+        "count": 827,
+        "pct": 33.96303901437372
+      },
+      {
+        "rule": "Excl: the patient has had a previous malignancy other than colorectal cancer in the last 5 years, except for basal cell cancer of the skin or pre-invasive cancer of the cervix**descriptive",
+        "count": 742,
+        "pct": 30.47227926078029
+      },
+      {
+        "rule": "Excl: the patient has a history of myocardial infarction within 6 months prior to screening**descriptive",
+        "count": 611,
+        "pct": 25.09240246406571
+      },
+      {
+        "rule": "Excl: the patient has a history of poorly controlled hypertension or resting blood pressure greater than 150/100 mmhg, regardless of anti-hypertensive therapy**descriptive",
+        "count": 486,
+        "pct": 19.958932238193018
+      },
+      {
+        "rule": "Excl: the patient is currently being treated with oral, inhaled, or topical corticosteroids at a dose exceeding 10 mg per day prednisolone or equivalent**descriptive",
+        "count": 466,
+        "pct": 19.137577002053387
+      },
+      {
+        "rule": "Excl: unstable angina**present",
+        "count": 451,
+        "pct": 18.521560574948666
+      },
+      {
+        "rule": "Incl: the patient has proteinuria less than 2 grams in 24 hours or an equivalent protein/creatinine ratio of less than 2000 mg/g creatinine (or less than 226.0 mg/mmol creatinine)**descriptive",
+        "count": 424,
+        "pct": 17.412731006160165
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 415,
+        "pct": 17.04312114989733
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (10^9/liter)**1.5",
+        "count": 378,
+        "pct": 15.523613963039015
+      },
+      {
+        "rule": "Excl: the patient has serious cardiac arrhythmia requiring medication**descriptive",
+        "count": 291,
+        "pct": 11.950718685831623
+      },
+      {
+        "rule": "Incl: the patient has an eastern cooperative oncology group performance status (ecog ps) of 0 or 1**descriptive",
+        "count": 251,
+        "pct": 10.30800821355236
+      },
+      {
+        "rule": "Excl: the patient has active or chronic hepatitis b or c, ongoing human immunodeficiency virus infection, or tuberculosis**descriptive",
+        "count": 209,
+        "pct": 8.583162217659138
+      },
+      {
+        "rule": "Excl: the patient has a history or evidence of inherited bleeding diathesis or coagulopathy with risk of bleeding**descriptive",
+        "count": 155,
+        "pct": 6.365503080082135
+      },
+      {
+        "rule": "Excl: the patient has previously irradiated brain metastasis that has not been shown to be stable at least 1 month after completion of radiation therapy (by ct scan or mri) at screening visit**descriptive",
+        "count": 133,
+        "pct": 5.462012320328542
+      },
+      {
+        "rule": "Incl: the patient has a partial thromboplastin time within normal limits according to local practice**descriptive",
+        "count": 112,
+        "pct": 4.59958932238193
+      },
+      {
+        "rule": "Incl: the patient is considered female of childbearing potential if she has not undergone a permanent contraceptive operation or is not postmenopausal**descriptive",
+        "count": 93,
+        "pct": 3.8193018480492813
+      },
+      {
+        "rule": "Incl: min platelet count (10^9/liter)**100.0",
+        "count": 85,
+        "pct": 3.4907597535934287
+      },
+      {
+        "rule": "Excl: the patient has experienced a thrombotic or hemorrhagic event within 6 months prior to screening, including hemoptysis, gastrointestinal bleeding, hematemesis, central nervous system hemorrhage, epistaxis, vaginal bleeding, cerebral infarction, transient ischemic attacks, myocardial infarction, angina, and coronary artery disease**descriptive",
+        "count": 74,
+        "pct": 3.0390143737166326
+      },
+      {
+        "rule": "Incl: max international normalized ratio (inr)**1.4",
+        "count": 50,
+        "pct": 2.0533880903490758
+      },
+      {
+        "rule": "Excl: the patient has a history of active gastroduodenal ulcer within 18 months of study enrolment**descriptive",
+        "count": 48,
+        "pct": 1.971252566735113
+      },
+      {
+        "rule": "Incl: the patient (male or female of childbearing potential) agrees to use an acceptable method of contraception for 6 months following completion or discontinuation from the trial medication**descriptive",
+        "count": 48,
+        "pct": 1.971252566735113
+      },
+      {
+        "rule": "Excl: the patient is currently or recently (within 10 days of first dose of bi 695502) using aspirin at a dose greater than 325 mg per day or other non-steroidal anti-inflammatory drugs with anti-platelet activity, or is being treated with dipyridamole, ticlopidine, clopidogrel, or cilostazol**descriptive",
+        "count": 46,
+        "pct": 1.88911704312115
+      },
+      {
+        "rule": "Incl: the patient has a life expectancy of 12 months or longer based on the clinical investigator\u2019s judgment**descriptive",
+        "count": 37,
+        "pct": 1.5195071868583163
+      },
+      {
+        "rule": "Incl: the patient is of reproductive potential (male or female) and uses a medically acceptable method of contraception during the trial, defined as a combination of two forms of effective contraception**descriptive",
+        "count": 35,
+        "pct": 1.4373716632443532
+      },
+      {
+        "rule": "Incl: the patient is considered postmenopausal if she has not had a period for 12 consecutive months without an alternative medical cause**descriptive",
+        "count": 32,
+        "pct": 1.3141683778234086
+      },
+      {
+        "rule": "Excl: the patient has any unresolved toxicity greater than common toxicity criteria grade 1 (except alopecia) from previous anticancer therapy, including radiotherapy**descriptive",
+        "count": 16,
+        "pct": 0.6570841889117043
+      },
+      {
+        "rule": "Excl: the patient has a history of abdominal fistula, non-gastrointestinal fistula, gastrointestinal perforation, or intra-abdominal abscess within 6 months prior to screening**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: without transfusion within 2 weeks prior to randomization**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      }
+    ]
+  },
+  "NCT02231086": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has severe hepatic and/or renal dysfunction**descriptive",
+        "count": 1725,
+        "pct": 70.84188911704312
+      },
+      {
+        "rule": "Excl: the patient has stomatitis or ulceration in the mouth or gastrointestinal tract**descriptive",
+        "count": 1343,
+        "pct": 55.15400410677618
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Excl: the patient has unstable or uncompensated respiratory or cardiac disease**descriptive",
+        "count": 1030,
+        "pct": 42.299794661190965
+      },
+      {
+        "rule": "Incl: max age (years)**75.0",
+        "count": 949,
+        "pct": 38.97330595482546
+      },
+      {
+        "rule": "Excl: max plasma bilirubin concentration (\u03bcmol/l)**85.0",
+        "count": 686,
+        "pct": 28.17248459958932
+      },
+      {
+        "rule": "Incl: min platelet count (/mm3)**100000.0",
+        "count": 645,
+        "pct": 26.488706365503077
+      },
+      {
+        "rule": "Incl: min white blood cell count (/mm3)**3000.0",
+        "count": 359,
+        "pct": 14.743326488706366
+      },
+      {
+        "rule": "Incl: the patient has a normal creatinine level or a creatinine clearance of at least 50 ml/min within 3 months before surgery**descriptive",
+        "count": 288,
+        "pct": 11.827515400410677
+      },
+      {
+        "rule": "Incl: the patient has no bleeding diathesis or coagulopathy**descriptive",
+        "count": 253,
+        "pct": 10.390143737166325
+      },
+      {
+        "rule": "Excl: the patient has serious active infections**descriptive",
+        "count": 227,
+        "pct": 9.322381930184804
+      },
+      {
+        "rule": "Excl: the patient has peripheral sensory neuropathy with functional impairment**descriptive",
+        "count": 190,
+        "pct": 7.802874743326489
+      },
+      {
+        "rule": "Excl: the patient has pernicious anemia or other anemias due to vitamin b12 deficiency**descriptive",
+        "count": 173,
+        "pct": 7.104722792607802
+      },
+      {
+        "rule": "Excl: the patient has postoperative complications that interfere with adjuvant hipec within 8 weeks, such as persisting intra abdominal abscess, significant fascial dehiscence, or enteric fistula**descriptive",
+        "count": 32,
+        "pct": 1.3141683778234086
+      },
+      {
+        "rule": "Excl: the patient has no intention or indication to start standard adjuvant systemic therapy**descriptive",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient has severe diarrhea**descriptive",
+        "count": 4,
+        "pct": 0.16427104722792607
+      }
+    ]
+  },
+  "NCT02753127": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has chronic inflammatory bowel disease, including crohn's disease or ulcerative colitis**descriptive",
+        "count": 1441,
+        "pct": 59.17864476386037
+      },
+      {
+        "rule": "Excl: the patient has proteinuria at screening as demonstrated by urinalysis with proteinuria of 2+ or greater; patients with 2+ or greater proteinuria on dipstick urinalysis at baseline must demonstrate 1 gram or less of protein in 24 hours to be eligible**descriptive",
+        "count": 1012,
+        "pct": 41.5605749486653
+      },
+      {
+        "rule": "Excl: pregnancy status**yes",
+        "count": 854,
+        "pct": 35.07186858316222
+      },
+      {
+        "rule": "Excl: the patient has significant vascular disease, such as aortic aneurysm, aortic dissection, or symptomatic peripheral vascular disease**descriptive",
+        "count": 735,
+        "pct": 30.184804928131413
+      },
+      {
+        "rule": "Excl: the patient has evidence of bleeding diathesis or clinically significant coagulopathy**descriptive",
+        "count": 626,
+        "pct": 25.70841889117043
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled intercurrent illness, including ongoing or active infection, clinically significant non-healing or healing wounds, symptomatic congestive heart failure, unstable angina pectoris, clinically significant cardiac arrhythmia, significant pulmonary disease (shortness of breath at rest or mild exertion), uncontrolled infection, or psychiatric illness/social situations that would limit compliance with study requirements**descriptive",
+        "count": 599,
+        "pct": 24.599589322381927
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 535,
+        "pct": 21.971252566735114
+      },
+      {
+        "rule": "Excl: the patient has a gastrointestinal disorder that would significantly impede the absorption of an oral agent, such as intestinal occlusion, active crohn's disease, ulcerative colitis, or extensive gastric and small intestine resection**descriptive",
+        "count": 388,
+        "pct": 15.93429158110883
+      },
+      {
+        "rule": "Excl: the patient has current uncontrolled hypertension, defined as systolic blood pressure greater than 150 mmhg or diastolic pressure greater than 90 mmhg despite optimal medical management, or a prior history of hypertensive crisis or hypertensive encephalopathy**descriptive",
+        "count": 374,
+        "pct": 15.359342915811089
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (10^9/l)**1.5",
+        "count": 339,
+        "pct": 13.921971252566735
+      },
+      {
+        "rule": "Excl: the patient has an ongoing serious, non-healing wound, ulcer, or bone fracture**descriptive",
+        "count": 316,
+        "pct": 12.97741273100616
+      },
+      {
+        "rule": "Incl: the patient has not required transfusion of red blood cells within 1 week of baseline hemoglobin assessment**descriptive",
+        "count": 305,
+        "pct": 12.525667351129362
+      },
+      {
+        "rule": "Excl: the patient has a history of arterial thrombotic or embolic events within 6 months prior to study entry**descriptive",
+        "count": 301,
+        "pct": 12.361396303901437
+      },
+      {
+        "rule": "Incl: min platelet count (10^9/l)**100.0",
+        "count": 276,
+        "pct": 11.3347022587269
+      },
+      {
+        "rule": "Incl: min body mass index (kg/m^2)**18.0",
+        "count": 260,
+        "pct": 10.677618069815194
+      },
+      {
+        "rule": "Incl: the patient has not required transfusion of platelets within 1 week of baseline platelet assessment**descriptive",
+        "count": 244,
+        "pct": 10.020533880903491
+      },
+      {
+        "rule": "Excl: max systolic blood pressure (mmhg)**150.0",
+        "count": 208,
+        "pct": 8.542094455852157
+      },
+      {
+        "rule": "Incl: the patient has total bilirubin less than or equal to 1.5 times the institutional uln, or less than or equal to 2.0 times uln in the presence of liver metastases, within 14 days prior to randomization**descriptive",
+        "count": 203,
+        "pct": 8.336755646817249
+      },
+      {
+        "rule": "Excl: the patient has a history of cardiac disease, including congestive heart failure greater than new york heart association (nyha) class ii, active coronary artery disease, myocardial infarction within 6 months prior to study entry, unevaluated new onset angina within 3 months, unstable angina (angina symptoms at rest), or cardiac arrhythmias requiring anti-arrhythmic therapy (beta blockers or digoxin are permitted)**descriptive",
+        "count": 201,
+        "pct": 8.254620123203285
+      },
+      {
+        "rule": "Incl: the patient has creatinine less than or equal to 1.5 times the institutional uln or creatinine clearance greater than 50 ml/min (as calculated by the cockcroft-gault equation or ckd-epi) within 14 days prior to randomization**descriptive",
+        "count": 188,
+        "pct": 7.720739219712526
+      },
+      {
+        "rule": "Excl: the patient has a history of reversible posterior leukoencephalopathy syndrome (rpls)**descriptive",
+        "count": 141,
+        "pct": 5.790554414784395
+      },
+      {
+        "rule": "Excl: the patient has received more than one prior chemotherapy regimen administered in the metastatic setting**descriptive",
+        "count": 140,
+        "pct": 5.749486652977413
+      },
+      {
+        "rule": "Excl: the patient has a history of abdominal fistula, gastrointestinal perforation, peptic ulcer, or intra-abdominal abscess within 6 months**descriptive",
+        "count": 125,
+        "pct": 5.133470225872689
+      },
+      {
+        "rule": "Excl: the patient has abnormal glucuronidation of bilirubin or known gilbert's syndrome**descriptive",
+        "count": 121,
+        "pct": 4.9691991786447645
+      },
+      {
+        "rule": "Excl: the patient has a history of other malignancies except adequately treated non-melanoma skin cancer, curatively treated in-situ cancer of the cervix, or other solid tumors curatively treated with no evidence of disease for more than 3 years**descriptive",
+        "count": 70,
+        "pct": 2.8747433264887063
+      },
+      {
+        "rule": "Incl: min body weight (kg)**40.0",
+        "count": 61,
+        "pct": 2.5051334702258727
+      },
+      {
+        "rule": "Excl: the patient has undergone a major surgical procedure (including open biopsy or significant traumatic injury) within 28 days prior to study enrollment, or is anticipated to need a major surgical procedure during the course of the study, or has undergone a minor surgical procedure (excluding placement of a vascular access device or bone marrow biopsy) within 7 days prior to study enrollment**descriptive",
+        "count": 46,
+        "pct": 1.88911704312115
+      },
+      {
+        "rule": "Incl: min serum albumin (g/dl)**3.0",
+        "count": 45,
+        "pct": 1.8480492813141685
+      },
+      {
+        "rule": "Incl: the patient has alanine transaminase (alt) less than or equal to 3 times the institutional upper limit of normal (uln), or less than or equal to 5 times uln in the presence of liver metastases, within 14 days prior to randomization**descriptive",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Incl: the patient has provided written, signed consent for trial participation in accordance with applicable ich guidelines and local and regulatory requirements prior to any study-specific procedure**descriptive",
+        "count": 22,
+        "pct": 0.9034907597535934
+      },
+      {
+        "rule": "Excl: max diastolic blood pressure (mmhg)**90.0",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: folfiri therapy is appropriate for the patient and is recommended by the investigator**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Excl: the patient has received anti-cancer chemotherapy or biologic therapy prior to the first planned dose of study medication within a period of time equivalent to the usual cycle length of the regimen**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Excl: the patient is breastfeeding**descriptive",
+        "count": 11,
+        "pct": 0.4517453798767967
+      },
+      {
+        "rule": "Incl: advanced colorectal cancer**present",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient has known hypersensitivity to irinotecan**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Incl: the patient has undergone imaging investigations, including ct or mri of chest, abdomen, and pelvis or other scans as necessary to document all sites of disease, performed within 21 days prior to randomization**descriptive",
+        "count": 6,
+        "pct": 0.24640657084188913
+      },
+      {
+        "rule": "Incl: the patient has completed other baseline laboratory evaluations within 14 days prior to randomization as listed in section 6.0**descriptive",
+        "count": 5,
+        "pct": 0.20533880903490762
+      },
+      {
+        "rule": "Excl: the patient has a history of hypersensitivity to chinese hamster ovary (cho) cells or other human or humanized recombinant antibodies**descriptive",
+        "count": 5,
+        "pct": 0.20533880903490762
+      },
+      {
+        "rule": "Incl: min sensitivity of pregnancy test (iu/l hcg)**25.0",
+        "count": 4,
+        "pct": 0.16427104722792607
+      },
+      {
+        "rule": "Excl: the patient has received radiotherapy, immunotherapy (including for non-malignant disease), or investigational agents within four weeks of the first planned dose of study medication, except for a single dose of radiation up to 8 gy (800 rad) with palliative intent for pain control up to 14 days before randomization**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Excl: the patient plans to receive yellow fever vaccine during the course of the study treatment**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: the patient has either measurable disease or non-measurable evaluable disease**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Excl: the patient has received prior treatment with napabucasin**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: the patient consents to provision of a blood sample for specific correlative marker assays**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: if no previously resected or biopsied tumor tissue exists or is available, and with sponsor or cro approval, the patient may still be considered eligible**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      },
+      {
+        "rule": "Incl: if the patient is a woman of childbearing potential, she has a negative serum or urine pregnancy test within 5 days prior to randomization**descriptive",
+        "count": 1,
+        "pct": 0.04106776180698152
+      },
+      {
+        "rule": "Excl: max qtc interval (milliseconds)**470.0",
+        "count": 1,
+        "pct": 0.04106776180698152
+      },
+      {
+        "rule": "Incl: the patient is accessible for treatment and follow-up at the participating center**descriptive",
+        "count": 1,
+        "pct": 0.04106776180698152
+      },
+      {
+        "rule": "Excl: the patient has any active disease condition which would render the protocol treatment dangerous or impair the ability to receive protocol therapy**descriptive",
+        "count": 1,
+        "pct": 0.04106776180698152
+      },
+      {
+        "rule": "Excl: the patient has any condition, such as psychological or geographical, that does not permit compliance with the protocol**descriptive",
+        "count": 1,
+        "pct": 0.04106776180698152
+      }
+    ]
+  },
+  "NCT03414983": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has clinically significant cardiovascular disease**descriptive",
+        "count": 1591,
+        "pct": 65.3388090349076
+      },
+      {
+        "rule": "Excl: max white blood cell count (/\u03bcl)**2000.0",
+        "count": 1271,
+        "pct": 52.197125256673516
+      },
+      {
+        "rule": "Excl: the patient has pre-existing hypertension not adequately controlled to less than 140/90 mmhg**descriptive",
+        "count": 1116,
+        "pct": 45.831622176591374
+      },
+      {
+        "rule": "Excl: the patient has deep venous thrombosis, pulmonary embolism, arterial thrombosis, or cerebrovascular accident within 6 months prior to enrollment**descriptive",
+        "count": 1092,
+        "pct": 44.845995893223815
+      },
+      {
+        "rule": "Excl: max neutrophil count (/\u03bcl)**1500.0",
+        "count": 1020,
+        "pct": 41.889117043121146
+      },
+      {
+        "rule": "Excl: the patient has any other sound medical, psychiatric, or social reason as determined by the investigator**descriptive",
+        "count": 864,
+        "pct": 35.48254620123203
+      },
+      {
+        "rule": "Excl: max platelet count (/\u03bcl)**100000.0",
+        "count": 704,
+        "pct": 28.91170431211499
+      },
+      {
+        "rule": "Excl: the patient has a prothrombin time/international normalized ratio (pt/inr) or partial thromboplastin time (ptt) greater than 1.5 times the upper limit of normal**descriptive",
+        "count": 693,
+        "pct": 28.459958932238195
+      },
+      {
+        "rule": "Excl: the patient has a non-healing wound, ulcer, or bone fracture**descriptive",
+        "count": 648,
+        "pct": 26.611909650924026
+      },
+      {
+        "rule": "Excl: the patient has clinically significant bleeding diathesis or coagulopathy**descriptive",
+        "count": 594,
+        "pct": 24.394250513347025
+      },
+      {
+        "rule": "Excl: the patient has greater than grade 1 peripheral neuropathy**descriptive",
+        "count": 585,
+        "pct": 24.02464065708419
+      },
+      {
+        "rule": "Excl: the patient has a prior history of gastrointestinal perforation or abscess**descriptive",
+        "count": 532,
+        "pct": 21.848049281314168
+      },
+      {
+        "rule": "Excl: the patient has a serum creatinine greater than 1.5 times the upper limit of normal, unless creatinine clearance is at least 40 ml/min**descriptive",
+        "count": 484,
+        "pct": 19.876796714579058
+      },
+      {
+        "rule": "Excl: pneumonitis**present",
+        "count": 403,
+        "pct": 16.550308008213552
+      },
+      {
+        "rule": "Excl: the patient has proteinuria of at least 2+ by urine dipstick or urinalysis at baseline and a 24-hour urine protein greater than 1 gram per 24 hours or a urine protein to creatinine ratio greater than 1000 mg/g**descriptive",
+        "count": 352,
+        "pct": 14.455852156057494
+      },
+      {
+        "rule": "Excl: the patient has an active, known, or suspected autoimmune disease (except for type i diabetes mellitus, hypothyroidism only requiring hormone replacement, skin disorders not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger)**descriptive",
+        "count": 339,
+        "pct": 13.921971252566735
+      },
+      {
+        "rule": "Incl: the patient has not received prior chemotherapy for metastatic colorectal cancer**descriptive",
+        "count": 328,
+        "pct": 13.470225872689939
+      },
+      {
+        "rule": "Excl: min albumin (g/dl)**3.0",
+        "count": 316,
+        "pct": 12.97741273100616
+      },
+      {
+        "rule": "Excl: the patient has a prior malignancy active within the previous 3 years except for locally curable cancers that have been apparently cured and considered to be of low risk of recurrence**descriptive",
+        "count": 311,
+        "pct": 12.772073921971252
+      },
+      {
+        "rule": "Excl: the patient has a total bilirubin greater than 1.5 times the upper limit of normal (except for participants with gilbert syndrome who must have a total bilirubin level of less than 3.0 times the upper limit of normal)**descriptive",
+        "count": 299,
+        "pct": 12.279260780287474
+      },
+      {
+        "rule": "Excl: max hemoglobin level (g/dl)**9.0",
+        "count": 296,
+        "pct": 12.15605749486653
+      },
+      {
+        "rule": "Excl: the patient has ast or alt greater than 3.0 times the upper limit of normal, unless the patient has documented liver metastases in which case ast/alt greater than 5.0 times the upper limit of normal are exclusionary**descriptive",
+        "count": 269,
+        "pct": 11.04722792607803
+      },
+      {
+        "rule": "Excl: interstitial lung disease**present",
+        "count": 112,
+        "pct": 4.59958932238193
+      },
+      {
+        "rule": "Excl: the patient has any positive test result for hepatitis b virus or hepatitis c virus indicating presence of virus (e.g., hepatitis b surface antigen positive, or hepatitis c antibody positive except if hcv-rna negative)**descriptive",
+        "count": 105,
+        "pct": 4.312114989733059
+      },
+      {
+        "rule": "Excl: the patient has a history of hemoptysis of at least half teaspoon (2.5 ml) of red blood within 3 months prior to enrollment**descriptive",
+        "count": 102,
+        "pct": 4.188911704312115
+      },
+      {
+        "rule": "Excl: the patient requires systemic treatment with corticosteroids greater than 10 mg daily prednisone equivalent or other immunosuppressive medications within 14 days of randomization (except inhaled or topical steroids, and adrenal replacement steroid doses greater than 10 mg daily prednisone equivalent in the absence of active autoimmune disease)**descriptive",
+        "count": 58,
+        "pct": 2.381930184804928
+      },
+      {
+        "rule": "Excl: the patient has ascites that cannot be controlled with medical therapy alone**descriptive",
+        "count": 35,
+        "pct": 1.4373716632443532
+      },
+      {
+        "rule": "Excl: the patient has a history of allergy or hypersensitivity to study drug components**descriptive",
+        "count": 22,
+        "pct": 0.9034907597535934
+      },
+      {
+        "rule": "Incl: the patient must not be pregnant or breastfeeding**descriptive",
+        "count": 21,
+        "pct": 0.862422997946612
+      },
+      {
+        "rule": "Incl: biopsies of bone lesions that do not have a soft tissue component are not acceptable for submission**descriptive",
+        "count": 21,
+        "pct": 0.862422997946612
+      },
+      {
+        "rule": "Excl: human immunodeficiency virus**present",
+        "count": 21,
+        "pct": 0.862422997946612
+      },
+      {
+        "rule": "Excl: acquired immunodeficiency syndrome**present",
+        "count": 18,
+        "pct": 0.7392197125256673
+      },
+      {
+        "rule": "Excl: the patient has any contraindications to any of the study drugs of the chemotherapy regimen**descriptive",
+        "count": 17,
+        "pct": 0.6981519507186857
+      },
+      {
+        "rule": "Excl: the patient has a history of severe hypersensitivity reaction to any monoclonal antibody**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: the patient is willing and able to comply with scheduled visits, treatment schedule, laboratory tests, tumor biopsies, and other study requirements**descriptive",
+        "count": 13,
+        "pct": 0.5338809034907598
+      },
+      {
+        "rule": "Excl: the patient has received prior treatment with an anti-pd-1, anti-pd-l1, anti-pd-l2, or anti-ctla-4 antibody, or any other antibody or drug specifically targeting t-cell co-stimulation or checkpoint pathways**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      },
+      {
+        "rule": "Excl: the patient has any serious or uncontrolled medical disorder that, in the opinion of the investigator, may increase the risk associated with study participation or study drug administration, impair the ability to receive protocol therapy, or interfere with the interpretation of study results**descriptive",
+        "count": 6,
+        "pct": 0.24640657084188913
+      },
+      {
+        "rule": "Excl: the patient has received prior focal palliative radiotherapy less than 14 days prior to randomization**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      }
+    ]
+  },
+  "NCT01718873": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has a primary tumor that is stenosing and/or infiltrates the entire thickness of the intestinal wall**descriptive",
+        "count": 2280,
+        "pct": 93.63449691991786
+      },
+      {
+        "rule": "Excl: max neutrophil count (/mm3)**2000.0",
+        "count": 1197,
+        "pct": 49.158110882956876
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Excl: bleeding disorders**present",
+        "count": 1041,
+        "pct": 42.751540041067756
+      },
+      {
+        "rule": "Incl: max age (years)**75.0",
+        "count": 949,
+        "pct": 38.97330595482546
+      },
+      {
+        "rule": "Excl: max platelet count (/mm3)**100000.0",
+        "count": 852,
+        "pct": 34.98973305954826
+      },
+      {
+        "rule": "Incl: stage iv disease**descriptive",
+        "count": 756,
+        "pct": 31.04722792607803
+      },
+      {
+        "rule": "Excl: max hemoglobin (g/dl)**9.0",
+        "count": 623,
+        "pct": 25.585215605749482
+      },
+      {
+        "rule": "Excl: congestive heart failure**present",
+        "count": 622,
+        "pct": 25.544147843942504
+      },
+      {
+        "rule": "Incl: colorectal adenoma carcinoma**present",
+        "count": 608,
+        "pct": 24.969199178644764
+      },
+      {
+        "rule": "Excl: the patient has got and/or gpt greater than 2.5 times the upper normal limit, or bilirubin greater than 1.5 times the upper normal limit in the absence of liver metastases**descriptive",
+        "count": 606,
+        "pct": 24.8870636550308
+      },
+      {
+        "rule": "Excl: the patient has creatinine greater than 1.5 times the upper normal limit**descriptive",
+        "count": 490,
+        "pct": 20.123203285420946
+      },
+      {
+        "rule": "Excl: the patient has other co-existing malignancies or malignancies diagnosed within the last 5 years, except for basal and squamous cell carcinoma or cervical cancer in situ**descriptive",
+        "count": 400,
+        "pct": 16.427104722792606
+      },
+      {
+        "rule": "Excl: the patient has got and/or gpt greater than 5 times the upper normal limit, or bilirubin greater than 3 times the upper normal limit in the presence of liver metastases**descriptive",
+        "count": 290,
+        "pct": 11.90965092402464
+      },
+      {
+        "rule": "Excl: the patient has an active or uncontrolled infection**descriptive",
+        "count": 177,
+        "pct": 7.268993839835729
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled hypertension**descriptive",
+        "count": 174,
+        "pct": 7.145790554414784
+      },
+      {
+        "rule": "Excl: the patient has experienced ischemic coronary events within the past 12 months**descriptive",
+        "count": 165,
+        "pct": 6.7761806981519515
+      },
+      {
+        "rule": "Excl: coagulopathy**present",
+        "count": 148,
+        "pct": 6.078028747433265
+      },
+      {
+        "rule": "Excl: the patient has suspected or confirmed cerebral metastases, especially if symptoms are present**descriptive",
+        "count": 112,
+        "pct": 4.59958932238193
+      },
+      {
+        "rule": "Excl: the patient has central nervous system disorders or peripheral neuropathy greater than grade 1 (ctcae v. 4.0)**descriptive",
+        "count": 110,
+        "pct": 4.517453798767967
+      },
+      {
+        "rule": "Incl: adequately recovered from surgery, with at least 28 days between surgery and the date of pre study biopsy**descriptive",
+        "count": 83,
+        "pct": 3.4086242299794662
+      },
+      {
+        "rule": "Excl: the patient has any concomitant condition that, in the investigator's opinion, would contraindicate the use of any of the study drugs**descriptive",
+        "count": 81,
+        "pct": 3.3264887063655033
+      },
+      {
+        "rule": "Excl: the patient is receiving concurrent anticoagulant therapy**descriptive",
+        "count": 62,
+        "pct": 2.546201232032854
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled cardiac arrhythmia**descriptive",
+        "count": 46,
+        "pct": 1.88911704312115
+      },
+      {
+        "rule": "Incl: uses adequate contraception if of childbearing potential (applies to both male and female patients)**descriptive",
+        "count": 9,
+        "pct": 0.36960985626283366
+      }
+    ]
+  },
+  "NCT02394795": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has intestinal paralysis, gastrointestinal obstruction, or uncontrollable diarrhea with incapacitating symptoms despite adequate treatment**descriptive",
+        "count": 1812,
+        "pct": 74.41478439425052
+      },
+      {
+        "rule": "Excl: the patient has a history of interstitial pulmonary disease or has obvious and extensive ct findings of interstitial pulmonary disease, such as interstitial pneumonia or pulmonary fibrosis**descriptive",
+        "count": 942,
+        "pct": 38.68583162217659
+      },
+      {
+        "rule": "Excl: the patient has heart failure or serious heart disease of class ii or higher by new york heart association classification**descriptive",
+        "count": 852,
+        "pct": 34.98973305954826
+      },
+      {
+        "rule": "Excl: the patient has active hemorrhage requiring blood transfusion**descriptive",
+        "count": 821,
+        "pct": 33.71663244353183
+      },
+      {
+        "rule": "Incl: min platelet count (/\u00b5l)**100000.0",
+        "count": 810,
+        "pct": 33.26488706365503
+      },
+      {
+        "rule": "Incl: urine protein (dip stick method) of 1+ or less, upc (urine protein creatinine) ratio of 1.0 or less, or 24-hour urine protein measurement of 1,000 mg or less**descriptive",
+        "count": 583,
+        "pct": 23.942505133470227
+      },
+      {
+        "rule": "Incl: max serum creatinine level (mg/dl)**1.5",
+        "count": 580,
+        "pct": 23.81930184804928
+      },
+      {
+        "rule": "Excl: the patient has body cavity fluid that requires treatment, such as pleural effusion, ascites, or pericardial effusion**descriptive",
+        "count": 472,
+        "pct": 19.38398357289528
+      },
+      {
+        "rule": "Incl: max total blood bilirubin level (mg/dl)**2.0",
+        "count": 466,
+        "pct": 19.137577002053387
+      },
+      {
+        "rule": "Excl: the patient has arterial thromboembolism, such as unstable angina pectoris, cardiac infarction, cerebral hemorrhage, or cerebral infarction, or has had arterial thromboembolism within 24 weeks (168 days) before registration**descriptive",
+        "count": 380,
+        "pct": 15.605749486652979
+      },
+      {
+        "rule": "Incl: min neutrophil count (/\u00b5l)**1500.0",
+        "count": 325,
+        "pct": 13.347022587268995
+      },
+      {
+        "rule": "Incl: the patient has a pt-inr of less than 1.5, or less than 3.0 if treated with oral warfarin, in tests performed within 2 weeks prior to enrollment**descriptive",
+        "count": 306,
+        "pct": 12.566735112936344
+      },
+      {
+        "rule": "Incl: min life expectancy (months)**3.0",
+        "count": 300,
+        "pct": 12.320328542094455
+      },
+      {
+        "rule": "Incl: min hemoglobin level (g/dl)**9.0",
+        "count": 254,
+        "pct": 10.431211498973306
+      },
+      {
+        "rule": "Incl: max age (years)**79.0",
+        "count": 249,
+        "pct": 10.225872689938399
+      },
+      {
+        "rule": "Excl: the patient has non healing surgical wound(s), excluding implanted venous reservoirs**descriptive",
+        "count": 234,
+        "pct": 9.609856262833675
+      },
+      {
+        "rule": "Incl: the patient has an alt level of 100 iu/l or less, or 200 iu/l or less if liver metastases are present, in tests performed within 2 weeks prior to enrollment**descriptive",
+        "count": 232,
+        "pct": 9.527720739219712
+      },
+      {
+        "rule": "Excl: the patient is pregnant, breast feeding, or tests positive for pregnancy**descriptive",
+        "count": 210,
+        "pct": 8.624229979466119
+      },
+      {
+        "rule": "Excl: the patient has received colostomy within 2 weeks (14 days) prior to enrollment**descriptive",
+        "count": 140,
+        "pct": 5.749486652977413
+      },
+      {
+        "rule": "Excl: the patient has serious drug hypersensitivity**descriptive",
+        "count": 131,
+        "pct": 5.379876796714579
+      },
+      {
+        "rule": "Incl: the patient has an ast level of 100 iu/l or less, or 200 iu/l or less if liver metastases are present, in tests performed within 2 weeks prior to enrollment**descriptive",
+        "count": 108,
+        "pct": 4.435318275154004
+      },
+      {
+        "rule": "Incl: the patient is classified as kras/nras wild type by kras/nras testing using an approved in vitro diagnostic, with all required codons tested and found to be wild type**descriptive",
+        "count": 76,
+        "pct": 3.1211498973305956
+      },
+      {
+        "rule": "Excl: the patient has poorly controlled diabetes mellitus**descriptive",
+        "count": 76,
+        "pct": 3.1211498973305956
+      },
+      {
+        "rule": "Incl: the patient has not received chemotherapy, or has experienced relapse more than 24 weeks (168 days) after the final dose of perioperative adjuvant chemotherapy with fluoropyrimidine agents, and has not received perioperative adjuvant chemotherapy that includes oxa**descriptive",
+        "count": 62,
+        "pct": 2.546201232032854
+      },
+      {
+        "rule": "Excl: active hepatitis b**present",
+        "count": 61,
+        "pct": 2.5051334702258727
+      },
+      {
+        "rule": "Excl: hiv infection**present",
+        "count": 42,
+        "pct": 1.724845995893224
+      },
+      {
+        "rule": "Excl: the patient is judged by the investigator or subinvestigator to be ineligible for enrollment in the study, such as patients who may be coerced to give consent**descriptive",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Excl: the patient has received intestinal resection within 4 weeks (28 days) prior to enrollment**descriptive",
+        "count": 29,
+        "pct": 1.190965092402464
+      },
+      {
+        "rule": "Excl: the patient has a disease requiring systemic steroids for treatment, excluding topical steroids**descriptive",
+        "count": 28,
+        "pct": 1.1498973305954825
+      },
+      {
+        "rule": "Incl: the patient has signed and dated a written informed consent form prior to the initiation of any study procedures**descriptive",
+        "count": 25,
+        "pct": 1.0266940451745379
+      },
+      {
+        "rule": "Incl: the patient has unresectable adenocarcinoma originating in the large intestine, excluding carcinoma of the appendix and anal canal cancer**descriptive",
+        "count": 20,
+        "pct": 0.8213552361396305
+      },
+      {
+        "rule": "Incl: the patient has lesion(s) that can be evaluated**descriptive",
+        "count": 18,
+        "pct": 0.7392197125256673
+      },
+      {
+        "rule": "Excl: the patient has local or systemic active infection requiring treatment or has a fever indicating infection**descriptive",
+        "count": 6,
+        "pct": 0.24640657084188913
+      }
+    ]
+  },
+  "NCT02788279": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient does not have proteinuria greater than 3.5 g/24 hours**descriptive",
+        "count": 1840,
+        "pct": 75.564681724846
+      },
+      {
+        "rule": "Excl: the patient does not have serum albumin less than 2.5 g/dl**descriptive",
+        "count": 1749,
+        "pct": 71.82751540041068
+      },
+      {
+        "rule": "Excl: the patient does not have fasting hyperglycemia greater than 160 mg/dl or 8.9 mmol/l**descriptive",
+        "count": 1472,
+        "pct": 60.4517453798768
+      },
+      {
+        "rule": "Excl: the patient does not have uncontrolled hypercholesterolemia greater than 300 mg/dl or 7.75 mmol/l**descriptive",
+        "count": 1341,
+        "pct": 55.07186858316222
+      },
+      {
+        "rule": "Excl: the patient with eczema, psoriasis, lichen simplex chronicus, or vitiligo is permitted if there have been no acute exacerbations of the underlying condition within the last 12 months**descriptive",
+        "count": 1052,
+        "pct": 43.20328542094456
+      },
+      {
+        "rule": "Excl: the patient with eczema, psoriasis, lichen simplex chronicus, or vitiligo with dermatologic manifestations only is permitted if psoriasis patients have a baseline ophthalmologic exam to rule out ocular manifestations**descriptive",
+        "count": 926,
+        "pct": 38.02874743326489
+      },
+      {
+        "rule": "Excl: the patient does not have uncontrolled hypertriglyceridemia greater than 300 mg/dl or 3.42 mmol/l**descriptive",
+        "count": 763,
+        "pct": 31.3347022587269
+      },
+      {
+        "rule": "Excl: the patient with eczema, psoriasis, lichen simplex chronicus, or vitiligo is permitted if disease is well controlled at baseline and only requiring low-potency topical steroids**descriptive",
+        "count": 625,
+        "pct": 25.667351129363446
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (/mm3)**1500.0",
+        "count": 581,
+        "pct": 23.860369609856264
+      },
+      {
+        "rule": "Excl: the patient does not have uncontrolled glaucoma with intraocular pressure greater than or equal to 21 mmhg**descriptive",
+        "count": 468,
+        "pct": 19.21971252566735
+      },
+      {
+        "rule": "Incl: min platelet count (/mm3)**100000.0",
+        "count": 433,
+        "pct": 17.782340862423
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 415,
+        "pct": 17.04312114989733
+      },
+      {
+        "rule": "Incl: the patient has adequate hematologic and end organ function as defined by laboratory results obtained within 14 days prior to first dose of study drug treatment**descriptive",
+        "count": 283,
+        "pct": 11.62217659137577
+      },
+      {
+        "rule": "Excl: the patient does not have unstable angina, new onset angina within the last 3 months, myocardial infarction within the last 6 months, or current congestive heart failure new york heart association class ii or higher**descriptive",
+        "count": 276,
+        "pct": 11.3347022587269
+      },
+      {
+        "rule": "Incl: min creatinine clearance (ml/min)**30.0",
+        "count": 268,
+        "pct": 11.006160164271048
+      },
+      {
+        "rule": "Incl: min life expectancy (months)**3.0",
+        "count": 258,
+        "pct": 10.595482546201232
+      },
+      {
+        "rule": "Incl: the patient has an eastern cooperative oncology group performance status of 0 or 1**descriptive",
+        "count": 248,
+        "pct": 10.184804928131417
+      },
+      {
+        "rule": "Incl: the patient is, in the investigator\u2019s judgment, able to comply with the requirements and assessments of the study protocol**descriptive",
+        "count": 245,
+        "pct": 10.061601642710473
+      },
+      {
+        "rule": "Excl: the patient does not have a history of or evidence of retinal pathology on ophthalmologic examination that is considered a risk factor for central serous retinopathy, retinal vein occlusion, or neovascular macular degeneration**descriptive",
+        "count": 244,
+        "pct": 10.020533880903491
+      },
+      {
+        "rule": "Incl: the patient has amylase and lipase levels less than or equal to 1.5 times the upper limit of normal**descriptive",
+        "count": 230,
+        "pct": 9.44558521560575
+      },
+      {
+        "rule": "Incl: the patient has serum bilirubin less than or equal to 1.5 times the upper limit of normal, or if the patient has known gilbert\u2019s disease, bilirubin less than or equal to 3.0 times the upper limit of normal**descriptive",
+        "count": 189,
+        "pct": 7.761806981519507
+      },
+      {
+        "rule": "Incl: the patient has experienced disease progression on at least two prior systemic chemotherapy regimens for metastatic colorectal cancer**descriptive",
+        "count": 174,
+        "pct": 7.145790554414784
+      },
+      {
+        "rule": "Incl: the patient has ast, alt, and alkaline phosphatase (alp) less than or equal to 2.5 times the upper limit of normal, except for patients with documented liver metastases who may have ast and/or alt less than or equal to 5 times the upper limit of normal, and patients with documented liver or bone metastases who may have alp less than or equal to 5 times the upper limit of normal**descriptive",
+        "count": 118,
+        "pct": 4.84599589322382
+      },
+      {
+        "rule": "Excl: the patient does not have an active malignancy other than colorectal cancer or a prior malignancy within the past 3 years**descriptive",
+        "count": 86,
+        "pct": 3.5318275154004106
+      },
+      {
+        "rule": "Excl: the patient with radiation pneumonitis within the radiation field is eligible**descriptive",
+        "count": 65,
+        "pct": 2.6694045174537986
+      },
+      {
+        "rule": "Incl: the patient has documented disease progression within 3 months of the last systemic therapy administration**descriptive",
+        "count": 50,
+        "pct": 2.0533880903490758
+      },
+      {
+        "rule": "Excl: the patient has not received any cancer immunotherapy including cd137 agonists, anti-programmed death-1, anti-pd-l1, or anti-ctla4**descriptive",
+        "count": 45,
+        "pct": 1.8480492813141685
+      },
+      {
+        "rule": "Excl: the patient with hepatitis b virus infection is eligible if tests for hepatitis b surface antigen and hbv dna are negative**descriptive",
+        "count": 43,
+        "pct": 1.7659137577002053
+      },
+      {
+        "rule": "Excl: the patient may have indwelling drainage catheters such as pleurx**descriptive",
+        "count": 41,
+        "pct": 1.6837782340862424
+      },
+      {
+        "rule": "Incl: the patient is a woman of childbearing potential who agrees to use an effective form of contraception with a failure rate of less than 1% per year during the treatment period, within 5 months after the last dose of atezolizumab, and within 3 months after the last dose of cobimetinib and regorafenib**descriptive",
+        "count": 40,
+        "pct": 1.642710472279261
+      },
+      {
+        "rule": "Incl: the patient is a woman of childbearing potential defined as a sexually mature woman without prior oophorectomy or hysterectomy who has had menses within the last 12 months**descriptive",
+        "count": 39,
+        "pct": 1.6016427104722792
+      },
+      {
+        "rule": "Incl: the patient has previously received systemic cytotoxic chemotherapy including fluoropyrimidines, irinotecan, and oxaliplatin**descriptive",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Incl: the patient has histologically confirmed adenocarcinoma originating from the colon or rectum at stage iv according to the american joint committee on cancer 7th edition**descriptive",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Excl: the patient does not have a history of idiopathic pulmonary fibrosis, organizing pneumonia, bronchiolitis obliterans, drug-induced pneumonitis, or idiopathic pneumonitis**descriptive",
+        "count": 34,
+        "pct": 1.3963039014373715
+      },
+      {
+        "rule": "Incl: the patient may have received prior anti angiogenic therapy such as bevacizumab and/or anti epidermal growth factor receptor therapy such as cetuximab**descriptive",
+        "count": 29,
+        "pct": 1.190965092402464
+      },
+      {
+        "rule": "Excl: the patient has not received any anti-cancer therapy, including chemotherapy or hormonal therapy, within 2 weeks prior to initiation of study treatment**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: the patient has inr and ptt less than or equal to 1.5 times the upper limit of normal, or if on therapeutic doses of anti coagulants, has been on a stable dose for 28 days with stable inr and ptt values**descriptive",
+        "count": 14,
+        "pct": 0.5749486652977412
+      },
+      {
+        "rule": "Excl: hiv infection**not present",
+        "count": 11,
+        "pct": 0.4517453798767967
+      },
+      {
+        "rule": "Excl: the patient does not have inability to swallow medications**descriptive",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient does not have a malabsorption condition that would alter the absorption of orally administered medications**descriptive",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient has not received treatment with systemic immunostimulatory agents, including but not limited to interferons and il-2, within 4 weeks or 5 half-lives of the drug, whichever is shorter, prior to cycle 1 day 1**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Excl: the patient has not received treatment with systemic immunosuppressive medications, including but not limited to prednisone, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-tumor necrosis factor agents, within 2 weeks prior to cycle 1 day 1**descriptive",
+        "count": 4,
+        "pct": 0.16427104722792607
+      },
+      {
+        "rule": "Excl: the patient with symptomatic lesions amenable to palliative radiotherapy should have these treated prior to start of study treatment**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: the patient is a woman not considered to be of childbearing potential if she has been amenorrheic for more than 12 months and has a follicle stimulating hormone level of at least 40 iu/l**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      },
+      {
+        "rule": "Excl: the patient does not have a left ventricular ejection fraction below the institutional lower limit of normal or below 50%, whichever is lower**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      },
+      {
+        "rule": "Excl: tumor related pain**not present",
+        "count": 2,
+        "pct": 0.08213552361396304
+      }
+    ]
+  },
+  "NCT04456699": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has arterial thromboembolic events such as myocardial infarction or cerebral infarction**descriptive",
+        "count": 1034,
+        "pct": 42.46406570841889
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (/\u03bcl)**1500.0",
+        "count": 900,
+        "pct": 36.96098562628337
+      },
+      {
+        "rule": "Incl: the patient has the ability to swallow and retain oral medication and does not have any clinically significant gastrointestinal abnormalities that might alter absorption**descriptive",
+        "count": 894,
+        "pct": 36.714579055441476
+      },
+      {
+        "rule": "Incl: min platelet count (/\u03bcl)**100000.0",
+        "count": 705,
+        "pct": 28.952772073921974
+      },
+      {
+        "rule": "Excl: the patient has congestive heart failure of grade 2 or higher as per new york heart association**descriptive",
+        "count": 642,
+        "pct": 26.365503080082135
+      },
+      {
+        "rule": "Excl: the patient has a history of nephrotic syndrome or moderate proteinuria**descriptive",
+        "count": 605,
+        "pct": 24.84599589322382
+      },
+      {
+        "rule": "Excl: the patient has a history of hypertensive crisis or hypertensive encephalopathy**descriptive",
+        "count": 589,
+        "pct": 24.188911704312115
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled, potentially reversible cardiac conditions as judged by the investigator, such as unstable ischemia, uncontrolled symptomatic arrhythmia, congestive heart failure, qtcf prolongation greater than 450 ms on 2 or more time points within a 24 hour period, or electrolyte disturbances**descriptive",
+        "count": 572,
+        "pct": 23.49075975359343
+      },
+      {
+        "rule": "Excl: the patient has not recovered from all radiation related toxicities, requires corticosteroids, or has had radiation pneumonitis**descriptive",
+        "count": 549,
+        "pct": 22.546201232032853
+      },
+      {
+        "rule": "Excl: the patient has a known additional malignancy that is progressing or has required active therapy within the past 5 years, except for basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ that have undergone potentially curative therapy**descriptive",
+        "count": 542,
+        "pct": 22.258726899383984
+      },
+      {
+        "rule": "Excl: the patient has clinically significant cardiovascular disease, including myocardial infarction or unstable angina within 6 months of randomization**descriptive",
+        "count": 538,
+        "pct": 22.09445585215606
+      },
+      {
+        "rule": "Excl: the patient has a history of non gastrointestinal fistula formation**descriptive",
+        "count": 463,
+        "pct": 19.014373716632445
+      },
+      {
+        "rule": "Excl: the patient has peripheral vascular disease of grade 3 or higher, which is symptomatic and interferes with activities of daily living requiring repair or revision**descriptive",
+        "count": 421,
+        "pct": 17.28952772073922
+      },
+      {
+        "rule": "Excl: the patient is considered a poor medical risk due to a serious, uncontrolled medical disorder, nonmalignant systemic disease, or active, uncontrolled infection**descriptive",
+        "count": 395,
+        "pct": 16.2217659137577
+      },
+      {
+        "rule": "Excl: uncontrolled ventricular arrhythmia**present",
+        "count": 394,
+        "pct": 16.18069815195072
+      },
+      {
+        "rule": "Excl: the patient has a known history of or is positive for hepatitis b (hbsag reactive) or hepatitis c (hcv rna [qualitative] is detected)**descriptive",
+        "count": 329,
+        "pct": 13.511293634496921
+      },
+      {
+        "rule": "Excl: max diastolic blood pressure (mm hg)**100.0",
+        "count": 324,
+        "pct": 13.305954825462013
+      },
+      {
+        "rule": "Incl: the patient has adequate organ function as defined by laboratory tests performed within 10 days of randomization**descriptive",
+        "count": 323,
+        "pct": 13.264887063655031
+      },
+      {
+        "rule": "Incl: pregnancy status**no",
+        "count": 314,
+        "pct": 12.895277207392198
+      },
+      {
+        "rule": "Excl: the patient has known active central nervous system (cns) metastases and/or carcinomatous meningitis**descriptive",
+        "count": 310,
+        "pct": 12.73100616016427
+      },
+      {
+        "rule": "Excl: the patient has evidence of bleeding diathesis or significant coagulopathy in the absence of anticoagulation**descriptive",
+        "count": 280,
+        "pct": 11.498973305954825
+      },
+      {
+        "rule": "Incl: the patient has a total bilirubin level less than or equal to 1.5 times the upper limit of normal (uln) or direct bilirubin less than or equal to uln for participants with total bilirubin levels greater than 1.5 times uln**descriptive",
+        "count": 277,
+        "pct": 11.37577002053388
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**10.0",
+        "count": 264,
+        "pct": 10.841889117043122
+      },
+      {
+        "rule": "Excl: the patient has hemoptysis or hematemesis within 28 days prior to randomization**descriptive",
+        "count": 240,
+        "pct": 9.856262833675565
+      },
+      {
+        "rule": "Excl: the patient has a history of gastrointestinal perforation**descriptive",
+        "count": 230,
+        "pct": 9.44558521560575
+      },
+      {
+        "rule": "Excl: the patient is currently participating in or has participated in a study of an investigational agent or has used an investigational device within 28 days prior to the first dose of study intervention**descriptive",
+        "count": 210,
+        "pct": 8.624229979466119
+      },
+      {
+        "rule": "Incl: min estimated creatinine clearance (ml/min)**51.0",
+        "count": 201,
+        "pct": 8.254620123203285
+      },
+      {
+        "rule": "Incl: min hemoglobin (mmol/l)**5.6",
+        "count": 173,
+        "pct": 7.104722792607802
+      },
+      {
+        "rule": "Incl: the male patient agrees to use a male condom when engaging in any activity that allows for passage of ejaculate to another person of any sex**descriptive",
+        "count": 165,
+        "pct": 6.7761806981519515
+      },
+      {
+        "rule": "Excl: congenital long qt syndrome**present",
+        "count": 164,
+        "pct": 6.7351129363449695
+      },
+      {
+        "rule": "Excl: the patient has had a recent myocardial infarction within 3 months**descriptive",
+        "count": 162,
+        "pct": 6.652977412731007
+      },
+      {
+        "rule": "Incl: the patient has an activated partial thromboplastin time (aptt) less than or equal to 1.5 times uln unless receiving anticoagulant therapy, as long as pt or aptt is within therapeutic range**descriptive",
+        "count": 156,
+        "pct": 6.406570841889117
+      },
+      {
+        "rule": "Excl: unstable spinal cord compression**present",
+        "count": 127,
+        "pct": 5.215605749486653
+      },
+      {
+        "rule": "Incl: the male patient agrees to be abstinent from heterosexual intercourse or to use a male condom plus partner use of an additional contraceptive method when having penile-vaginal intercourse with a woman of childbearing potential who is not currently pregnant, unless confirmed to be azoospermic**descriptive",
+        "count": 114,
+        "pct": 4.681724845995893
+      },
+      {
+        "rule": "Incl: 90 days, 5-fu**descriptive",
+        "count": 80,
+        "pct": 3.285420944558522
+      },
+      {
+        "rule": "Excl: the patient has an active infection requiring systemic therapy**descriptive",
+        "count": 75,
+        "pct": 3.0800821355236137
+      },
+      {
+        "rule": "Incl: the patient has provided a tumor tissue sample to the central lab for biomarker analysis, or if not available at screening, a new tissue sample is collected during screening**descriptive",
+        "count": 71,
+        "pct": 2.915811088295688
+      },
+      {
+        "rule": "Excl: the patient has undergone major surgery within 2 weeks of randomization or has not recovered adequately from toxicities and/or complications from any major surgery prior to randomization**descriptive",
+        "count": 62,
+        "pct": 2.546201232032854
+      },
+      {
+        "rule": "Excl: the patient has myelodysplastic syndrome (mds) or acute myeloid leukemia (aml) or features suggestive of mds/aml**descriptive",
+        "count": 59,
+        "pct": 2.42299794661191
+      },
+      {
+        "rule": "Excl: max systolic blood pressure (mm hg)**150.0",
+        "count": 56,
+        "pct": 2.299794661190965
+      },
+      {
+        "rule": "Excl: hiv infection**present",
+        "count": 42,
+        "pct": 1.724845995893224
+      },
+      {
+        "rule": "Excl: the patient has extensive interstitial bilateral lung disease on high-resolution computed tomography (hrct) scan**descriptive",
+        "count": 37,
+        "pct": 1.5195071868583163
+      },
+      {
+        "rule": "Excl: the patient has received prior radiotherapy within 2 weeks of start of study intervention**descriptive",
+        "count": 35,
+        "pct": 1.4373716632443532
+      },
+      {
+        "rule": "Excl: uncontrolled major seizure disorder**present",
+        "count": 31,
+        "pct": 1.273100616016427
+      },
+      {
+        "rule": "Excl: the patient has not recovered from all adverse events due to previous therapies to grade 1 or baseline, except for persistent alopecia or grade 3 or less neuropathy**descriptive",
+        "count": 12,
+        "pct": 0.49281314168377827
+      },
+      {
+        "rule": "Excl: the patient has any psychiatric disorder that prohibits obtaining informed consent**descriptive",
+        "count": 9,
+        "pct": 0.36960985626283366
+      },
+      {
+        "rule": "Incl: the patient has tumor imaging at screening performed within 28 days prior to the date of randomization**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      },
+      {
+        "rule": "Incl: 180 days, 5-fu**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      },
+      {
+        "rule": "Excl: the patient has received prior systemic anticancer therapy (other than capox + bevacizumab or folfox + bevacizumab induction) including investigational agents within 28 days prior to randomization**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Incl: the patient has an ecog performance status of 0 to 1 within 10 days prior to randomization**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Excl: reversible posterior leukoencephalopathy syndrome**present",
+        "count": 6,
+        "pct": 0.24640657084188913
+      },
+      {
+        "rule": "Excl: superior vena cava syndrome**present",
+        "count": 5,
+        "pct": 0.20533880903490762
+      },
+      {
+        "rule": "Excl: the patient has a known psychiatric or substance abuse disorder that would interfere with the ability to cooperate with the requirements of the study**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: the patient has a histologically-confirmed metastatic or unresectable (stage iv as defined by ajcc eighth edition) colorectal adenocarcinoma**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      }
+    ]
+  },
+  "NCT03288987": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Incl: min hemoglobin level (gm/dl)**9.0",
+        "count": 1397,
+        "pct": 57.371663244353186
+      },
+      {
+        "rule": "Incl: min platelet count (/mm3)**100000.0",
+        "count": 1283,
+        "pct": 52.68993839835729
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Incl: the patient has a life expectancy of longer than 3 months as assessed clinically**descriptive",
+        "count": 1091,
+        "pct": 44.80492813141684
+      },
+      {
+        "rule": "Incl: max age (years)**75.0",
+        "count": 949,
+        "pct": 38.97330595482546
+      },
+      {
+        "rule": "Incl: the patient has a total bilirubin less than or equal to 1.5 times the institutional upper limit of normal iuln**descriptive",
+        "count": 889,
+        "pct": 36.50924024640657
+      },
+      {
+        "rule": "Incl: the patient has an eastern cooperative oncology group ecog performance status of 1 or less**descriptive",
+        "count": 848,
+        "pct": 34.82546201232033
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (/mm3)**1500.0",
+        "count": 787,
+        "pct": 32.32032854209446
+      },
+      {
+        "rule": "Incl: the patient has aspartate aminotransferase ast or sgot or alanine aminotransferase alt or sgpt less than or equal to 2.5 times iuln or less than or equal to 5 times iuln if known liver metastases are present**descriptive",
+        "count": 760,
+        "pct": 31.211498973305957
+      },
+      {
+        "rule": "Incl: the patient has a serum creatinine less than or equal to 1.5 times iuln**descriptive",
+        "count": 715,
+        "pct": 29.36344969199179
+      },
+      {
+        "rule": "Incl: metastatic colorectal cancer**present",
+        "count": 684,
+        "pct": 28.090349075975357
+      },
+      {
+        "rule": "Excl: max proteinuria (mg per 24 hours)**500.0",
+        "count": 546,
+        "pct": 22.422997946611908
+      },
+      {
+        "rule": "Excl: the patient has had a myocardial infarction within 6 months before study enrollment**descriptive",
+        "count": 527,
+        "pct": 21.642710472279262
+      },
+      {
+        "rule": "Excl: the patient has unstable symptomatic arrhythmia requiring medication**descriptive",
+        "count": 449,
+        "pct": 18.439425051334702
+      },
+      {
+        "rule": "Excl: the patient has clinically significant peripheral vascular disease**descriptive",
+        "count": 433,
+        "pct": 17.782340862423
+      },
+      {
+        "rule": "Excl: the patient has a serious non-healing wound, ulcer, or active bone fracture**descriptive",
+        "count": 408,
+        "pct": 16.75564681724846
+      },
+      {
+        "rule": "Excl: the patient has a history of allergic reactions attributed to compounds of similar chemical or biologic composition to bevacizumab, irinotecan, 5-fluorouracil (5-fu), or leucovorin**descriptive",
+        "count": 322,
+        "pct": 13.22381930184805
+      },
+      {
+        "rule": "Excl: the patient has a serious active or uncontrolled infection**descriptive",
+        "count": 292,
+        "pct": 11.991786447638605
+      },
+      {
+        "rule": "Excl: the patient has a history of stroke within 6 months before study enrollment**descriptive",
+        "count": 244,
+        "pct": 10.020533880903491
+      },
+      {
+        "rule": "Excl: diabetes**not present",
+        "count": 192,
+        "pct": 7.885010266940452
+      },
+      {
+        "rule": "Excl: the patient has experienced significant traumatic injury within 28 days before study entry**descriptive",
+        "count": 97,
+        "pct": 3.9835728952772076
+      },
+      {
+        "rule": "Excl: the patient has undergone major surgical procedures or open biopsy within 28 days before the initiation of study treatment**descriptive",
+        "count": 41,
+        "pct": 1.6837782340862424
+      },
+      {
+        "rule": "Excl: the patient has received prior systemic targeted therapy for metastatic colorectal cancer (mcrc)**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      }
+    ]
+  },
+  "NCT01571284": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has urine protein-creatinine ratio (upcr) greater than 1 on morning spot urinalysis or proteinuria greater than 500 milligrams per 24 hours**descriptive",
+        "count": 1102,
+        "pct": 45.256673511293634
+      },
+      {
+        "rule": "Excl: the patient has alkaline phosphatase greater than 3 times the upper limit of normal, or greater than 5 times the upper limit of normal if liver metastases are present**descriptive",
+        "count": 728,
+        "pct": 29.897330595482547
+      },
+      {
+        "rule": "Excl: the patient has serum creatinine greater than 1.5 times the upper limit of normal**descriptive",
+        "count": 636,
+        "pct": 26.119096509240247
+      },
+      {
+        "rule": "Excl: the patient has total bilirubin greater than 1.5 times the upper limit of normal**descriptive",
+        "count": 631,
+        "pct": 25.913757700205338
+      },
+      {
+        "rule": "Excl: the patient is pregnant or breast-feeding**descriptive",
+        "count": 628,
+        "pct": 25.790554414784395
+      },
+      {
+        "rule": "Excl: the patient has any severe acute or chronic medical condition which could impair the ability to participate in the study or interfere with interpretation of study results**descriptive",
+        "count": 607,
+        "pct": 24.928131416837783
+      },
+      {
+        "rule": "Excl: the patient has serum creatinine between 1.0 and 1.5 times the upper limit of normal and creatinine clearance, calculated according to cockroft-gault formula, less than 60 milliliters per minute**descriptive",
+        "count": 574,
+        "pct": 23.572895277207394
+      },
+      {
+        "rule": "Excl: the patient has predisposing colonic or small bowel disorders with uncontrolled symptoms as indicated by baseline of more than 3 loose stools daily**descriptive",
+        "count": 556,
+        "pct": 22.833675564681723
+      },
+      {
+        "rule": "Excl: the patient has known acquired immunodeficiency syndrome (aids-related illnesses) or known hiv disease requiring antiretroviral treatment**descriptive",
+        "count": 486,
+        "pct": 19.958932238193018
+      },
+      {
+        "rule": "Excl: the patient has prior history of chronic enteropathy, inflammatory enteropathy, chronic diarrhea, unresolved bowel obstruction or sub-obstruction, more than hemicolectomy, or extensive small intestine resection with chronic diarrhea**descriptive",
+        "count": 463,
+        "pct": 19.014373716632445
+      },
+      {
+        "rule": "Excl: the patient has reproductive potential (female or male) and does not agree to use an accepted effective method of contraception during the study treatment period and for at least 6 months following completion of study treatment**descriptive",
+        "count": 444,
+        "pct": 18.234086242299792
+      },
+      {
+        "rule": "Excl: the patient has transaminases greater than 3 times the upper limit of normal, or greater than 5 times the upper limit of normal if liver metastases are present**descriptive",
+        "count": 424,
+        "pct": 17.412731006160165
+      },
+      {
+        "rule": "Excl: the patient has evidence of clinically significant bleeding diathesis or underlying coagulopathy, such as inr greater than 1.5 without vitamin k antagonist therapy**descriptive",
+        "count": 423,
+        "pct": 17.371663244353183
+      },
+      {
+        "rule": "Excl: the patient has a positive pregnancy test (serum or urine \u03b2-hcg) for women of reproductive potential**descriptive",
+        "count": 406,
+        "pct": 16.673511293634498
+      },
+      {
+        "rule": "Excl: max hemoglobin (grams per deciliter)**9.0",
+        "count": 381,
+        "pct": 15.64681724845996
+      },
+      {
+        "rule": "Incl: the patient has histologically or cytologically proven adenocarcinoma of the colon or rectum**descriptive",
+        "count": 355,
+        "pct": 14.579055441478438
+      },
+      {
+        "rule": "Excl: max absolute neutrophil count (10^9 per liter)**1.5",
+        "count": 344,
+        "pct": 14.127310061601642
+      },
+      {
+        "rule": "Excl: grade 3-4 gastrointestinal bleeding or hemorrhage, treatment-resistant peptic ulcer disease, erosive oesophagitis or gastritis, infectious or inflammatory bowel disease, diverticulitis, pulmonary embolism, or other uncontrolled thromboembolic event**descriptive",
+        "count": 314,
+        "pct": 12.895277207392198
+      },
+      {
+        "rule": "Excl: non healing wound**present",
+        "count": 275,
+        "pct": 11.293634496919918
+      },
+      {
+        "rule": "Excl: the patient has known dihydropyrimidine dehydrogenase deficiency**descriptive",
+        "count": 272,
+        "pct": 11.170431211498972
+      },
+      {
+        "rule": "Excl: the patient has a history of other prior malignancy, except for adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or any other cancer from which the patient has been disease free for more than 5 years**descriptive",
+        "count": 232,
+        "pct": 9.527720739219712
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled hypertension, defined as blood pressure greater than 140/90 mmhg or systolic blood pressure greater than 160 mmhg when diastolic blood pressure is less than 90 mmhg, on at least 2 repeated determinations on separate days, or upon clinical judgement, within 3 months prior to study inclusion**descriptive",
+        "count": 214,
+        "pct": 8.788501026694046
+      },
+      {
+        "rule": "Excl: the patient is on anticoagulant therapy with unstable dose of warfarin and/or has an out-of-therapeutic range inr (greater than 3) within the 4 weeks prior to inclusion**descriptive",
+        "count": 208,
+        "pct": 8.542094455852157
+      },
+      {
+        "rule": "Excl: the patient has had occurrence of deep vein thrombosis within 4 weeks prior to inclusion**descriptive",
+        "count": 195,
+        "pct": 8.008213552361395
+      },
+      {
+        "rule": "Excl: the patient has a history of brain metastases, uncontrolled spinal cord compression, carcinomatous meningitis, or new evidence of brain or leptomeningeal disease**descriptive",
+        "count": 195,
+        "pct": 8.008213552361395
+      },
+      {
+        "rule": "Excl: max platelet count (10^9 per liter)**100.0",
+        "count": 184,
+        "pct": 7.5564681724846
+      },
+      {
+        "rule": "Excl: the patient has received treatment with any investigational drug within 30 days prior to inclusion**descriptive",
+        "count": 153,
+        "pct": 6.283367556468172
+      },
+      {
+        "rule": "Excl: myocardial infarction, severe or unstable angina pectoris, coronary or peripheral artery bypass graft, nyha class iii or iv congestive heart failure, stroke, or transient ischemic attack**descriptive",
+        "count": 151,
+        "pct": 6.201232032854209
+      },
+      {
+        "rule": "Excl: the patient has had less than 48 hours since minor surgical procedure to the time of inclusion or until wound full healing observed**descriptive",
+        "count": 133,
+        "pct": 5.462012320328542
+      },
+      {
+        "rule": "Excl: the patient has had less than 4 weeks since major surgery to the time of inclusion or until the surgical wound is fully healed, whichever came later**descriptive",
+        "count": 119,
+        "pct": 4.887063655030801
+      },
+      {
+        "rule": "Excl: the patient has adverse events from any prior anti-cancer therapy of grade greater than 1 (except alopecia, peripheral sensory neuropathy, and those listed in specific exclusion criteria) at the time of inclusion**descriptive",
+        "count": 101,
+        "pct": 4.147843942505133
+      },
+      {
+        "rule": "Excl: max elapsed time from prior radiotherapy or chemotherapy (weeks)**4.0",
+        "count": 100,
+        "pct": 4.1067761806981515
+      },
+      {
+        "rule": "Incl: the patient has progressed during or following the last administration of oxaliplatin-based chemotherapy**descriptive",
+        "count": 64,
+        "pct": 2.628336755646817
+      },
+      {
+        "rule": "Excl: the patient has known gilbert\u2019s syndrome**descriptive",
+        "count": 63,
+        "pct": 2.5872689938398357
+      },
+      {
+        "rule": "Excl: the patient is receiving concomitant anticonvulsant agents that are cyp3a4 inducers (phenytoin, phenobarbital, carbamazepine), unless discontinued more than 7 days prior to inclusion**descriptive",
+        "count": 60,
+        "pct": 2.4640657084188913
+      },
+      {
+        "rule": "Excl: the patient has a history of anaphylaxis or known intolerance to atropine sulphate, loperamide, or appropriate antiemetics to be administered in conjunction with folfiri**descriptive",
+        "count": 27,
+        "pct": 1.108829568788501
+      }
+    ]
+  },
+  "NCT04737187": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has severe or uncontrolled active acute or chronic infection**descriptive",
+        "count": 1226,
+        "pct": 50.34907597535935
+      },
+      {
+        "rule": "Excl: the patient has active or a history of interstitial lung disease and/or pneumonitis, or pulmonary hypertension**descriptive",
+        "count": 1219,
+        "pct": 50.06160164271047
+      },
+      {
+        "rule": "Incl: creatinine clearance assessed using the cockcroft & gault formula**descriptive",
+        "count": 1052,
+        "pct": 43.20328542094456
+      },
+      {
+        "rule": "Incl: min haemoglobin (g/dl)**9.0",
+        "count": 976,
+        "pct": 40.082135523613964
+      },
+      {
+        "rule": "Incl: the patient has a total serum bilirubin less than 1.5 times the upper limit of normal, unless gilbert disease is confirmed**descriptive",
+        "count": 910,
+        "pct": 37.37166324435318
+      },
+      {
+        "rule": "Incl: the patient does not have any other histological type of cancer except adenocarcinoma of the colon or rectum**descriptive",
+        "count": 867,
+        "pct": 35.605749486652975
+      },
+      {
+        "rule": "Incl: haemoglobin assessment performed 2 weeks or more after blood transfusion if applicable**descriptive",
+        "count": 819,
+        "pct": 33.634496919917865
+      },
+      {
+        "rule": "Incl: the patient has adequate organ function as defined by laboratory values obtained within 7 days prior to randomisation**descriptive",
+        "count": 758,
+        "pct": 31.129363449691994
+      },
+      {
+        "rule": "Incl: the patient is aged 18 years or older at the time of informed consent signature (or legal age depending on local country regulation)**descriptive",
+        "count": 638,
+        "pct": 26.20123203285421
+      },
+      {
+        "rule": "Excl: the patient has, in the investigator\u2019s opinion, chronic gastrointestinal disorders that might significantly interfere with proper absorption of the study treatments**descriptive",
+        "count": 636,
+        "pct": 26.119096509240247
+      },
+      {
+        "rule": "Excl: the patient has proteinuria of 1 g or more per 24 hours or 2+ by dipstick**descriptive",
+        "count": 622,
+        "pct": 25.544147843942504
+      },
+      {
+        "rule": "Incl: the patient has aspartate aminotransferase (ast; sgot) and alanine aminotransferase (alt; sgpt) levels less than or equal to 2.5 times the upper limit of normal, or less than or equal to 5 times the upper limit of normal if liver function abnormalities are due to underlying liver metastasis**descriptive",
+        "count": 532,
+        "pct": 21.848049281314168
+      },
+      {
+        "rule": "Excl: the patient has any contraindication present in the eu product information of bevacizumab**descriptive",
+        "count": 530,
+        "pct": 21.765913757700204
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (10^9/liter)**1.5",
+        "count": 530,
+        "pct": 21.765913757700204
+      },
+      {
+        "rule": "Excl: min proteinuria (g/24 hours)**1.0",
+        "count": 511,
+        "pct": 20.985626283367555
+      },
+      {
+        "rule": "Excl: the patient has had deep arterial thromboembolic events including cerebrovascular accident or myocardial infarction within the last 6 months prior to randomisation**descriptive",
+        "count": 413,
+        "pct": 16.960985626283367
+      },
+      {
+        "rule": "Excl: the patient has a serious non-healing wound, non-healing ulcer, or non-healing bone fracture**descriptive",
+        "count": 409,
+        "pct": 16.79671457905544
+      },
+      {
+        "rule": "Incl: the patient has adequate coagulation function**descriptive",
+        "count": 408,
+        "pct": 16.75564681724846
+      },
+      {
+        "rule": "Incl: adenocarcinoma of rectum**present",
+        "count": 341,
+        "pct": 14.004106776180697
+      },
+      {
+        "rule": "Excl: the patient is pregnant, a lactating female, or has the possibility of becoming pregnant during the study**descriptive",
+        "count": 301,
+        "pct": 12.361396303901437
+      },
+      {
+        "rule": "Incl: adenocarcinoma of colon**present",
+        "count": 297,
+        "pct": 12.197125256673512
+      },
+      {
+        "rule": "Incl: min platelet count (10^9/liter)**100.0",
+        "count": 274,
+        "pct": 11.252566735112936
+      },
+      {
+        "rule": "Excl: the patient has a history of allergic reactions or hypersensitivity to bevacizumab or any of its excipients**descriptive",
+        "count": 272,
+        "pct": 11.170431211498972
+      },
+      {
+        "rule": "Excl: the patient has had a deep venous thromboembolic event within 4 weeks prior to randomisation**descriptive",
+        "count": 255,
+        "pct": 10.472279260780287
+      },
+      {
+        "rule": "Incl: the patient receiving anti coagulant therapy (except platelet antiaggregates) has confirmed adequate therapeutic levels of inr**descriptive",
+        "count": 237,
+        "pct": 9.733059548254621
+      },
+      {
+        "rule": "Excl: the patient has received more than 2 prior chemotherapy regimens for the treatment of advanced colorectal cancer**descriptive",
+        "count": 227,
+        "pct": 9.322381930184804
+      },
+      {
+        "rule": "Excl: the patient has confirmed uncontrolled arterial hypertension, defined as systolic blood pressure of 150 mm hg or higher and/or diastolic blood pressure of 100 mm hg or higher, or uncontrolled or symptomatic arrhythmia**descriptive",
+        "count": 224,
+        "pct": 9.19917864476386
+      },
+      {
+        "rule": "Excl: the patient has a history of any life-threatening vegf-related adverse event**descriptive",
+        "count": 220,
+        "pct": 9.034907597535934
+      },
+      {
+        "rule": "Excl: the patient has severe or unstable angina, or symptomatic congestive heart failure new york heart association (nyha) class iii or iv**descriptive",
+        "count": 211,
+        "pct": 8.6652977412731
+      },
+      {
+        "rule": "Excl: the patient has a history of hypersensitivity to chinese hamster ovary cell products or other recombinant human or humanised antibodies**descriptive",
+        "count": 202,
+        "pct": 8.295687885010267
+      },
+      {
+        "rule": "Excl: the patient has, in the investigator\u2019s opinion, uncontrolled diabetes mellitus even under treatment**descriptive",
+        "count": 182,
+        "pct": 7.474332648870637
+      },
+      {
+        "rule": "Excl: min diastolic blood pressure (mm hg)**100.0",
+        "count": 131,
+        "pct": 5.379876796714579
+      },
+      {
+        "rule": "Incl: min creatinine clearance (ml/min)**50.0",
+        "count": 111,
+        "pct": 4.558521560574948
+      },
+      {
+        "rule": "Excl: the patient has known hepatitis b virus infection determined as hbsag positive and/or known hepatitis c virus infection determined as detection of hcv rna in serum or plasma by a sensitive quantitative molecular method**descriptive",
+        "count": 88,
+        "pct": 3.6139630390143735
+      },
+      {
+        "rule": "Excl: the patient has known coagulopathy that increases risk of bleeding, bleeding diatheses, or any other haemorrhage/bleeding event ctcae grade 3 or higher within 4 weeks prior to randomisation**descriptive",
+        "count": 84,
+        "pct": 3.449691991786448
+      },
+      {
+        "rule": "Excl: the patient is a known carrier of hiv antibodies**descriptive",
+        "count": 82,
+        "pct": 3.3675564681724848
+      },
+      {
+        "rule": "Excl: the patient has, in the investigator\u2019s opinion, any clinically significant medical condition (such as organ dysfunction) or laboratory abnormality likely to jeopardize the patient\u2019s safety or to interfere with the conduct of the study**descriptive",
+        "count": 73,
+        "pct": 2.997946611909651
+      },
+      {
+        "rule": "Excl: the patient is receiving treatment with systemic immunosuppressive therapy, except steroids given in a prophylactic setting or at a chronic low dose (20 mg/day prednisone equivalent or less)**descriptive",
+        "count": 69,
+        "pct": 2.833675564681725
+      },
+      {
+        "rule": "Excl: the patient has hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption**descriptive",
+        "count": 54,
+        "pct": 2.217659137577002
+      },
+      {
+        "rule": "Incl: the patient who has received adjuvant or neoadjuvant chemotherapy and had recurrence during or within 6 months of completion can count the adjuvant or neoadjuvant therapy as one regimen of chemotherapy for advanced disease**descriptive",
+        "count": 42,
+        "pct": 1.724845995893224
+      },
+      {
+        "rule": "Incl: the patient has an eastern cooperative oncology group (ecog) performance status of 0 or 1, which should remain 0 or 1 during the entire screening period**descriptive",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Excl: the patient has a history of allergic reactions attributed to compounds of similar composition to trifluridine/tipiracil or any of its excipients**descriptive",
+        "count": 36,
+        "pct": 1.4784394250513346
+      },
+      {
+        "rule": "Excl: the patient has had drainage for ascites, pleural effusion, or pericardial fluid within 4 weeks prior to randomisation**descriptive",
+        "count": 28,
+        "pct": 1.1498973305954825
+      },
+      {
+        "rule": "Excl: the patient has previously received trifluridine/tipiracil**descriptive",
+        "count": 24,
+        "pct": 0.9856262833675565
+      },
+      {
+        "rule": "Excl: the patient is, in the investigator\u2019s opinion, unlikely to be compliant with the oral medication regimen or the requirements of the study for scheduled evaluations**descriptive",
+        "count": 16,
+        "pct": 0.6570841889117043
+      },
+      {
+        "rule": "Excl: the patient has received prior radiotherapy completed less than 4 weeks before randomisation, except if provided as a short course for symptom palliation only (tumour lesions previously irradiated may not be chosen as target lesions for response evaluation)**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Incl: min life expectancy (weeks)**12.0",
+        "count": 12,
+        "pct": 0.49281314168377827
+      },
+      {
+        "rule": "Incl: the patient\u2019s prior treatment regimens for advanced colorectal cancer must have included a fluoropyrimidine, irinotecan, oxaliplatin, an anti vegf monoclonal antibody and/or an anti egfr monoclonal antibody for ras wild type patients**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      },
+      {
+        "rule": "Excl: the patient has other malignancies, including those which were radically treated and for which the remission period at the time of screening is less than five years (exemptions may be applied for carcinoma in situ of the cervix and basal cell skin cancer deemed cured by adequate treatment)**descriptive",
+        "count": 8,
+        "pct": 0.32854209445585214
+      },
+      {
+        "rule": "Incl: the patient has previously determined ras status (mutant or wild-type) based on local assessment of tumour biopsy**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Incl: the patient is able to swallow oral tablets**descriptive",
+        "count": 6,
+        "pct": 0.24640657084188913
+      },
+      {
+        "rule": "Incl: the patient has received a maximum of 2 prior chemotherapy regimens for the treatment of advanced colorectal cancer and had demonstrated progressive disease or intolerance to their last regimen**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      },
+      {
+        "rule": "Excl: min systolic blood pressure (mm hg)**150.0",
+        "count": 1,
+        "pct": 0.04106776180698152
+      }
+    ]
+  },
+  "NCT03565354": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has other known causes of anaemia apart from iron deficiency, such as untreated b12 or folate deficiency, hemolytic disease, hemoglobinopathy or thalassemia, or chronic renal failure on dialysis**descriptive",
+        "count": 1327,
+        "pct": 54.496919917864474
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Incl: the patient has laboratory test confirmed iron deficiency**descriptive",
+        "count": 607,
+        "pct": 24.928131416837783
+      },
+      {
+        "rule": "Excl: the patient has significant liver function derangement, defined as ast or alp exceeding three times the upper limit of the normal range**descriptive",
+        "count": 600,
+        "pct": 24.64065708418891
+      },
+      {
+        "rule": "Incl: max hemoglobin concentration (g/dl)**13.0",
+        "count": 492,
+        "pct": 20.20533880903491
+      },
+      {
+        "rule": "Excl: the patient has known hypersensitivity towards iron isomaltoside**descriptive",
+        "count": 428,
+        "pct": 17.577002053388092
+      },
+      {
+        "rule": "Incl: anemia**present",
+        "count": 361,
+        "pct": 14.825462012320328
+      },
+      {
+        "rule": "Incl: iron deficiency**present",
+        "count": 345,
+        "pct": 14.168377823408623
+      },
+      {
+        "rule": "Incl: max serum ferritin (mcg/l)**100.0",
+        "count": 313,
+        "pct": 12.854209445585216
+      },
+      {
+        "rule": "Excl: max serum ferritin (g/dl)**300.0",
+        "count": 229,
+        "pct": 9.404517453798768
+      },
+      {
+        "rule": "Incl: min serum ferritin (mcg/l)**30.0",
+        "count": 128,
+        "pct": 5.256673511293634
+      },
+      {
+        "rule": "Incl: max transferrin saturation (%)**20.0",
+        "count": 53,
+        "pct": 2.1765913757700206
+      },
+      {
+        "rule": "Excl: the patient has received previous or ongoing iron replacement or use of erythropoietin within 12 weeks before recruitment**descriptive",
+        "count": 48,
+        "pct": 1.971252566735113
+      },
+      {
+        "rule": "Excl: hemochromatosis**present",
+        "count": 29,
+        "pct": 1.190965092402464
+      },
+      {
+        "rule": "Excl: max transferrin saturation (percent)**50.0",
+        "count": 22,
+        "pct": 0.9034907597535934
+      },
+      {
+        "rule": "Excl: the patient is using preoperative immunosuppressant therapy**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      }
+    ]
+  },
+  "NCT02226185": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient had an adenoma that was not completely removed during a previous colonoscopy**descriptive",
+        "count": 2164,
+        "pct": 88.870636550308
+      },
+      {
+        "rule": "Excl: the patient has severe kidney disease**descriptive",
+        "count": 1278,
+        "pct": 52.48459958932238
+      },
+      {
+        "rule": "Excl: the patient has severe heart disease**descriptive",
+        "count": 1066,
+        "pct": 43.7782340862423
+      },
+      {
+        "rule": "Incl: max age (years)**75.0",
+        "count": 949,
+        "pct": 38.97330595482546
+      },
+      {
+        "rule": "Excl: pregnancy status**yes",
+        "count": 854,
+        "pct": 35.07186858316222
+      },
+      {
+        "rule": "Excl: the patient is expected to become pregnant**descriptive",
+        "count": 443,
+        "pct": 18.19301848049281
+      },
+      {
+        "rule": "Excl: the patient has a history of partial bowel resection**descriptive",
+        "count": 374,
+        "pct": 15.359342915811089
+      },
+      {
+        "rule": "Excl: the patient has a history of any cancer**descriptive",
+        "count": 337,
+        "pct": 13.839835728952771
+      },
+      {
+        "rule": "Excl: the patient has severe liver disease**descriptive",
+        "count": 290,
+        "pct": 11.90965092402464
+      },
+      {
+        "rule": "Excl: the patient has a history of subtotal or total gastrectomy**descriptive",
+        "count": 157,
+        "pct": 6.447638603696099
+      },
+      {
+        "rule": "Excl: the patient has severe constipation**descriptive",
+        "count": 114,
+        "pct": 4.681724845995893
+      },
+      {
+        "rule": "Incl: the patient has had at least one and no more than six histologically confirmed colorectal adenomas removed within 6 months before recruitment**descriptive",
+        "count": 32,
+        "pct": 1.3141683778234086
+      },
+      {
+        "rule": "Excl: the patient is regularly taking nonsteroidal anti inflammatory drugs (nsaids)**descriptive",
+        "count": 26,
+        "pct": 1.0677618069815196
+      },
+      {
+        "rule": "Incl: the patient is able to swallow pills**descriptive",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient has a history of hereditary non polyposis colorectal cancer (hnpcc, lynch syndrome)**descriptive",
+        "count": 9,
+        "pct": 0.36960985626283366
+      },
+      {
+        "rule": "Excl: the patient has a history of familial adenomatous polyposis (fap)**descriptive",
+        "count": 7,
+        "pct": 0.2874743326488706
+      },
+      {
+        "rule": "Excl: the patient has a mental disease and is not able to cooperate**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      }
+    ]
+  },
+  "NCT02928224": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has symptomatic congestive heart failure of grade 2 or higher, or a history or current evidence of clinically significant cardiac arrhythmia and/or conduction abnormality within 6 months prior to start of study treatment, except atrial fibrillation and paroxysmal supraventricular tachycardia**descriptive",
+        "count": 931,
+        "pct": 38.234086242299796
+      },
+      {
+        "rule": "Excl: pregnancy status**yes",
+        "count": 854,
+        "pct": 35.07186858316222
+      },
+      {
+        "rule": "Incl: min platelets (10^9 /l)**100.0",
+        "count": 665,
+        "pct": 27.31006160164271
+      },
+      {
+        "rule": "Incl: min absolute neutrophil count (10^9 /l)**1.5",
+        "count": 600,
+        "pct": 24.64065708418891
+      },
+      {
+        "rule": "Excl: the patient has a concurrent or previous other malignancy within 5 years of study entry, except cured basal or squamous cell skin cancer, superficial bladder cancer, prostate intraepithelial neoplasm, carcinoma in-situ of the cervix, or other noninvasive or indolent malignancy without sponsor approval**descriptive",
+        "count": 483,
+        "pct": 19.835728952772076
+      },
+      {
+        "rule": "Incl: min hemoglobin (g/dl)**9.0",
+        "count": 415,
+        "pct": 17.04312114989733
+      },
+      {
+        "rule": "Excl: history of acute myocardial infarction, acute coronary syndromes (including unstable angina, coronary artery bypass graft, coronary angioplasty or stenting) within 6 months prior to start of study treatment**descriptive",
+        "count": 353,
+        "pct": 14.496919917864476
+      },
+      {
+        "rule": "Incl: the patient has evidence of measurable or evaluable non-measurable disease per recist v1.1**descriptive",
+        "count": 333,
+        "pct": 13.675564681724847
+      },
+      {
+        "rule": "Excl: the patient has impaired hepatic function, defined as child-pugh class b or c**descriptive",
+        "count": 297,
+        "pct": 12.197125256673512
+      },
+      {
+        "rule": "Excl: the patient has a concurrent neuromuscular disorder that is associated with the potential of elevated creatine kinase (ck), such as inflammatory myopathies, muscular dystrophy, amyotrophic lateral sclerosis, or spinal muscular atrophy**descriptive",
+        "count": 287,
+        "pct": 11.786447638603697
+      },
+      {
+        "rule": "Excl: pancreatitis**present",
+        "count": 257,
+        "pct": 10.55441478439425
+      },
+      {
+        "rule": "Excl: the patient has a history or current evidence of retinal vein occlusion (rvo) or current risk factors for rvo, such as uncontrolled glaucoma, ocular hypertension, history of hyperviscosity, or hypercoagulability syndromes at the time of screening**descriptive",
+        "count": 246,
+        "pct": 10.102669404517455
+      },
+      {
+        "rule": "Incl: the patient has adequate hepatic function at screening, defined as serum total bilirubin \u2264 1.5 \u00d7 uln and < 2 mg/dl, or if total bilirubin > 1.5 \u00d7 uln, indirect bilirubin \u2264 1.5 \u00d7 uln, and alanine aminotransferase (alt) and/or aspartate aminotransferase (ast) \u2264 2.5 \u00d7 uln, or \u2264 5 \u00d7 uln in presence of liver metastases**descriptive",
+        "count": 236,
+        "pct": 9.69199178644764
+      },
+      {
+        "rule": "Incl: the patient has adequate renal function at screening, defined as serum creatinine \u2264 1.5 \u00d7 upper limit of normal (uln), or calculated by cockroft-gault formula or directly measured creatinine clearance \u2265 50 ml/min**descriptive",
+        "count": 173,
+        "pct": 7.104722792607802
+      },
+      {
+        "rule": "Incl: the patient has adequate electrolytes at baseline, defined as serum potassium and magnesium levels within institutional normal limits (replacement treatment to achieve adequate electrolytes is allowed)**descriptive",
+        "count": 155,
+        "pct": 6.365503080082135
+      },
+      {
+        "rule": "Excl: the patient has impaired gastrointestinal function or disease that may significantly alter the absorption of encorafenib or binimetinib, such as ulcerative diseases, uncontrolled vomiting, malabsorption syndrome, or small bowel resection with decreased intestinal absorption**descriptive",
+        "count": 142,
+        "pct": 5.831622176591376
+      },
+      {
+        "rule": "Excl: min diastolic blood pressure (mmhg)**100.0",
+        "count": 104,
+        "pct": 4.271047227926078
+      },
+      {
+        "rule": "Excl: min systolic blood pressure (mmhg)**150.0",
+        "count": 80,
+        "pct": 3.285420944558522
+      },
+      {
+        "rule": "Excl: hepatitis c infection**present",
+        "count": 80,
+        "pct": 3.285420944558522
+      },
+      {
+        "rule": "Excl: the patient has residual ctcae grade 2 or higher toxicity from any prior anticancer therapy, with the exception of grade 2 alopecia or grade 2 neuropathy**descriptive",
+        "count": 61,
+        "pct": 2.5051334702258727
+      },
+      {
+        "rule": "Excl: the patient has a history of thromboembolic or cerebrovascular events within 6 months prior to starting study treatment, including transient ischemic attacks, cerebrovascular accidents, deep vein thrombosis, or pulmonary emboli**descriptive",
+        "count": 48,
+        "pct": 1.971252566735113
+      },
+      {
+        "rule": "Excl: hiv infection**present",
+        "count": 42,
+        "pct": 1.724845995893224
+      },
+      {
+        "rule": "Excl: the patient has received cyclical chemotherapy within a period of time that was shorter than the cycle length used for that treatment (e.g., 6 weeks for nitrosourea, mitomycin-c) prior to starting study treatment**descriptive",
+        "count": 18,
+        "pct": 0.7392197125256673
+      },
+      {
+        "rule": "Excl: the patient has received radiation therapy that included more than 30% of the bone marrow**descriptive",
+        "count": 13,
+        "pct": 0.5338809034907598
+      },
+      {
+        "rule": "Excl: hepatitis b infection**present",
+        "count": 13,
+        "pct": 0.5338809034907598
+      },
+      {
+        "rule": "Excl: the patient has a history of chronic inflammatory bowel disease or crohn\u2019s disease requiring medical intervention (immunomodulatory or immunosuppressive medications or surgery) within 12 months prior to randomization**descriptive",
+        "count": 10,
+        "pct": 0.41067761806981523
+      },
+      {
+        "rule": "Excl: the patient is currently receiving treatment with a non-topical medication known to be a strong inhibitor of cyp3a4, unless discontinued or switched to another medication at least 7 days prior to starting study treatment**descriptive",
+        "count": 5,
+        "pct": 0.20533880903490762
+      },
+      {
+        "rule": "Incl: the patient has adequate cardiac function at screening, defined as left ventricular ejection fraction (lvef) \u2265 50% as determined by muga scan or echo, and mean triplicate qt interval corrected for heart rate using fridericia's formula (qtcf) value \u2264 480 msec**descriptive",
+        "count": 4,
+        "pct": 0.16427104722792607
+      },
+      {
+        "rule": "Incl: the patient is able to take oral medications**descriptive",
+        "count": 4,
+        "pct": 0.16427104722792607
+      },
+      {
+        "rule": "Incl: the patient is willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures**descriptive",
+        "count": 3,
+        "pct": 0.12320328542094457
+      },
+      {
+        "rule": "Incl: the patient has presence of brafv600e mutation in tumor tissue previously determined by a local pcr or ngs-based assay at any time prior to screening or by the central laboratory**descriptive",
+        "count": 2,
+        "pct": 0.08213552361396304
+      }
+    ]
+  },
+  "NCT01345175": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient is pregnant or breastfeeding**descriptive",
+        "count": 212,
+        "pct": 8.706365503080082
+      },
+      {
+        "rule": "Incl: excessive flatus**descriptive",
+        "count": 157,
+        "pct": 6.447638603696099
+      },
+      {
+        "rule": "Incl: unformed stool**descriptive",
+        "count": 120,
+        "pct": 4.9281314168377826
+      },
+      {
+        "rule": "Incl: incontinence of flatus and or feces**descriptive",
+        "count": 39,
+        "pct": 1.6016427104722792
+      },
+      {
+        "rule": "Incl: the patient had a tumor located at or below 12 cm from the anal verge**descriptive",
+        "count": 35,
+        "pct": 1.4373716632443532
+      },
+      {
+        "rule": "Incl: the patient has had restoration of bowel continuity for at least 1 year and no more than 5 years**descriptive",
+        "count": 29,
+        "pct": 1.190965092402464
+      },
+      {
+        "rule": "Incl: clustering of bowel motions**descriptive",
+        "count": 14,
+        "pct": 0.5749486652977412
+      },
+      {
+        "rule": "Incl: the patient has a history of rectal cancer treated with an anterior resection performed at mskcc**descriptive",
+        "count": 11,
+        "pct": 0.4517453798767967
+      }
+    ]
+  },
+  "NCT03616444": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has serum creatinine or blood urea nitrogen levels greater than 1.5 times the upper limit of normal**descriptive",
+        "count": 1768,
+        "pct": 72.60780287474333
+      },
+      {
+        "rule": "Excl: the patient has severe heart, lung, cerebrovascular disease, or liver and kidney dysfunction**descriptive",
+        "count": 1651,
+        "pct": 67.8028747433265
+      },
+      {
+        "rule": "Incl: max age (years)**70.0",
+        "count": 1379,
+        "pct": 56.63244353182751
+      },
+      {
+        "rule": "Excl: the patient has alanine aminotransferase (alt) or aspartate aminotransferase (ast) levels greater than 2 times the upper limit of normal**descriptive",
+        "count": 1201,
+        "pct": 49.322381930184804
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Excl: the patient has reliable evidence of tumor invasion into the muscularis propria mucosa or suspected deep submucosal invasion**descriptive",
+        "count": 1109,
+        "pct": 45.544147843942504
+      },
+      {
+        "rule": "Excl: the patient has a colonoscopy highly suggestive of inflammatory bowel disease**descriptive",
+        "count": 841,
+        "pct": 34.53798767967145
+      },
+      {
+        "rule": "Excl: the patient has a colonoscopy suggesting poor cleanliness and a boston score less than 6**descriptive",
+        "count": 339,
+        "pct": 13.921971252566735
+      },
+      {
+        "rule": "Excl: the patient has no cecal intubation during colonoscopy**descriptive",
+        "count": 56,
+        "pct": 2.299794661190965
+      },
+      {
+        "rule": "Excl: the patient has a combined colorectal malignant tumor or a previous history of colorectal malignant tumor**descriptive",
+        "count": 47,
+        "pct": 1.9301848049281316
+      },
+      {
+        "rule": "Incl: the patient meets the diagnostic criteria for colorectal adenoma (cra)**descriptive",
+        "count": 32,
+        "pct": 1.3141683778234086
+      },
+      {
+        "rule": "Excl: the patient is at risk of loss to follow up due to frequent changes in work environment or other circumstances**descriptive",
+        "count": 13,
+        "pct": 0.5338809034907598
+      },
+      {
+        "rule": "Excl: the patient has hereditary polyposis such as familial adenomatous polyposis, mutyh associated polyposis, peutz jeghers syndrome, or serrated polyposis syndrome**descriptive",
+        "count": 6,
+        "pct": 0.24640657084188913
+      }
+    ]
+  },
+  "NCT00068692": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Incl: min absolute neutrophil count (/mm3)**1500.0",
+        "count": 900,
+        "pct": 36.96098562628337
+      },
+      {
+        "rule": "Incl: min platelet count (/mm3)**100000.0",
+        "count": 698,
+        "pct": 28.6652977412731
+      },
+      {
+        "rule": "Incl: the patient has adequate renal function, defined as creatinine less than 1.5 times the upper limit of normal, obtained within 4 weeks prior to randomization**descriptive",
+        "count": 471,
+        "pct": 19.342915811088297
+      },
+      {
+        "rule": "Excl: inflammatory bowel disease**present",
+        "count": 469,
+        "pct": 19.260780287474333
+      },
+      {
+        "rule": "Incl: the patient received combination chemotherapy and radiotherapy prior to randomization and had a minimum radiation dose of 50.4 gy**descriptive",
+        "count": 159,
+        "pct": 6.529774127310062
+      },
+      {
+        "rule": "Incl: max days from date of surgery**56.0",
+        "count": 144,
+        "pct": 5.9137577002053385
+      },
+      {
+        "rule": "Incl: the patient has adequate hepatic function, defined as bilirubin less than 1.5 times the upper limit of normal and sgot (ast) less than 3 times the upper limit of normal, obtained within 4 weeks prior to randomization**descriptive",
+        "count": 92,
+        "pct": 3.7782340862423
+      },
+      {
+        "rule": "Incl: min days from date of surgery**21.0",
+        "count": 73,
+        "pct": 2.997946611909651
+      },
+      {
+        "rule": "Incl: the patient has a completely resected tumor**descriptive",
+        "count": 53,
+        "pct": 2.1765913757700206
+      }
+    ]
+  },
+  "NCT04322539": {
+    "total_patients": 2435,
+    "rules": [
+      {
+        "rule": "Excl: the patient has serum potassium, calcium, or magnesium levels outside of the normal laboratory reference range and these abnormalities are clinically significant in the investigator\u2019s judgment**descriptive",
+        "count": 1440,
+        "pct": 59.13757700205339
+      },
+      {
+        "rule": "Excl: the patient is pregnant or lactating**descriptive",
+        "count": 1115,
+        "pct": 45.790554414784395
+      },
+      {
+        "rule": "Excl: the patient has a serum creatinine greater than 1.5 times uln**descriptive",
+        "count": 926,
+        "pct": 38.02874743326489
+      },
+      {
+        "rule": "Excl: the patient has a serum total bilirubin greater than 1.5 times the upper limit of normal (uln), unless the patient has gilbert syndrome, bilirubin less than 2 times uln, and normal aspartate aminotransferase (ast) and alanine aminotransferase (alt)**descriptive",
+        "count": 858,
+        "pct": 35.23613963039015
+      },
+      {
+        "rule": "Excl: max platelet count (10^9 per liter)**100.0",
+        "count": 844,
+        "pct": 34.6611909650924
+      },
+      {
+        "rule": "Excl: the patient has alt or ast greater than 5 times uln in the presence of hepatic metastases**descriptive",
+        "count": 688,
+        "pct": 28.254620123203285
+      },
+      {
+        "rule": "Excl: the patient has clinically significant cardiovascular disease, including but not limited to acute myocardial infarction or coronary artery bypass surgery within 6 months prior to enrollment, severe or unstable angina pectoris, new york heart association class iii or iv congestive heart failure, ventricular arrhythmias requiring treatment, or left ventricular ejection fraction less than 50% by echocardiogram**descriptive",
+        "count": 502,
+        "pct": 20.61601642710472
+      },
+      {
+        "rule": "Excl: the patient has uncontrolled hypertension, defined as systolic blood pressure greater than or equal to 140 millimeters of mercury and/or diastolic blood pressure greater than or equal to 90 millimeters of mercury despite optimal medical management**descriptive",
+        "count": 391,
+        "pct": 16.057494866529773
+      },
+      {
+        "rule": "Excl: the patient has had a stroke and/or transient ischemic attack within 12 months prior to screening**descriptive",
+        "count": 369,
+        "pct": 15.154004106776181
+      },
+      {
+        "rule": "Excl: the patient has urine dipstick protein greater than or equal to 2+ or 24-hour urine protein greater than or equal to 1.0 grams per 24 hours**descriptive",
+        "count": 319,
+        "pct": 13.100616016427105
+      },
+      {
+        "rule": "Excl: max absolute neutrophil count (10^9 per liter)**1.5",
+        "count": 273,
+        "pct": 11.211498973305954
+      },
+      {
+        "rule": "Excl: the patient has received a blood transfusion within 1 week prior to enrollment for the purpose of increasing the likelihood of eligibility**descriptive",
+        "count": 266,
+        "pct": 10.924024640657084
+      },
+      {
+        "rule": "Excl: max creatinine clearance (milliliters per minute)**60.0",
+        "count": 256,
+        "pct": 10.513347022587268
+      },
+      {
+        "rule": "Excl: the patient has an international normalized ratio (inr) greater than 1.5 times uln or activated partial thromboplastin time (aptt) greater than 1.5 times uln, unless currently receiving or intended to receive anticoagulants for prophylactic purposes**descriptive",
+        "count": 250,
+        "pct": 10.266940451745379
+      },
+      {
+        "rule": "Excl: min systolic blood pressure (millimeters of mercury)**140.0",
+        "count": 243,
+        "pct": 9.979466119096509
+      },
+      {
+        "rule": "Excl: human immunodeficiency virus infection**present",
+        "count": 233,
+        "pct": 9.568788501026694
+      },
+      {
+        "rule": "Excl: the patient has a known history of active viral hepatitis; for patients with chronic hepatitis b virus infection, the hbv viral load must be undetectable on suppressive therapy if indicated; patients with hepatitis c virus infection who are currently on treatment are eligible if they have an undetectable hcv viral load**descriptive",
+        "count": 233,
+        "pct": 9.568788501026694
+      },
+      {
+        "rule": "Excl: the patient has a history of a thromboembolic event, including deep vein thrombosis, pulmonary embolism, or arterial embolism, within 6 months prior to screening**descriptive",
+        "count": 217,
+        "pct": 8.91170431211499
+      },
+      {
+        "rule": "Excl: max hemoglobin level (grams per deciliter)**9.0",
+        "count": 214,
+        "pct": 8.788501026694046
+      },
+      {
+        "rule": "Incl: min body weight (kg)**40.0",
+        "count": 214,
+        "pct": 8.788501026694046
+      },
+      {
+        "rule": "Excl: the patient has a clinically uncontrolled active infection requiring intravenous antibiotics**descriptive",
+        "count": 206,
+        "pct": 8.459958932238193
+      },
+      {
+        "rule": "Excl: the patient has alt or ast greater than 2.5 times uln in the absence of hepatic metastases**descriptive",
+        "count": 189,
+        "pct": 7.761806981519507
+      },
+      {
+        "rule": "Excl: the patient has a history or presence of hemorrhage from any other site, such as hemoptysis or hematemesis, within 2 months prior to screening**descriptive",
+        "count": 163,
+        "pct": 6.6940451745379885
+      },
+      {
+        "rule": "Excl: the patient has a history of, or active, gastric or duodenal ulcer or ulcerative colitis, active hemorrhage of an unresected gastrointestinal tumor, history of perforation or fistulas, or any other condition that could result in gastrointestinal hemorrhage or perforation within 6 months prior to screening**descriptive",
+        "count": 158,
+        "pct": 6.48870636550308
+      },
+      {
+        "rule": "Excl: min diastolic blood pressure (millimeters of mercury)**90.0",
+        "count": 124,
+        "pct": 5.092402464065708
+      },
+      {
+        "rule": "Excl: the patient has tumor invasion of a large vascular structure, such as the pulmonary artery, superior vena cava, or inferior vena cava**descriptive",
+        "count": 124,
+        "pct": 5.092402464065708
+      },
+      {
+        "rule": "Incl: the patient has measurable disease according to recist version 1.1 (recist v1.1), assessed locally**descriptive",
+        "count": 93,
+        "pct": 3.8193018480492813
+      },
+      {
+        "rule": "Excl: the patient has any unresolved toxicities from a previous antitumor treatment greater than national cancer institute (nci) common terminology criteria for adverse event (ctcae) version 5.0 grade 1, except for alopecia or neurotoxicity grade 2 or less**descriptive",
+        "count": 88,
+        "pct": 3.6139630390143735
+      },
+      {
+        "rule": "Excl: the patient has received brachytherapy, such as implantation of radioactive seeds, within 60 days prior to the first dose of study drug**descriptive",
+        "count": 65,
+        "pct": 2.6694045174537986
+      },
+      {
+        "rule": "Excl: the patient has used strong inducers or inhibitors of cyp3a4 within 2 weeks before the first dose of study drug**descriptive",
+        "count": 60,
+        "pct": 2.4640657084188913
+      },
+      {
+        "rule": "Excl: the patient has received systemic small molecule targeted therapies, such as tyrosine kinase inhibitors, within 5 half-lives or 4 weeks (whichever is shorter) prior to the first dose of study drug**descriptive",
+        "count": 58,
+        "pct": 2.381930184804928
+      },
+      {
+        "rule": "Incl: the patient is able to provide written informed consent**descriptive",
+        "count": 56,
+        "pct": 2.299794661190965
+      },
+      {
+        "rule": "Excl: the patient has received palliative radiotherapy for bone metastasis or lesion within 2 weeks prior to the initiation of study drug**descriptive",
+        "count": 53,
+        "pct": 2.1765913757700206
+      },
+      {
+        "rule": "Excl: the patient has undergone surgery or an invasive procedure, such as a biopsy, within 60 days prior to the first dose of study drug or has an unhealed surgical incision**descriptive",
+        "count": 44,
+        "pct": 1.8069815195071868
+      },
+      {
+        "rule": "Excl: max left ventricular ejection fraction (%)**50.0",
+        "count": 38,
+        "pct": 1.5605749486652978
+      },
+      {
+        "rule": "Incl: the patient has histologically and/or cytologically documented metastatic colorectal adenocarcinoma**descriptive",
+        "count": 34,
+        "pct": 1.3963039014373715
+      },
+      {
+        "rule": "Excl: the patient has received systemic anti-neoplastic therapies or any investigational therapy within 4 weeks prior to the first dose of study drug, including chemotherapy, radical radiotherapy, hormonotherapy, biotherapy, and immunotherapy, except as described in exclusion criterion 18**descriptive",
+        "count": 25,
+        "pct": 1.0266940451745379
+      },
+      {
+        "rule": "Excl: max mean corrected qt interval using the fridericia method (milliseconds)**480.0",
+        "count": 20,
+        "pct": 0.8213552361396305
+      },
+      {
+        "rule": "Excl: the patient has had any other malignancy, except for non-melanoma skin cancer, in situ cervical cancer, or bladder cancer (tis and t1) that have been adequately treated during the 5 years prior to screening**descriptive",
+        "count": 17,
+        "pct": 0.6981519507186857
+      },
+      {
+        "rule": "Incl: the patient does not have measurable tumors that were treated with radiotherapy unless there has been documented progression of those lesions**descriptive",
+        "count": 15,
+        "pct": 0.6160164271047228
+      },
+      {
+        "rule": "Excl: the patient has an inability to take medication orally, dysphagia, or an active gastric ulcer resulting from previous surgery, such as gastric bypass, or a severe gastrointestinal disease, or any other condition that may affect absorption of the investigational product**descriptive",
+        "count": 12,
+        "pct": 0.49281314168377827
+      },
+      {
+        "rule": "Excl: the patient has any factors that increase the risk of qtc prolongation or arrhythmic events, such as hypokalemia, congenital long qt syndrome, family history of long qt syndrome, or unexplained sudden death under 40 years of age in a first-degree relative**descriptive",
+        "count": 9,
+        "pct": 0.36960985626283366
+      },
+      {
+        "rule": "Excl: the patient is taking concomitant medications with a known risk of causing qt prolongation and/or torsades de pointes**descriptive",
+        "count": 4,
+        "pct": 0.16427104722792607
+      }
+    ]
+  }
+}
